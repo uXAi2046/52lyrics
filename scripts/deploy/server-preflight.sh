@@ -29,6 +29,8 @@ version git
 version node
 version pnpm
 version corepack
+version npm
+version npx
 version flock
 version docker
 

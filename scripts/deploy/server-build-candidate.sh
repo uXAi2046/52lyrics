@@ -41,8 +41,10 @@ if command -v pnpm >/dev/null 2>&1; then
   pnpm_cmd=(pnpm)
 elif command -v corepack >/dev/null 2>&1; then
   pnpm_cmd=(corepack pnpm)
+elif command -v npx >/dev/null 2>&1; then
+  pnpm_cmd=(npx --yes pnpm@10.30.3)
 else
-  printf 'pnpm or corepack is required on the server.\n' >&2
+  printf 'pnpm, corepack, or npx is required on the server.\n' >&2
   exit 1
 fi
 
