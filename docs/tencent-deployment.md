@@ -56,6 +56,15 @@ bash scripts/deploy/server-preflight.sh
 
 本地从干净 Git 快照安装并构建的实测产物约 593 MiB、16,499 个文件；依赖约 276 MiB、源图片约 210 MiB。默认并发 8 的 macOS 构建进程最高常驻内存约 1.62 GB；将 `PRERENDER_CONCURRENCY=1` 后约为 1.20 GB，两份构建的 16,499 个文件逐字节相同。当前腾讯服务器为 2 GB 内存，预检时可用约 1.3 GiB，另有 8 GiB swap；隔离试构建应使用并发 1，并监测内存与线上 Caddy 状态。服务器还需要容纳旧版与新版发布目录，是否足够须以实际试构建为准。试构建通过前不切换生产容器。
 
+服务器当前已有 Node.js 22 与 Git，但还未安装 `pnpm`。若 `corepack` 可用，候选构建脚本会用它运行仓库固定的 pnpm 10.30.3。首次从 GitHub 获取源码后，在服务器上执行：
+
+```bash
+git clone --branch main --single-branch https://github.com/uXAi2046/52lyrics.git /srv/52lyrics/source
+bash /srv/52lyrics/source/scripts/deploy/server-build-candidate.sh <要发布的完整提交号>
+```
+
+候选脚本只在 `/srv/52lyrics/builds/git-<提交号>/` 安装依赖、检查并构建；产物审计通过后报告 `CANDIDATE_READY`。它不复制到发布目录、不重建 Caddy、不修改 `current`。通过候选构建、检查服务器资源和候选页面后，才进入发布切换。
+
 ## 构建与发布原则
 
 ```bash

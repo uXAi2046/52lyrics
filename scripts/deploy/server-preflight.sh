@@ -2,7 +2,7 @@
 # Read-only checks to run on the Tencent host before enabling server-side builds.
 set -u
 
-repo_url=${1:-git@github.com:uXAi2046/52lyrics.git}
+repo_url=${1:-https://github.com/uXAi2046/52lyrics.git}
 site_root=/srv/52lyrics
 
 section() { printf '\n== %s ==\n' "$1"; }
@@ -28,6 +28,8 @@ section 'Build tools'
 version git
 version node
 version pnpm
+version corepack
+version flock
 version docker
 
 section 'Current site'
