@@ -58,6 +58,7 @@ The application uses React 18, React Router 7 Framework Mode, TypeScript, Vite, 
 | `VERCEL_URL` | Automatic on Vercel previews | Preview origin fallback. |
 | `GA_MEASUREMENT_ID` | Optional | Google Analytics 4 measurement ID (e.g. `G-XXXXXXXXXX`). Enables GA4 scripts when set. |
 | `BAIDU_TONGJI_ID` | Optional | Baidu Tongji (百度统计) site ID. Enables Baidu tracking when set. |
+| `PRERENDER_CONCURRENCY` | Optional | Number of pages rendered concurrently during the build; defaults to 8. Use a smaller positive integer on a small build host. |
 
 Local builds default to `http://localhost:5173`.
 
