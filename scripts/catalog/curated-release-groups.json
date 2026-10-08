@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Tom Lehrer", "artistId": "359363a8-1dc7-40c9-9337-f5aa507000b6",
+    "releaseGroupId": "bfef11b6-1f2e-3a68-858c-429bde6b30fc", "title": "An Evening Wasted With Tom Lehrer",
+    "evidenceUrls": ["https://tomlehrersongs.com/albums/an-evening-wasted-with-tom-lehrer/"]
+  },
+  {
+    "artist": "Tom Lehrer", "artistId": "359363a8-1dc7-40c9-9337-f5aa507000b6",
+    "releaseGroupId": "9aa16327-2bb5-3cac-8930-72ee50f80399", "title": "Revisited",
+    "evidenceUrls": ["https://tomlehrersongs.com/albums/revisited/"]
+  },
+  {
+    "artist": "Tom Lehrer", "artistId": "359363a8-1dc7-40c9-9337-f5aa507000b6",
+    "releaseGroupId": "c472deda-5447-39ae-94fa-5f84fb0ccb5c", "title": "That Was the Year That Was",
+    "evidenceUrls": ["https://tomlehrersongs.com/albums/twtytw/"]
+  },
+  {
+    "artist": "Tom Lehrer", "artistId": "359363a8-1dc7-40c9-9337-f5aa507000b6",
+    "releaseGroupId": "f49a42b9-c9af-3fbb-bb3d-6c46f7c309af", "title": "The Remains of Tom Lehrer",
+    "evidenceUrls": ["https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer/", "https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer-disc-2/", "https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer-disc-3/"]
+  }
+]

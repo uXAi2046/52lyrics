@@ -1,30 +1,24 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tsconfigPaths from "vite-tsconfig-paths";
-import { traeBadgePlugin } from 'vite-plugin-trae-solo-badge';
+import { reactRouter } from '@react-router/dev/vite';
+import { defineConfig } from 'vite';
+import tsconfigPaths from 'vite-tsconfig-paths';
 
-// https://vite.dev/config/
+const siteUrl = process.env.SITE_URL
+  || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : '')
+  || (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : '')
+  || 'http://localhost:5173';
+
+const gaMeasurementId = process.env.GA_MEASUREMENT_ID || '';
+const baiduTongjiId = process.env.BAIDU_TONGJI_ID || '';
+
 export default defineConfig({
-  build: {
-    sourcemap: 'hidden',
+  define: {
+    __SITE_URL__: JSON.stringify(siteUrl.replace(/\/$/, '')),
+    __VERCEL_ANALYTICS_ENABLED__: JSON.stringify(process.env.VERCEL === '1'),
+    __GA_MEASUREMENT_ID__: JSON.stringify(gaMeasurementId),
+    __BAIDU_TONGJI_ID__: JSON.stringify(baiduTongjiId),
   },
-  plugins: [
-    react({
-      babel: {
-        plugins: [
-          'react-dev-locator',
-        ],
-      },
-    }),
-    traeBadgePlugin({
-      variant: 'dark',
-      position: 'bottom-right',
-      prodOnly: true,
-      clickable: true,
-      clickUrl: 'https://www.trae.ai/solo?showJoin=1',
-      autoTheme: true,
-      autoThemeTarget: '#root'
-    }), 
-    tsconfigPaths()
-  ],
-})
+  build: {
+    sourcemap: false,
+  },
+  plugins: [reactRouter(), tsconfigPaths()],
+});

@@ -1,0 +1,1113 @@
+{
+  "verifiedAt": "2026-09-28T12:20:36.172Z",
+  "preservedArtists": 501,
+  "addedArtists": 100,
+  "addedAlbums": 100,
+  "addedSongPages": 1236,
+  "totalArtistsAndWriters": 610,
+  "totalAlbumsAndSongbooks": 721,
+  "totalSongPages": 8392,
+  "distinctFullLyricWorks": 108,
+  "artists": [
+    {
+      "name": "LMFAO",
+      "path": "/artists/lmfao",
+      "albums": [
+        {
+          "title": "Party Rock",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/f0061c92-f373-4071-be43-1116fe628045"
+        }
+      ]
+    },
+    {
+      "name": "Alan Thicke",
+      "path": "/artists/alan-thicke",
+      "albums": [
+        {
+          "title": "Alan Thicke",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/7ca3652d-f1e6-4c5c-997e-b4632a8540a6"
+        }
+      ]
+    },
+    {
+      "name": "Deanna Durbin",
+      "path": "/artists/deanna-durbin",
+      "albums": [
+        {
+          "title": "The Ulitimate Collection",
+          "tracks": 24,
+          "source": "https://musicbrainz.org/release/7517af3d-3a4f-4807-a767-69e414a40255"
+        }
+      ]
+    },
+    {
+      "name": "Tenacious D",
+      "path": "/artists/tenacious-d",
+      "albums": [
+        {
+          "title": "Tenacious D",
+          "tracks": 21,
+          "source": "https://musicbrainz.org/release/32d54a77-5ff5-4dd8-bcee-cbf1f5ad4520"
+        }
+      ]
+    },
+    {
+      "name": "Tom Morello",
+      "path": "/artists/tom-morello",
+      "albums": [
+        {
+          "title": "The Atlas Underground",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/0348cdfa-56b0-4694-9377-22bc2b245715"
+        }
+      ]
+    },
+    {
+      "name": "Cypress Hill",
+      "path": "/artists/cypress-hill",
+      "albums": [
+        {
+          "title": "Cypress Hill",
+          "tracks": 16,
+          "source": "https://musicbrainz.org/release/1a87a750-7f3f-42f4-bb19-749bb0c27111"
+        }
+      ]
+    },
+    {
+      "name": "Jedward",
+      "path": "/artists/jedward",
+      "albums": [
+        {
+          "title": "Planet Jedward",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/53409cad-7aa6-4a24-ab8a-37bc47db1745"
+        }
+      ]
+    },
+    {
+      "name": "Thin Lizzy",
+      "path": "/artists/thin-lizzy",
+      "albums": [
+        {
+          "title": "Thin Lizzy",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/5919bbe2-383c-43f1-90ab-dab5bf6749a6"
+        }
+      ]
+    },
+    {
+      "name": "Gotye",
+      "path": "/artists/gotye",
+      "albums": [
+        {
+          "title": "Boardface",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/f9d5c31c-114c-4afc-884c-65d10ba9a42d"
+        }
+      ]
+    },
+    {
+      "name": "Kaiser Chiefs",
+      "path": "/artists/kaiser-chiefs",
+      "albums": [
+        {
+          "title": "Employment",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/0f265801-a45e-4890-9bcf-8bbd8c1733a1"
+        }
+      ]
+    },
+    {
+      "name": "Alessia Cara",
+      "path": "/artists/alessia-cara",
+      "albums": [
+        {
+          "title": "Know‐It‐All",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/3e06ba8f-07f1-4922-b16c-7758e8951db6"
+        }
+      ]
+    },
+    {
+      "name": "Santana",
+      "path": "/artists/santana",
+      "albums": [
+        {
+          "title": "Santana",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/531891db-b224-4a11-aef0-7e4a476f5566"
+        }
+      ]
+    },
+    {
+      "name": "Gordon Lightfoot",
+      "path": "/artists/gordon-lightfoot",
+      "albums": [
+        {
+          "title": "Lightfoot!",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/778787b6-d502-485a-b230-beb309329147"
+        }
+      ]
+    },
+    {
+      "name": "Journey",
+      "path": "/artists/journey",
+      "albums": [
+        {
+          "title": "Journey",
+          "tracks": 7,
+          "source": "https://musicbrainz.org/release/03f735c7-6c48-4a09-ab29-7d435ebbb764"
+        }
+      ]
+    },
+    {
+      "name": "Mumford & Sons",
+      "path": "/artists/mumford-and-sons",
+      "albums": [
+        {
+          "title": "Sigh No More",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/370024ec-219d-4524-b3a6-56749ae595c5"
+        }
+      ]
+    },
+    {
+      "name": "Dead Can Dance",
+      "path": "/artists/dead-can-dance",
+      "albums": [
+        {
+          "title": "Dead Can Dance",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/ced70589-aab2-4754-bd8a-14f776d3ac38"
+        }
+      ]
+    },
+    {
+      "name": "The Bangles",
+      "path": "/artists/the-bangles",
+      "albums": [
+        {
+          "title": "All Over the Place",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/7fca7d74-47f2-3fc2-aa70-860b5d015413"
+        }
+      ]
+    },
+    {
+      "name": "Supertramp",
+      "path": "/artists/supertramp",
+      "albums": [
+        {
+          "title": "Supertramp",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/0f9fae2d-8421-4364-a47d-bbc85bade0b1"
+        }
+      ]
+    },
+    {
+      "name": "Boston",
+      "path": "/artists/boston",
+      "albums": [
+        {
+          "title": "Boston",
+          "tracks": 8,
+          "source": "https://musicbrainz.org/release/1715a0ba-64e4-3e43-8252-e9890195ef52"
+        }
+      ]
+    },
+    {
+      "name": "Travis",
+      "path": "/artists/travis",
+      "albums": [
+        {
+          "title": "Good Feeling",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/682d55c3-b7a9-34cc-b8bc-00fbf1d9c7bf"
+        }
+      ]
+    },
+    {
+      "name": "3 Doors Down",
+      "path": "/artists/3-doors-down",
+      "albums": [
+        {
+          "title": "The Better Life",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/234bbb67-dc25-4114-90cc-b0a7fdc47fa0"
+        }
+      ]
+    },
+    {
+      "name": "The Byrds",
+      "path": "/artists/the-byrds",
+      "albums": [
+        {
+          "title": "Mr. Tambourine Man",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/8f36fc0e-9850-39ba-bc4b-325bb5b68fb6"
+        }
+      ]
+    },
+    {
+      "name": "Creed",
+      "path": "/artists/creed",
+      "albums": [
+        {
+          "title": "My Own Prison",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/910a5b2b-09e1-4bf3-8ea2-db1bcae1ab64"
+        }
+      ]
+    },
+    {
+      "name": "The Script",
+      "path": "/artists/the-script",
+      "albums": [
+        {
+          "title": "The Script",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/121fcbc9-e411-4b62-9f89-4476f16885d9"
+        }
+      ]
+    },
+    {
+      "name": "NSYNC",
+      "path": "/artists/nsync",
+      "albums": [
+        {
+          "title": "*NSYNC",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/f6010e25-d302-4848-9b07-53f715c363bb"
+        }
+      ]
+    },
+    {
+      "name": "OutKast",
+      "path": "/artists/outkast",
+      "albums": [
+        {
+          "title": "Southernplayalisticadillacmuzik",
+          "tracks": 17,
+          "source": "https://musicbrainz.org/release/524bddc5-ddbf-4676-9579-cf9d416cc9c4"
+        }
+      ]
+    },
+    {
+      "name": "Bananarama",
+      "path": "/artists/bananarama",
+      "albums": [
+        {
+          "title": "Deep Sea Skiving",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/110433ad-ffce-46f1-adcc-abd490a083d2"
+        }
+      ]
+    },
+    {
+      "name": "Bloc Party",
+      "path": "/artists/bloc-party",
+      "albums": [
+        {
+          "title": "Silent Alarm",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/4ff8cbbf-b0c2-432d-86e6-0692c368dc98"
+        }
+      ]
+    },
+    {
+      "name": "Delta Goodrem",
+      "path": "/artists/delta-goodrem",
+      "albums": [
+        {
+          "title": "Innocent Eyes",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/8689802d-613c-472a-baa4-7f6a65918a60"
+        }
+      ]
+    },
+    {
+      "name": "Type O Negative",
+      "path": "/artists/type-o-negative",
+      "albums": [
+        {
+          "title": "Slow, Deep and Hard",
+          "tracks": 7,
+          "source": "https://musicbrainz.org/release/024d27d2-a238-4168-a9a3-87a2b50696d1"
+        }
+      ]
+    },
+    {
+      "name": "Godsmack",
+      "path": "/artists/godsmack",
+      "albums": [
+        {
+          "title": "All Wound Up…",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/7a522ad0-2e25-4962-a185-3d6e5ef61831"
+        }
+      ]
+    },
+    {
+      "name": "Interpol",
+      "path": "/artists/interpol",
+      "albums": [
+        {
+          "title": "Turn On the Bright Lights",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/7448d3a3-452c-4f0a-a3f6-5abf58e5dab4"
+        }
+      ]
+    },
+    {
+      "name": "Sarah McLachlan",
+      "path": "/artists/sarah-mclachlan",
+      "albums": [
+        {
+          "title": "Touch",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/4d3625d9-75fc-43b8-8ecf-1aef06c51ba5"
+        }
+      ]
+    },
+    {
+      "name": "Napalm Death",
+      "path": "/artists/napalm-death",
+      "albums": [
+        {
+          "title": "Scum",
+          "tracks": 28,
+          "source": "https://musicbrainz.org/release/40da074a-13c3-4eec-8ace-8344b9b0cc9f"
+        }
+      ]
+    },
+    {
+      "name": "The Black Keys",
+      "path": "/artists/the-black-keys",
+      "albums": [
+        {
+          "title": "The Big Come Up",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/a2bcf290-56a4-4919-ba8b-6db8d48d7229"
+        }
+      ]
+    },
+    {
+      "name": "NOFX",
+      "path": "/artists/nofx",
+      "albums": [
+        {
+          "title": "Liberal Animation",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/bbcdf1e2-a5d6-4a4d-8c50-d92ef2ab55bb"
+        }
+      ]
+    },
+    {
+      "name": "Bauhaus",
+      "path": "/artists/bauhaus",
+      "albums": [
+        {
+          "title": "In the Flat Field",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/f6414752-f412-45f5-9494-e2fcc29bcb7f"
+        }
+      ]
+    },
+    {
+      "name": "UB40",
+      "path": "/artists/ub40",
+      "albums": [
+        {
+          "title": "Signing Off",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/b12fb862-dbf8-4dcf-92a6-23e7c8c0f1d1"
+        }
+      ]
+    },
+    {
+      "name": "Skillet",
+      "path": "/artists/skillet",
+      "albums": [
+        {
+          "title": "Skillet",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/b929915d-5b39-44d6-826c-cf3c72d95665"
+        }
+      ]
+    },
+    {
+      "name": "Kool & The Gang",
+      "path": "/artists/kool-and-the-gang",
+      "albums": [
+        {
+          "title": "Kool and the Gang",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/fc6d720d-1dca-4f16-ac8a-2b9d3f3fdf9d"
+        }
+      ]
+    },
+    {
+      "name": "Manic Street Preachers",
+      "path": "/artists/manic-street-preachers",
+      "albums": [
+        {
+          "title": "Generation Terrorists",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/0da22282-ed68-4653-a43f-9e07f13fc1b3"
+        }
+      ]
+    },
+    {
+      "name": "Roxy Music",
+      "path": "/artists/roxy-music",
+      "albums": [
+        {
+          "title": "Roxy Music",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/b06b5b1f-e693-4a84-b2b0-d692229bb496"
+        }
+      ]
+    },
+    {
+      "name": "Yeah Yeah Yeahs",
+      "path": "/artists/yeah-yeah-yeahs",
+      "albums": [
+        {
+          "title": "Fever to Tell",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/43896770-8d09-3a04-8dcc-e4754f2963ac"
+        }
+      ]
+    },
+    {
+      "name": "Kasabian",
+      "path": "/artists/kasabian",
+      "albums": [
+        {
+          "title": "Kasabian",
+          "tracks": 14,
+          "source": "https://musicbrainz.org/release/538ad060-34b2-4307-b983-c1d09f44d36d"
+        }
+      ]
+    },
+    {
+      "name": "Girls Aloud",
+      "path": "/artists/girls-aloud",
+      "albums": [
+        {
+          "title": "Sound of the Underground",
+          "tracks": 15,
+          "source": "https://musicbrainz.org/release/64c76601-f315-40e9-8321-adce7857ac8b"
+        }
+      ]
+    },
+    {
+      "name": "Katrina and the Waves",
+      "path": "/artists/katrina-and-the-waves",
+      "albums": [
+        {
+          "title": "Shock Horror!",
+          "tracks": 8,
+          "source": "https://musicbrainz.org/release/44b15f70-af05-4e2b-bf76-ce727ce1bbc6"
+        }
+      ]
+    },
+    {
+      "name": "The Stone Roses",
+      "path": "/artists/the-stone-roses",
+      "albums": [
+        {
+          "title": "The Stone Roses",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/484762fd-b3e6-44e0-b1b3-0cb4859ea1f5"
+        }
+      ]
+    },
+    {
+      "name": "The Verve",
+      "path": "/artists/the-verve",
+      "albums": [
+        {
+          "title": "A Storm in Heaven",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/931210c6-c0b3-3e58-a439-7a3f52a2b887"
+        }
+      ]
+    },
+    {
+      "name": "Incubus",
+      "path": "/artists/incubus",
+      "albums": [
+        {
+          "title": "Fungus Amongus",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/2b9f1375-7f1d-48ce-9075-7655397de4ec"
+        }
+      ]
+    },
+    {
+      "name": "Michelle Creber",
+      "path": "/artists/michelle-creber",
+      "albums": [
+        {
+          "title": "Timeless (Songs of a Century)",
+          "tracks": 16,
+          "source": "https://musicbrainz.org/release/35a9be47-2298-4ef1-ba6f-7b2942cad55d"
+        }
+      ]
+    },
+    {
+      "name": "A Perfect Circle",
+      "path": "/artists/a-perfect-circle",
+      "albums": [
+        {
+          "title": "Mer de noms",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/0679e928-efae-4902-bb59-483642200245"
+        }
+      ]
+    },
+    {
+      "name": "New Kids on the Block",
+      "path": "/artists/new-kids-on-the-block",
+      "albums": [
+        {
+          "title": "New Kids on the Block",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/b214c431-5629-4b3d-aa11-41af5b741134"
+        }
+      ]
+    },
+    {
+      "name": "Chris de Burgh",
+      "path": "/artists/chris-de-burgh",
+      "albums": [
+        {
+          "title": "Far Beyond These Castle Walls",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/3faaff94-46a7-401b-b904-8b6cf8e027e8"
+        }
+      ]
+    },
+    {
+      "name": "Porcupine Tree",
+      "path": "/artists/porcupine-tree",
+      "albums": [
+        {
+          "title": "The Nostalgia Factory",
+          "tracks": 18,
+          "source": "https://musicbrainz.org/release/48f04012-7fa4-425e-b000-f121e1266e96"
+        }
+      ]
+    },
+    {
+      "name": "Dio",
+      "path": "/artists/dio",
+      "albums": [
+        {
+          "title": "Holy Diver",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/06c0460a-d940-4f19-912d-0dd767829c27"
+        }
+      ]
+    },
+    {
+      "name": "Anathema",
+      "path": "/artists/anathema",
+      "albums": [
+        {
+          "title": "Serenades",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/9d65112d-393a-411c-984e-469579d8633c"
+        }
+      ]
+    },
+    {
+      "name": "Slade",
+      "path": "/artists/slade",
+      "albums": [
+        {
+          "title": "Beginnings",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/4de49178-8965-44db-b50e-e70e26f84b62"
+        }
+      ]
+    },
+    {
+      "name": "Run-DMC",
+      "path": "/artists/run-dmc",
+      "albums": [
+        {
+          "title": "Run‐D.M.C.",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/169b1387-3a0d-3021-aa37-6842a57aaba4"
+        }
+      ]
+    },
+    {
+      "name": "Billy Talent",
+      "path": "/artists/billy-talent",
+      "albums": [
+        {
+          "title": "Watoosh!",
+          "tracks": 17,
+          "source": "https://musicbrainz.org/release/57c41b43-9e33-42ac-b4dd-139f4dc8b9e1"
+        }
+      ]
+    },
+    {
+      "name": "Pentatonix",
+      "path": "/artists/pentatonix",
+      "albums": [
+        {
+          "title": "PTX, Volume 1 & 2",
+          "tracks": 19,
+          "source": "https://musicbrainz.org/release/48536c7d-f402-47d7-92e9-e76125a392cf"
+        }
+      ]
+    },
+    {
+      "name": "Breaking Benjamin",
+      "path": "/artists/breaking-benjamin",
+      "albums": [
+        {
+          "title": "Saturate",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/91d85c0e-319f-45c4-a863-026ef06774fd"
+        }
+      ]
+    },
+    {
+      "name": "Rory Gallagher",
+      "path": "/artists/rory-gallagher",
+      "albums": [
+        {
+          "title": "Rory Gallagher",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/9b44ed69-04f9-4b7e-8e93-a7a2fc261922"
+        }
+      ]
+    },
+    {
+      "name": "TLC",
+      "path": "/artists/tlc",
+      "albums": [
+        {
+          "title": "Ooooooohhh…On the TLC Tip",
+          "tracks": 15,
+          "source": "https://musicbrainz.org/release/44b4a222-f335-3121-8433-5e1948a09ce4"
+        }
+      ]
+    },
+    {
+      "name": "D12",
+      "path": "/artists/d12",
+      "albums": [
+        {
+          "title": "Devil’s Night",
+          "tracks": 19,
+          "source": "https://musicbrainz.org/release/8ff4dd70-db49-31ca-9fea-265fe92ef939"
+        }
+      ]
+    },
+    {
+      "name": "Savage Garden",
+      "path": "/artists/savage-garden",
+      "albums": [
+        {
+          "title": "Savage Garden",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/5a50cf6d-9f7f-4c7c-9ee5-2dff60484b07"
+        }
+      ]
+    },
+    {
+      "name": "MGMT",
+      "path": "/artists/mgmt",
+      "albums": [
+        {
+          "title": "Oracular Spectacular",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/cd407e30-202e-4a6d-b145-08bd00ab0159"
+        }
+      ]
+    },
+    {
+      "name": "Blue Öyster Cult",
+      "path": "/artists/blue-oyster-cult",
+      "albums": [
+        {
+          "title": "Blue Öyster Cult",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/0ffef3ae-22ae-4d57-a325-13d1bb23cc45"
+        }
+      ]
+    },
+    {
+      "name": "The Chemical Brothers",
+      "path": "/artists/the-chemical-brothers",
+      "albums": [
+        {
+          "title": "Exit Planet Dust",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/118deeaa-f6ac-4991-8e26-7751605d8d93"
+        }
+      ]
+    },
+    {
+      "name": "Dami Im",
+      "path": "/artists/dami-im",
+      "albums": [
+        {
+          "title": "Dream",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/9a3d92b7-af19-4140-85f8-5991ae5c46a2"
+        }
+      ]
+    },
+    {
+      "name": "Clean Bandit",
+      "path": "/artists/clean-bandit",
+      "albums": [
+        {
+          "title": "New Eyes",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/2ce5a108-3c12-4427-81dd-b4b785faef90"
+        }
+      ]
+    },
+    {
+      "name": "Dana Rosemary Scallon",
+      "path": "/artists/dana-rosemary-scallon",
+      "albums": [
+        {
+          "title": "All Kinds of Everything",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/a2d0e6dc-a1ee-4718-ba54-76cf195261c3"
+        }
+      ]
+    },
+    {
+      "name": "K’naan",
+      "path": "/artists/k-naan",
+      "albums": [
+        {
+          "title": "The Dusty Foot Philosopher",
+          "tracks": 18,
+          "source": "https://musicbrainz.org/release/c6329e2c-d1d5-42e0-9338-e69fc36ab1d6"
+        }
+      ]
+    },
+    {
+      "name": "Testament",
+      "path": "/artists/testament",
+      "albums": [
+        {
+          "title": "The Legacy",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/3fcf16d7-7894-4f74-8374-9f6b287c03b4"
+        }
+      ]
+    },
+    {
+      "name": "Eimear Quinn",
+      "path": "/artists/eimear-quinn",
+      "albums": [
+        {
+          "title": "through the lens of a tear",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/69707e15-bcfb-4446-9211-113fb29f5319"
+        }
+      ]
+    },
+    {
+      "name": "Morbid Angel",
+      "path": "/artists/morbid-angel",
+      "albums": [
+        {
+          "title": "Altars of Madness",
+          "tracks": 9,
+          "source": "https://musicbrainz.org/release/08ca0679-44c1-302c-b7c4-577bd3e10ef5"
+        }
+      ]
+    },
+    {
+      "name": "Tones and I",
+      "path": "/artists/tones-and-i",
+      "albums": [
+        {
+          "title": "Welcome to the Madhouse",
+          "tracks": 20,
+          "source": "https://musicbrainz.org/release/093790d4-22dd-4994-bf2e-cd339c50ceb6"
+        }
+      ]
+    },
+    {
+      "name": "Atomic Kitten",
+      "path": "/artists/atomic-kitten",
+      "albums": [
+        {
+          "title": "Right Now",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/43bd86e5-e954-4b66-b70b-4e0a6a855771"
+        }
+      ]
+    },
+    {
+      "name": "The Band",
+      "path": "/artists/the-band",
+      "albums": [
+        {
+          "title": "Music From Big Pink",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/37d028b3-eea6-495c-8c23-e2c77f4f2dad"
+        }
+      ]
+    },
+    {
+      "name": "Lenka",
+      "path": "/artists/lenka",
+      "albums": [
+        {
+          "title": "Lenka",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/3b9ddbae-3b5f-45c1-b033-6879e61c23e5"
+        }
+      ]
+    },
+    {
+      "name": "Bloodhound Gang",
+      "path": "/artists/bloodhound-gang",
+      "albums": [
+        {
+          "title": "Use Your Fingers",
+          "tracks": 20,
+          "source": "https://musicbrainz.org/release/a6bc2793-8e10-3c90-abe7-831b74023078"
+        }
+      ]
+    },
+    {
+      "name": "Mastodon",
+      "path": "/artists/mastodon",
+      "albums": [
+        {
+          "title": "Remission",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/35ecfce3-cae6-337c-9d86-eda5c2e3d99b"
+        }
+      ]
+    },
+    {
+      "name": "k.d. lang",
+      "path": "/artists/k-d-lang",
+      "albums": [
+        {
+          "title": "Shadowland",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/1bed82e7-c949-4945-b1d4-ccf49d45b76c"
+        }
+      ]
+    },
+    {
+      "name": "T. Rex",
+      "path": "/artists/t-rex",
+      "albums": [
+        {
+          "title": "My People Were Fair and Had Sky in Their Hair… But Now They’re Content to Wear Stars on Their Brows",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/1023b418-a0ab-4094-81e6-a2e1efc0e9d8"
+        }
+      ]
+    },
+    {
+      "name": "Echo & the Bunnymen",
+      "path": "/artists/echo-and-the-bunnymen",
+      "albums": [
+        {
+          "title": "Crocodiles",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/eb3fd349-1731-46d1-a9ff-60e07ea00330"
+        }
+      ]
+    },
+    {
+      "name": "Carcass",
+      "path": "/artists/carcass",
+      "albums": [
+        {
+          "title": "Reek of Putrefaction",
+          "tracks": 22,
+          "source": "https://musicbrainz.org/release/92d7bb58-0640-36b2-a7d8-cb3d7bd07ff6"
+        }
+      ]
+    },
+    {
+      "name": "Wings",
+      "path": "/artists/wings",
+      "albums": [
+        {
+          "title": "Wild Life",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/11401255-5519-4859-9dd8-869927ebff06"
+        }
+      ]
+    },
+    {
+      "name": "The Pretenders",
+      "path": "/artists/the-pretenders",
+      "albums": [
+        {
+          "title": "Pretenders",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/1d4f22a9-a6e6-36f4-8ce5-95121af8a6ab"
+        }
+      ]
+    },
+    {
+      "name": "Fugees",
+      "path": "/artists/fugees",
+      "albums": [
+        {
+          "title": "Blunted on Reality",
+          "tracks": 19,
+          "source": "https://musicbrainz.org/release/34ec530f-cf24-4eb5-954a-c186ab7b32e2"
+        }
+      ]
+    },
+    {
+      "name": "Cocteau Twins",
+      "path": "/artists/cocteau-twins",
+      "albums": [
+        {
+          "title": "Garlands",
+          "tracks": 8,
+          "source": "https://musicbrainz.org/release/fa26e26a-2aa4-4767-a019-e0163606b3e5"
+        }
+      ]
+    },
+    {
+      "name": "Migos",
+      "path": "/artists/migos",
+      "albums": [
+        {
+          "title": "Yung Rich Nation",
+          "tracks": 15,
+          "source": "https://musicbrainz.org/release/0c032124-8c2d-45b1-8433-50f020afb3f5"
+        }
+      ]
+    },
+    {
+      "name": "Lady A",
+      "path": "/artists/lady-a",
+      "albums": [
+        {
+          "title": "Lady Antebellum",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/cee460c0-4987-4708-a429-412a0324b159"
+        }
+      ]
+    },
+    {
+      "name": "Helen Reddy",
+      "path": "/artists/helen-reddy",
+      "albums": [
+        {
+          "title": "I Don't Know How to Love Him",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/6d45a582-ee44-4c7a-be10-df08e4f6019d"
+        }
+      ]
+    },
+    {
+      "name": "Feist",
+      "path": "/artists/feist",
+      "albums": [
+        {
+          "title": "Monarch: Lay Your Jewelled Head Down",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/bca984aa-4ed0-4fd3-8754-ae24bb865c2f"
+        }
+      ]
+    },
+    {
+      "name": "Hole",
+      "path": "/artists/hole",
+      "albums": [
+        {
+          "title": "Pretty on the Inside",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/1feb6a4c-617c-3253-844e-4e30aed117af"
+        }
+      ]
+    },
+    {
+      "name": "Machine Head",
+      "path": "/artists/machine-head",
+      "albums": [
+        {
+          "title": "Burn My Eyes",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/9a9de4bc-e14d-4f44-89ea-98a00d951209"
+        }
+      ]
+    },
+    {
+      "name": "Kamelot",
+      "path": "/artists/kamelot",
+      "albums": [
+        {
+          "title": "Eternity",
+          "tracks": 11,
+          "source": "https://musicbrainz.org/release/b436d450-fc36-3572-851b-6f61b8905d6c"
+        }
+      ]
+    },
+    {
+      "name": "Black Veil Brides",
+      "path": "/artists/black-veil-brides",
+      "albums": [
+        {
+          "title": "We Stitch These Wounds",
+          "tracks": 13,
+          "source": "https://musicbrainz.org/release/93ec657e-220a-4d21-a4c2-dc1028221ed5"
+        }
+      ]
+    },
+    {
+      "name": "Traveling Wilburys",
+      "path": "/artists/traveling-wilburys",
+      "albums": [
+        {
+          "title": "Traveling Wilburys, Vol. 1",
+          "tracks": 10,
+          "source": "https://musicbrainz.org/release/00193052-36a8-4746-a3b8-63065177f618"
+        }
+      ]
+    },
+    {
+      "name": "Spandau Ballet",
+      "path": "/artists/spandau-ballet",
+      "albums": [
+        {
+          "title": "Journeys to Glory",
+          "tracks": 8,
+          "source": "https://musicbrainz.org/release/974f0e38-e9b8-48a3-a2dc-2ae9c6627121"
+        }
+      ]
+    },
+    {
+      "name": "Róisín Murphy",
+      "path": "/artists/roisin-murphy",
+      "albums": [
+        {
+          "title": "Ruby Blue",
+          "tracks": 12,
+          "source": "https://musicbrainz.org/release/431fcb47-cc06-478a-8351-9c6320135b16"
+        }
+      ]
+    }
+  ]
+}

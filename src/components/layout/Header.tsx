@@ -1,46 +1,79 @@
-import React from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { Music, Search } from 'lucide-react';
+import { useEffect, useState } from 'react';
+import { Bookmark, Menu, Search, X } from 'lucide-react';
+import { Link, NavLink, useLocation } from 'react-router';
+import GlobalSearch from '../search/GlobalSearch';
 
-const Header = () => {
+const NAV_ITEMS = [
+  { to: '/', label: 'Home', end: true },
+  { to: '/discover', label: 'Discover' },
+  { to: '/artists', label: 'Artists' },
+  { to: '/saved', label: 'Saved' },
+];
+
+export default function Header() {
+  const [mobileSearch, setMobileSearch] = useState(false);
+  const [mobileMenu, setMobileMenu] = useState(false);
   const location = useLocation();
 
-  const isActive = (path: string) => {
-    return location.pathname === path ? 'text-white' : 'text-gray-400 hover:text-white';
-  };
+  useEffect(() => {
+    setMobileSearch(false);
+    setMobileMenu(false);
+  }, [location.pathname, location.search]);
+
+  useEffect(() => {
+    document.body.classList.toggle('overlay-open', mobileSearch);
+    return () => document.body.classList.remove('overlay-open');
+  }, [mobileSearch]);
 
   return (
-    <header className="bg-transparent py-6">
-      <div className="container mx-auto px-4 flex items-center justify-between">
-        {/* Logo */}
-        <Link to="/" className="flex items-center gap-2 group">
-          <div className="bg-primary-500 rounded-lg p-1.5 group-hover:bg-primary-600 transition-colors">
-            <Music className="w-5 h-5 text-white" fill="currentColor" />
-          </div>
-          <span className="text-xl font-bold text-white">52lyrics</span>
-        </Link>
+    <>
+      <header className="site-header">
+        <div className="shell site-header__inner">
+          <Link to="/" className="wordmark" aria-label="52lyrics home">
+            <span className="wordmark__number">52</span>
+            <span className="wordmark__name">lyrics</span>
+          </Link>
 
-        {/* Search Bar */}
-        <div className="flex-1 max-w-xl mx-8 hidden md:block">
-          <div className="relative group">
-            <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400 group-focus-within:text-primary-500 transition-colors" />
-            <input
-              type="text"
-              placeholder="Search for songs, artists, or albums..."
-              className="w-full bg-surface text-white pl-10 pr-4 py-2.5 rounded-lg border border-transparent focus:border-primary-500 focus:outline-none focus:ring-1 focus:ring-primary-500 placeholder:text-gray-500 transition-all"
-            />
+          <nav className="desktop-nav" aria-label="Primary navigation">
+            {NAV_ITEMS.map((item) => (
+              <NavLink key={item.to} to={item.to} end={item.end} className={({ isActive }) => isActive ? 'is-active' : ''}>
+                {item.label}
+              </NavLink>
+            ))}
+          </nav>
+
+          <div className="site-header__search">
+            <GlobalSearch />
+          </div>
+
+          <div className="site-header__mobile-actions">
+            <Link to="/saved" aria-label="Open saved library"><Bookmark aria-hidden="true" /></Link>
+            <button type="button" onClick={() => setMobileSearch(true)} aria-label="Open search"><Search aria-hidden="true" /></button>
+            <button type="button" onClick={() => setMobileMenu((value) => !value)} aria-expanded={mobileMenu} aria-label="Toggle navigation">
+              {mobileMenu ? <X aria-hidden="true" /> : <Menu aria-hidden="true" />}
+            </button>
           </div>
         </div>
 
-        {/* Navigation */}
-        <nav className="flex items-center gap-6 text-sm font-medium">
-          <Link to="/" className={isActive('/')}>Home</Link>
-          <Link to="/artists" className={isActive('/artists')}>Browse Artists</Link>
-          <Link to="/top-charts" className={isActive('/top-charts')}>Top Charts</Link>
-        </nav>
-      </div>
-    </header>
-  );
-};
+        {mobileMenu && (
+          <nav className="mobile-nav shell" aria-label="Mobile navigation">
+            {NAV_ITEMS.map((item) => (
+              <NavLink key={item.to} to={item.to} end={item.end}>{item.label}</NavLink>
+            ))}
+          </nav>
+        )}
+      </header>
 
-export default Header;
+      {mobileSearch && (
+        <div className="mobile-search-overlay" role="dialog" aria-modal="true" aria-label="Search 52lyrics">
+          <div className="mobile-search-overlay__top">
+            <span className="eyebrow">Find your next line</span>
+            <button type="button" onClick={() => setMobileSearch(false)} aria-label="Close search"><X aria-hidden="true" /></button>
+          </div>
+          <GlobalSearch autoFocus variant="mobile" onNavigate={() => setMobileSearch(false)} />
+          <p>Search the catalog by song, artist, album, theme, or mood.</p>
+        </div>
+      )}
+    </>
+  );
+}

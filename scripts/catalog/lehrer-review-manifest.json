@@ -1,0 +1,910 @@
+[
+  {
+    "title": "Be Prepared", "sourceSlug": "be-prepared", "pdfSha256": "29946335c8ce6a2e635b429404ec50c8fe2cc85f14a1c1dfeb4a214076d9f427",
+    "pages": [{ "page": 0, "start": 2, "end": 34 }], "stanzaSizes": [6, 10, 6, 10], "corrections": {},
+    "description": "A scouting motto becomes a comic catalogue of decidedly unscoutlike advice.",
+    "about": "The narrator turns an earnest march into a portrait of youthful misbehavior. The contradictions are the joke: this is satirical character writing, not practical advice. This edition follows the four printed stanzas of the author's lyric sheet.",
+    "themes": ["Satire", "Institutions"], "moods": ["Wry", "Mischievous"], "note": "All four printed stanzas retained."
+  },
+  {
+    "title": "The Hunting Song", "sourceSlug": "the-hunting-song", "pdfSha256": "20068f50b619c5867df0576961b69d962cf5b3cb7842cab36f3996ad027b35be",
+    "pages": [{ "page": 0, "start": 2, "end": 28 }], "stanzaSizes": [6, 6, 6, 8], "corrections": {},
+    "description": "An unreliable hunter proudly recounts a disastrous day in the woods.",
+    "about": "Repeated tallies and misplaced self-confidence drive this dark comic monologue. Its absurd narrator is not a model for real hunting behavior. The complete four-stanza text follows the author's published sheet.",
+    "themes": ["Satire", "Dark comedy"], "moods": ["Wry", "Theatrical"], "note": "All four printed stanzas retained."
+  },
+  {
+    "title": "I Hold Your Hand in Mine", "sourceSlug": "i-hold-your-hand-in-mine", "pdfSha256": "0c990ebc2e08c9cff11d16c88dd99177eb2e20b0dfc67504603d567fdcd0cc4d",
+    "pages": [{ "page": 0, "start": 2, "end": 18 }], "stanzaSizes": [16], "corrections": {},
+    "description": "The language of a sentimental love song conceals a macabre punchline.",
+    "about": "Lehrer takes a familiar romantic expression literally, letting a gentle address turn into an unsettling fictional confession. The sixteen-line lyric is complete. A separate printed reference to another writer's parody is not part of the lyric and is excluded.",
+    "themes": ["Satire", "Dark comedy", "Romance"], "moods": ["Wry", "Macabre"], "note": "Only Lehrer's sixteen lyric lines are included; the footer advertising a separate Dr. H. Paul Shuch parody is excluded."
+  },
+  {
+    "title": "The Old Dope Peddler", "sourceSlug": "the-old-dope-peddler", "pdfSha256": "09174552f2af0889ec0daba4c96fc75a55a6160cd779ce5599da0398bc88985a",
+    "pages": [{ "page": 0, "start": 2, "end": 18 }], "stanzaSizes": [4, 4, 4, 4], "corrections": {},
+    "description": "A seemingly kindly neighborhood portrait turns into a satire of predatory commerce.",
+    "about": "Cheerful phrasing clashes with the subject of the song, exposing the narrator's disturbing idea of doing good. This is a fictional satirical portrait, not an endorsement of drug sales. The four printed quatrains are reproduced in full.",
+    "themes": ["Satire", "Dark comedy"], "moods": ["Wry"], "note": "All four printed quatrains retained."
+  },
+  {
+    "title": "Fight Fiercely, Harvard", "sourceSlug": "fight-fiercely-harvard", "pdfSha256": "75fa5ec48f24c10438f8b63f9b02bb97d596faa63ea8189b5d8041ab7aa98bfd",
+    "pages": [{ "page": 0, "start": 2, "end": 26 }], "stanzaSizes": [10, 14],
+    "corrections": { "Nonetheless we have the will. ·": "Nonetheless we have the will.", "(A nd d9 fight fiercely!)": "(And do fight fiercely!)" },
+    "description": "A fight song whose determination keeps giving way to exaggerated politeness.",
+    "about": "Tea invitations and timid asides undermine the usual rhetoric of sporting rivalry. Both printed stanzas, including their parenthetical interjections, are included. The wording follows the lyric sheet rather than any recording's spoken introduction.",
+    "themes": ["Satire", "College", "Sport"], "moods": ["Playful", "Wry"], "note": "Corrected two OCR artifacts against the rendered sheet; all parenthetical interjections retained."
+  },
+  {
+    "title": "The Wild West Is Where I Want to Be", "sourceSlug": "the-wild-west-is-where-i-want-to-be", "pdfSha256": "373b079f1700481adc9c14cd540e91c0af6923befc102561b1882783fe414ffc",
+    "pages": [{ "page": 0, "start": 2, "end": 28 }], "stanzaSizes": [6, 6, 8, 6],
+    "corrections": { "How I long to see the mush": "How I long to see the mush-" },
+    "description": "The open range becomes a landscape of atomic-age anxieties.",
+    "about": "Cowboy imagery collides with radioactive air, security clearances, and desert weapons tests. A split-word rhyme turns the pastoral scene into a nuclear joke. The four printed stanzas and the deliberate mush-/Room line break are preserved.",
+    "themes": ["Satire", "Cold War", "Landscape"], "moods": ["Wry", "Uneasy"], "note": "Restored the printed hyphen in mush-/Room; the split is intentional, not a transcription error."
+  },
+  {
+    "title": "The Wiener Schnitzel Waltz", "sourceSlug": "the-wiener-schnitzel-waltz", "pdfSha256": "2d43270ffc5072585c001fc06f2ec67af9c32a0986b215a5a46c488bf15aa5f6",
+    "pages": [{ "page": 0, "start": 2, "end": 26 }], "stanzaSizes": [8, 8, 8],
+    "corrections": { "Your hair wore some roses ( or perhaps they were peonies),": "Your hair wore some roses (or perhaps they were peonies),", "The music was lovely and quite Rudolf Primly. (*)": "The music was lovely and quite Rudolf Frimly.", "And we both turned qujte green": "And we both turned quite green" },
+    "description": "An elegant ballroom memory unravels into a sequence of comic indignities.",
+    "about": "The song decorates its clumsy romantic recollections with Viennese atmosphere and deliberately elaborate rhymes. This is the main three-stanza edition. The source also prints a London Tomfoolery substitution in a footnote; that alternate couplet is not silently mixed into the main text.",
+    "themes": ["Satire", "Romance", "Dance"], "moods": ["Playful", "Theatrical"], "note": "Corrected Frimly and quite against the image; removed the footnote marker and excluded the separately identified London replacement couplet."
+  },
+  {
+    "title": "Bright College Days", "sourceSlug": "bright-college-days", "pdfSha256": "2247472a9d989e9e6add99b940af2e39958f125a4ec32069ba8db210653ff78e",
+    "pages": [{ "page": 0, "start": 2, "end": 34 }], "stanzaSizes": [5, 3, 12, 4, 5, 3],
+    "corrections": { "(*) To the tables down at Mory's (wherever that may be)": "To the tables down at Mory's (wherever that may be)" },
+    "description": "A college reunion toast slips from fond memories into a sharply comic farewell.",
+    "about": "Nostalgic tributes to campus life give way to lost games, borrowed papers, and an uncertain future. This complete edition retains the printed glasses-raising stage direction. The source credits the tune of The Whiffenpoof Song for one stanza; this page reproduces words only, with the musical footnote available in the linked sheet.",
+    "themes": ["Satire", "College", "Nostalgia"], "moods": ["Wry", "Playful"], "note": "All six printed blocks retained; musical footnote kept out of the lyric body."
+  },
+  {
+    "title": "A Christmas Carol", "sourceSlug": "a-christmas-carol", "pdfSha256": "5838b86b244cc63b47e9c13a2582ae46da2fc9a97e4f25374da5097a9d9188af",
+    "pages": [{ "page": 0, "start": 2, "end": 32 }], "stanzaSizes": [4, 4, 4, 4, 4, 6, 4],
+    "corrections": { "Relations, sparing no expense, 'II": "Relations, sparing no expense, 'll" },
+    "description": "A festive shopping list turns familiar seasonal goodwill into a satire of holiday commerce.",
+    "about": "Family gifts, advertising, and compulsory cheer crowd this irreverent carol. Its deliberately split rhymes are part of the joke, including the isolated contraction before utensil. All seven printed stanzas are included, with the source's spelling and playful carol references preserved.",
+    "themes": ["Satire", "Christmas", "Consumerism"], "moods": ["Wry", "Festive"], "note": "Corrected OCR capitals in the printed contraction 'll; retained the source spelling wil."
+  },
+  {
+    "title": "Clementine", "sourceSlug": "clementine", "pdfSha256": "4b5c347a0f788718d27ad37580453a79fe0109c7d5733fa7b98ada76565bf1cf",
+    "pages": [{ "page": 0, "start": 3, "end": 15 }, { "page": 0, "start": 16, "end": 26 }, { "page": 0, "start": 27, "end": 33 }, { "page": 0, "start": 34, "end": 52 }], "stanzaSizes": [12, 10, 6, 18],
+    "sectionLabels": ["I. Cole Porter", "II. Mozart", "III. Bop", "IV. Gilbert and Sullivan"],
+    "corrections": { "She was so pretty, ,": "She was so pretty,", "Drove those ducklings to the water --- yep-roe!": "Drove those ducklings to the water --- yep-roc!", "Stubbed her toe upon a splinter -- kloo-ga-mop! -- ooh -ooh!": "Stubbed her toe upon a splinter -- kloo-ga-mop! -- ooh - ooh!", "Fell into the foamy brine, ·": "Fell into the foamy brine,", "Must surely have turned in its crypt, yes, yes, yes yes!": "Must surely have turned in its crypt, yes, yes, yes, yes!" },
+    "description": "One familiar ballad is retold through four contrasting musical caricatures.",
+    "about": "The author's sheet labels four sections: Cole Porter, Mozart, Bop, and Gilbert and Sullivan. Those labels describe the song's parodic framing, not additional lyric authors. This text preserves all four sections, the deliberately mixed Italian and English, and the closing spoken question; no musical score is reproduced.",
+    "themes": ["Satire", "Songwriting", "Storytelling"], "moods": ["Theatrical", "Playful"], "note": "All four numbered sections preserved with their source headings; corrected OCR punctuation and yep-roc against the page image."
+  },
+  {
+    "title": "The Elements", "sourceSlug": "the-elements", "pdfSha256": "47f7d82247a282c17e5336d6e842890493f4b47d46d42437657db5b6835d9b13",
+    "pages": [{ "page": 0, "start": 4, "end": 30 }], "stanzaSizes": [4, 4, 4, 4, 4, 4, 2],
+    "corrections": { "These are the only ones o_f which the news has come to Ha'vard,": "These are the only ones of which the news has come to Ha'vard," },
+    "description": "A rapid catalogue of chemical elements ends with a deliberately provisional rhyme.",
+    "about": "Chemical names supply the rhythm of this historical list song. The sheet credits Arthur Sullivan's Major General tune, but only Lehrer's words are reproduced here. This is the complete main lyric, not a current periodic table: the separate Aristotle joke in the footer and later supplements are not merged into it.",
+    "themes": ["Science", "Chemistry", "Wordplay"], "moods": ["Playful", "Brisk"], "note": "Six quatrains and the final couplet retained; excluded the separately labeled Aristotle footnote."
+  },
+  {
+    "title": "Oedipus Rex", "sourceSlug": "oedipus-rex", "pdfSha256": "69bb08a5ec46b93ae9dbb9f08a05617658152c8a801252c9b0030ab754908860",
+    "pages": [{ "page": 0, "start": 2, "end": 34 }], "stanzaSizes": [8, 4, 4, 5, 4, 7],
+    "corrections": { "And you may end up like Oedipus .,--": "And you may end up like Oedipus ---", "Than end up Ii ke old Oedipus Rex.": "Than end up like old Oedipus Rex." },
+    "description": "A cheerful tribute to motherhood swerves into a comic retelling of Greek tragedy.",
+    "about": "The narrator's exaggerated moral lesson collides with the disastrous family relationships of Oedipus. The song uses dark humor, incest references, and a deliberately distorted final rhyme. All six printed blocks are retained in this author-sheet edition.",
+    "themes": ["Satire", "Mythology", "Wordplay"], "moods": ["Wry", "Theatrical"], "note": "Removed scan artifacts in the final stanza without changing the intentional word pledipus."
+  },
+  {
+    "title": "She's My Girl", "sourceSlug": "shes-my-girl", "pdfSha256": "ae0b350fc7ad915d1b606c5cd6c2e15e04e724b01fb7ea7bd4578a5cbfdd6719",
+    "pages": [{ "page": 0, "start": 2, "end": 29 }], "stanzaSizes": [6, 6, 6, 9],
+    "corrections": { "· But to me, well,": "But to me, well," },
+    "description": "An affectionate refrain survives an escalating list of domestic complaints.",
+    "about": "The singer inventories cold rooms, bathroom habits, rent, and disastrous meals, only to return to the same declaration of love. Four printed stanzas make up the complete lyric. The extended sham--poo joke retains the sheet's line break rather than being silently rewritten.",
+    "themes": ["Satire", "Romance", "Everyday life"], "moods": ["Wry", "Affectionate"], "note": "Removed a stray scan dot and retained the printed split in sham--poo."
+  },
+  {
+    "title": "In Old Mexico", "sourceSlug": "in-old-mexico", "pdfSha256": "bad40d181b3fad946a465b78201ece3adaf38a424cd3caeee6d7a906a8bc9b72",
+    "pages": [{ "page": 0, "bbox": [0, 0, 310, 772.56], "start": 2, "end": 39 }, { "page": 0, "bbox": [310, 0, 597.6, 772.56], "start": 0, "end": 22 }], "stanzaSizes": [8, 4, 7, 3, 11, 4, 7, 5, 10],
+    "corrections": { "I would whisper \"te amo.11": "I would whisper \"te amo.\"", "We ate, we drank, and we were.merry,": "We ate, we drank, and we were merry,", "Now w~enever I start feeling morose,": "Now whenever I start feeling morose,", "And names like Belmonte, Domingufn, and": "And names like Belmonte, Dominguín, and", "this world than the sight ofa lone man facing": "this world than the sight of a lone man facing", "I shouted 11ole!11 ev'ry time one was gored.": "I shouted \"olé!\" ev'ry time one was gored.", "awarded the driver both ears and the tail --": "awarded the driver both ears and the tail ---", "(*)Faraway from the strikes of the A. F. of L.": "Far away from the strikes of the A. F. of L.", "and C. I. 0.": "and C. I. O.", "Ole!": "Olé!" },
+    "description": "A tourist's romantic recollection gives way to a grotesque afternoon at the bullring.",
+    "about": "The unreliable tourist narrator mixes travel nostalgia with appetite for spectacle and violence. The historical main text contains a derogatory term for Mexican people; it is preserved for context, not endorsed. Both printed spoken asides are included. A later Tomfoolery ending appears separately in the source and is not blended into this edition.",
+    "themes": ["Satire", "Travel", "Dark comedy"], "moods": ["Theatrical", "Wry"], "note": "Read the left column before the right; retained the main ending and both spoken asides, excluded the alternate ending, and corrected names and scan punctuation visually."
+  },
+  {
+    "title": "The Irish Ballad", "sourceSlug": "the-irish-ballad", "pdfSha256": "08e159f192ddd28312753fa574aada14e73528130a959698c4a49f4ae7abaedc",
+    "pages": [{ "page": 0, "bbox": [0, 0, 310, 777.6], "start": 2, "end": 34 }, { "page": 0, "bbox": [310, 0, 602.16, 777.6], "start": 2, "end": 34 }], "stanzaSizes": [8, 8, 8, 8, 8, 8, 8, 8],
+    "corrections": { "She did ev'ryone of them in, ·": "She did ev'ryone of them in,", "And sent him off .to Davy Jones.": "And sent him off to Davy Jones.", "·Invited the neighbors in.": "Invited the neighbors in." },
+    "description": "A relentlessly jaunty refrain accompanies an absurdly grisly family ballad.",
+    "about": "Eight stanzas parody the accumulating disasters and repeated refrains of a murder ballad. The fictional violence is deliberately excessive, ending in a joke about the narrator's moral priorities and the audience's patience. The complete text reads down the left column, then down the right; the sheet's unusual spelling cold in the third stanza is retained.",
+    "themes": ["Satire", "Dark comedy", "Storytelling"], "moods": ["Macabre", "Theatrical"], "note": "Restored all 64 lines from the two columns; removed three scan artifacts while preserving the source's spelling and repeated refrains."
+  },
+  {
+    "title": "The Masochism Tango", "sourceSlug": "the-masochism-tango", "pdfSha256": "4bef134dabb3e177e0173053f133ff6024c527b0b5a5eb4e9ffe427b933203fc",
+    "pages": [{ "page": 0, "bbox": [0, 0, 325, 779.52], "start": 2, "end": 34 }, { "page": 0, "bbox": [325, 0, 599.04, 779.52], "start": 0, "end": 19 }], "stanzaSizes": [6, 5, 8, 5, 8, 5, 9, 5],
+    "corrections": { "Sticking into your gums. -(*)": "Sticking into your gums.", "I know too well, ,,": "I know too well,", ".... (hie!) ... excuse me ...": ".... (hic!) ... excuse me ...", "And bum your initials in my shoulder.": "And burn your initials in my shoulder." },
+    "description": "The extravagant language of a tango turns painfully literal in a dark comic love song.",
+    "about": "Romantic surrender becomes an escalating catalogue of imaginary injuries, interrupted by comic asides. This adult satire is presented as fictional character writing, not relationship advice. The main eight-block text is complete; the separately printed Tomfoolery replacement verse is left in the linked source rather than mixed into the lyric.",
+    "themes": ["Satire", "Romance", "Dance"], "moods": ["Theatrical", "Macabre"], "note": "Preserved two-column reading order, printed asides, and the source spelling I's; corrected hic and burn from the page image."
+  },
+  {
+    "title": "When You Are Old and Gray", "sourceSlug": "when-you-are-old-and-gray", "pdfSha256": "8d41fd61611baa9dbc3bdeda03cce05754b8e8edf4a5fb7d4e19e17cfe817d9e",
+    "pages": [{ "page": 0, "bbox": [0, 0, 320, 773.52], "start": 2, "end": 36 }], "stanzaSizes": [4, 5, 16, 4, 5],
+    "corrections": { "And lose the ability. (*)": "And lose the ability." },
+    "description": "A love declaration undermines itself with an increasingly elaborate forecast of aging.",
+    "about": "An unromantic narrator argues for affection now by imagining its future collapse. A long chain of rhymes in the middle accelerates the joke. This is the complete main version in the left column; the additional Tomfoolery bridge printed on the right is a later variant, not a missing stanza of this edition.",
+    "themes": ["Satire", "Romance", "Aging", "Wordplay"], "moods": ["Wry", "Unsparing"], "note": "Selected the complete main version only and removed its alternate-bridge marker; unusual punctuation in the opening stanza follows the sheet."
+  },
+  {
+    "title": "We Will All Go Together When We Go", "sourceSlug": "we-will-all-go-together-when-we-go", "pdfSha256": "9aab853a3fa2b67e5b6665615ea3e45c64769cf847dbfb11709a92eebf600293",
+    "pages": [{ "page": 0, "bbox": [0, 0, 305, 774.96], "start": 3, "end": 38 }, { "page": 0, "bbox": [305, 0, 596.16, 774.96], "start": 0, "end": 9 }, { "page": 0, "bbox": [305, 0, 596.16, 774.96], "start": 10, "end": 22 }], "stanzaSizes": [13, 5, 5, 5, 2, 5, 5, 5, 4, 7],
+    "corrections": { "Will some day never more adorn a sleeve:": "Will some day never more adorn a sleeve.", "· Yes, we all will fry together when we fry.": "Yes, we all will fry together when we fry.", "' And we will all bake together when we bake.": "And we will all bake together when we bake.", "· There'll be no need to stand and wait your turn.": "There'll be no need to stand and wait your turn." },
+    "description": "A comforting communal refrain becomes a chilling joke about nuclear annihilation.",
+    "about": "The song imagines universal togetherness as the outcome of atomic catastrophe. Funeral imagery, insurance, food, and a board-game detour drive its dark humor. All ten printed blocks are included. Historical population figures and dated ethnic terminology are retained as part of the source text, not presented as current facts or preferred language.",
+    "themes": ["Satire", "Cold War", "Dark comedy"], "moods": ["Wry", "Uneasy"], "note": "Reconstructed both columns in order, excluded one isolated scan mark, and preserved the deliberate adjec-/Tives split and source spellings."
+  },
+  {
+    "title": "I Wanna Go Back to Dixie", "sourceSlug": "i-wanna-go-back-to-dixie", "pdfSha256": "247a21c0de2cd5be63ea49fe726cc4afa01450c02684f8f5ef30740760520b3d",
+    "pages": [{ "page": 0, "start": 2, "end": 36 }], "stanzaSizes": [7, 6, 2, 4, 2, 6, 7],
+    "corrections": { "But what th~ hell, it's home.": "But what the hell, it's home." },
+    "description": "A sentimental homecoming song exposes the violence behind its narrator's nostalgia.",
+    "about": "Lehrer gives an unreliable narrator a cheerful longing for the American South, then exposes slavery, segregation, and lynching beneath the sentiment. These disturbing historical references are the target of the satire, not an endorsement. This edition follows the complete first page, labeled recorded version; the separately labeled revised second page is not interleaved with it.",
+    "themes": ["Satire", "History", "Racism", "Nostalgia"], "moods": ["Wry", "Unsparing"], "note": "Selected all seven stanzas of the author's recorded-version text and corrected one OCR artifact; the revised second-page version remains available in the source."
+  },
+  {
+    "title": "It Makes a Fellow Proud to Be a Soldier", "sourceSlug": "it-makes-a-fellow-proud-to-be-a-soldier", "pdfSha256": "09f7d1c0916904620bc7a494e0ab16bc6b856a0f8d1f300e87866cc9e8b84e42",
+    "pages": [{ "page": 0, "start": 2, "end": 25 }, { "page": 0, "start": 26, "end": 50 }], "stanzaSizes": [4, 5, 5, 5, 5, 5, 5, 5, 8],
+    "corrections": { "He's real A.A. material, and he was glad to swap": "He's real R.A. material, and he was glad to swap", "\\ Because he finds it \"broadening.\"": "Because he finds it \"broadening.\"" },
+    "description": "A parade of barracks characters punctures the rhetoric of military pride.",
+    "about": "Each recruit or officer adds another mismatch between grand ideals and everyday army life. The recurring patriotic line becomes more ironic as the portraits accumulate. All nine blocks of the main version, including the final At ease!, are present. Two alternate U.K. verses on the second source page belong to a different performance version and are not appended.",
+    "themes": ["Satire", "Institutions", "Military life"], "moods": ["Wry", "Theatrical"], "note": "Removed margin scan marks and corrected R.A.; retained printed spellings Buit and solders and kept the separately labeled U.K. alternates out of the main lyric."
+  },
+  {
+    "title": "Lobachevsky", "sourceSlug": "lobachevsky", "pdfSha256": "5f3b5cb879f98562b160fd9b4907b970dfc5e9817627a2786e81e87f08ef9d17",
+    "pages": [{ "page": 0, "start": 10, "end": 44 }, { "page": 1, "start": 0, "end": 38 }, { "page": 1, "start": 39, "end": 40 }], "stanzaSizes": [4, 5, 3, 6, 4, 6, 10, 8, 6, 4, 13, 4],
+    "corrections": { "Who's the professor that made me that way?": "Who's professor that made me that way?", "It was on analytic and algebraic topology oflocally Euclidean": "It was on analytic and algebraic topology of locally Euclidean", "Bozhe moil": "Bozhe moi!", "But I think of gtreat Lobachevsky and get idea --- ahah!": "But I think of great Lobachevsky and get idea --- ahah!", "And when his work is done --": "And when his work is done ---", "(**)": { "text": "[Spoken Russian ad-lib; words not specified in the source]", "occurrences": 2 }, "'1t stinks!\"": { "text": "\"It stinks!\"", "occurrences": 2 }, "HI.": "Hi!" },
+    "description": "A fictional mathematician narrates an increasingly extravagant career built on plagiarism.",
+    "about": "Spoken storytelling alternates with sung refrains and a relay of place names. The author's prefatory note explicitly says these fictional misdeeds are not historical claims about the real mathematician. This edition retains the complete two-page script, including its spoken passages. Two bracketed editorial cues mark the source's unspecified Russian ad-libs; no recording-specific words have been invented for them.",
+    "themes": ["Satire", "Mathematics", "Academia", "Storytelling"], "moods": ["Theatrical", "Wry"], "note": "Both pages visually reviewed; excluded prefatory prose and footer from the performance body, represented both intentional ad-lib markers transparently, and retained printed spellings Thie and new."
+  },
+  {
+    "title": "National Brotherhood Week", "sourceSlug": "824-2", "pdfSha256": "294900b28ea00e244ebbca5db38c54d18a80bd6b6a4d0200bd31bde38a48a057",
+    "pages": [{ "page": 0, "start": 2, "end": 33 }], "stanzaSizes": [4, 6, 4, 6, 4, 7],
+    "corrections": { "Lena Home and Sheriff Clarke are dancing cheek to cheek. (*) ·": "Lena Horne and Sheriff Clarke are dancing cheek to cheek.", "It's fun to eulogize ·": "It's fun to eulogize" },
+    "description": "A ceremonial week of togetherness exposes the prejudices that persist around it.",
+    "about": "The song attacks token gestures of tolerance through an exaggerated narrator and repeated contrasts between public goodwill and everyday exclusion. Its racial and religious generalizations are satirical depictions of prejudice, not the site's claims about those groups. All six printed blocks are retained; the author notes that the named pairing in the first refrain changed between performances.",
+    "themes": ["Satire", "Prejudice", "Institutions"], "moods": ["Wry", "Unsparing"], "note": "Corrected Horne against the image, removed the footnote marker and a stray dot, and retained the complete main text."
+  },
+  {
+    "title": "MLF Lullaby", "sourceSlug": "mlf-lullaby", "pdfSha256": "6f07833e5dd28a70bce3e7c54f3d2a841901836284527e55fcac669c314668ee",
+    "pages": [{ "page": 0, "start": 2, "end": 23 }], "stanzaSizes": [4, 5, 4, 8],
+    "corrections": { "We've got the missiles, peace to determfoe,": "We've got the missiles, peace to determine,", "Heil - hail - the W ehrmacht ---": "Heil - hail - the Wehrmacht ---" },
+    "description": "A soothing bedtime address keeps revealing the fears it is meant to quiet.",
+    "about": "The lullaby's promises of safety are contradicted by its missiles, military alliances, and uneasy memories of war. Deliberate slips of the tongue turn reassurance into alarm. The four printed stanzas are complete; these are Cold War-era satirical words, not a description of current defense arrangements.",
+    "themes": ["Satire", "Cold War", "Military life"], "moods": ["Uneasy", "Wry"], "note": "Corrected determine and the split OCR word Wehrmacht; no performance introduction was added."
+  },
+  {
+    "title": "George Murphy", "sourceSlug": "george-murphy", "pdfSha256": "e7f27de8e2dd98522b2c76306415bf16f99046e5d80d8da2e961e23d7eac460e",
+    "pages": [{ "page": 0, "start": 3, "end": 25 }], "stanzaSizes": [6, 7, 4, 5], "corrections": {},
+    "description": "Hollywood performance and political performance become almost indistinguishable.",
+    "about": "Singing, dancing, and screen credits frame an ironic portrait of a senator. The song's invented dialogue and ethnic stereotypes belong to its satirical characterization, not to factual quotation or endorsement. This is the complete sheet labeled recorded version from That Was the Year That Was. The separate campaign song and addenda are different texts and are not appended.",
+    "themes": ["Satire", "Politics", "Show business"], "moods": ["Wry", "Theatrical"], "note": "All four blocks retained from the explicitly identified recorded-version PDF; source spelling American's retained."
+  },
+  {
+    "title": "The Folk Song Army", "sourceSlug": "the-folk-song-army", "pdfSha256": "10fcbb8e20a67bc031d20ac177fed532ccb30c98b73b71b2297f4ab6b3e5f8d3",
+    "pages": [{ "page": 0, "start": 2, "end": 29 }], "stanzaSizes": [4, 4, 4, 5, 4, 6],
+    "corrections": { "Why, they don't even care ifJ immy Crack Corn.": "Why, they don't even care if Jimmy Crack Corn.", "And it don't matter if you put a coupla extra syllables ihto a line.": "And it don't matter if you put a coupla extra syllables into a line.", "And ,it don't even gotta rhyme ...": "And it don't even gotta rhyme...", "That's the kind where each ofus belongs.": "That's the kind where each of us belongs.", "To the fight aga(nst poverty, war, and injustice.": "To the fight against poverty, war, and injustice." },
+    "description": "A mock recruiting song asks whether protest singing can become a substitute for action.",
+    "about": "The narrator's certainty is undercut by careless meter, deliberate bad rhymes, and a final command to sing instead of act. The target is self-congratulation rather than a specific listener. All six printed blocks are included, with the intentional rhyme/rhyne correction left intact.",
+    "themes": ["Satire", "Protest", "Songwriting"], "moods": ["Playful", "Wry"], "note": "Five OCR artifacts corrected against the rendered page; the deliberate extra syllables and rhyne joke are preserved."
+  },
+  {
+    "title": "Pollution", "sourceSlug": "pollution", "pdfSha256": "9852e0cbaecc0c481f966f9aeaceebfd009241add0ce5c539a0d91f4508dfc8f",
+    "pages": [{ "page": 0, "start": 2, "end": 35 }], "stanzaSizes": [4, 4, 4, 4, 4, 4, 4, 5],
+    "corrections": { "Tum on your tap": "Turn on your tap", "See the q.alibuts and the sturgeons": "See the halibuts and the sturgeons", "Fisli. gotta swim and birds gotta fly,": "Fish gotta swim and birds gotta fly,", "But they don't last long ifthey try.": "But they don't last long if they try.", "(*) The breakfast garbage that you throw into the Bay": "The breakfast garbage that you throw into the Bay" },
+    "description": "An inviting city tour turns into an inventory of dirty water and unbreathable air.",
+    "about": "Everyday routines become environmental hazards in a song whose cheerful refrain keeps collapsing into warnings. The source's cough cue and playful detergeons rhyme remain. This complete version uses the San Francisco/San Jose couplet identified in the sheet; the separately printed location-neutral replacement is not mixed into it.",
+    "themes": ["Satire", "Environment", "City life"], "moods": ["Wry", "Uneasy"], "note": "All eight blocks retained, source footnote excluded from the lyric body, and five scan artifacts corrected."
+  },
+  {
+    "title": "So Long, Mom (A Song for World War III)", "sourceSlug": "so-long-mom", "pdfSha256": "9c0cd03cbe6f4ca394d850988be9c6fb37fd3a06abdade09d7a28f4517c5b07c",
+    "pages": [{ "page": 0, "start": 2, "end": 35 }], "stanzaSizes": [7, 6, 5, 2, 7, 6],
+    "corrections": { "I'll look for you when the war is over --": "I'll look for you when the war is over ---" },
+    "description": "A pilot's jaunty farewell collides with the imagined brevity of a nuclear war.",
+    "about": "The reassuring conventions of a home-front farewell are replaced by television coverage, shelters, and devastation. A miniature story about Johnny Jones separates two versions of the refrain. All six printed blocks are included; the distorted broadcaster names are deliberate rhymes in the source.",
+    "themes": ["Satire", "Cold War", "Media"], "moods": ["Theatrical", "Uneasy"], "note": "Preserved the complete sheet and its intentional Brinkally/Huntally spellings; restored the printed three-hyphen pause."
+  },
+  {
+    "title": "Who's Next?", "sourceSlug": "whos-next", "pdfSha256": "9a11c4068a45cbace69303ad10470a12e0f14ff79f79cfe76f4f82ae577f43ec",
+    "pages": [{ "page": 0, "start": 2, "end": 30 }], "stanzaSizes": [5, 5, 5, 7, 6],
+    "corrections": { "Transistorized at half the price.(*)": "Transistorized at half the price." },
+    "description": "Each reassuring explanation for another bomb makes the next one seem more inevitable.",
+    "about": "The list-song structure turns nuclear proliferation into a cascade of increasingly absurd predictions. This is the complete main author-sheet revision, which uses the Japan couplet; the footer identifies the earlier Indonesia lines as used until 1968. It is not a verbatim transcription of the album's 1965 performance, and its geopolitical claims are historical satire, not current reporting.",
+    "themes": ["Satire", "Cold War", "Politics"], "moods": ["Wry", "Uneasy"], "note": "Kept the post-1968 main sheet version separate from the earlier footnoted couplet; source spelling it own retained."
+  },
+  {
+    "title": "Wernher von Braun", "sourceSlug": "wernher-von-braun", "pdfSha256": "e34ef2a8467c6cdc8ab3b13f85550a4cbc17b3440ce3bf8b9b4775e632ce3aea",
+    "pages": [{ "page": 0, "start": 2, "end": 20 }], "stanzaSizes": [5, 4, 5, 4],
+    "corrections": { "_Like the widows and cripples in old London town": "Like the widows and cripples in old London town" },
+    "description": "Technical achievement is set against a satirical portrait of moral detachment.",
+    "about": "The song imagines its subject dismissing responsibility for what happens after a rocket is launched. Repeated name rhymes and mock quotations expose the gap between expertise and accountability. All four printed stanzas are retained; the dialogue is Lehrer's satirical writing, not a sourced interview transcript.",
+    "themes": ["Satire", "Science", "Responsibility"], "moods": ["Wry", "Unsparing"], "note": "Removed one leading scan mark; the entire four-stanza sheet is included."
+  },
+  {
+    "title": "The Vatican Rag", "sourceSlug": "the-vatican-rag", "pdfSha256": "fcba15d95699999e56e12ede45d0dee8f272a03bba88d6c214684fc8447c07ac",
+    "pages": [{ "page": 0, "start": 2, "end": 29 }], "stanzaSizes": [4, 5, 4, 4, 4, 6],
+    "corrections": { "When· in Rome do like a Roman": "When in Rome do like a Roman" },
+    "description": "A dance-instruction format gives religious ritual an irreverent theatrical framing.",
+    "about": "Commands, counting, Latin phrases, and elastic rhymes turn the lyric into a mock choreography. It is a work of musical satire, not liturgical guidance. The six printed blocks and both repeated genuflect lines are reproduced in full.",
+    "themes": ["Satire", "Religion", "Dance", "Wordplay"], "moods": ["Theatrical", "Playful"], "note": "All six blocks retained with one stray scan dot removed."
+  },
+  {
+    "title": "Smut", "sourceSlug": "smut", "pdfSha256": "cf327be7307634c381b3014ada53fcd6b6af1a2038a65248f44cfcb784225892",
+    "pages": [{ "page": 0, "bbox": [0, 0, 310, 774], "start": 2, "end": 37 }, { "page": 0, "bbox": [310, 0, 594.72, 774], "start": 0, "end": 25 }], "stanzaSizes": [5, 9, 5, 4, 8, 4, 5, 5, 6, 9],
+    "corrections": { "But now they're trying to take it all away (*)": "But now they're trying to take it all away", "We fight for freedom of the·press. ·": "We fight for freedom of the press.", "Let's hear it foflhe Supreme Court!": "Let's hear it for the Supreme Court!" },
+    "description": "An exaggerated appetite for scandal becomes an argument about censorship and interpretation.",
+    "about": "The narrator finds innuendo everywhere, from respectable literature to ordinary objects, while making a comic defense of freedom of the press. This is adult literary satire rather than explicit description. All ten printed blocks are present, with split-word rhymes and spoken asides intact. The separately labeled Tomfoolery replacement in the footer belongs to another version.",
+    "themes": ["Satire", "Censorship", "Literature", "Wordplay"], "moods": ["Wry", "Theatrical"], "note": "Reconstructed both columns in reading order, retained all main-version text, and excluded the replacement footer."
+  },
+  {
+    "title": "Send the Marines", "sourceSlug": "send-the-marines", "pdfSha256": "5bcb6ea58c56b56b5257171b7517ff1f83662358300764e91076f3ff8555ee7e",
+    "pages": [{ "page": 0, "start": 2, "end": 31 }], "stanzaSizes": [7, 7, 5, 10],
+    "corrections": { "U.N. and O.A.S., alt: We know that the UN": "U.N. and O.A.S.,", "They have their place, I guess, Is helpful now and then": "They have their place, I guess,", "But first-": "But first --", "We'll send them all we've got, (*)": "We'll send them all we've got,", "To the shores of Tripoli,(**)": "To the shores of Tripoli," },
+    "description": "The language of protection becomes a comic justification for repeated intervention.",
+    "about": "The refrain interrupts diplomatic language with the same proposed answer, while film stars and familiar military imagery sharpen the satire. This is the complete four-stanza main text. The two-line margin alternative and the later substitutions named in the footnotes are not interleaved with it; the invented Mississippoli rhyme remains as printed.",
+    "themes": ["Satire", "Politics", "Military life"], "moods": ["Wry", "Unsparing"], "note": "Separated the two margin alternatives from their corresponding main lyric lines; removed footnote markers without dropping main-version text."
+  },
+  {
+    "title": "Whatever Became of Hubert?", "sourceSlug": "whatever-became-of-hubert", "pdfSha256": "4d4e3e1b494db90e91038da550dabd083959ffcbce910cb03182c5c039203dae",
+    "pages": [{ "page": 0, "start": 2, "end": 27 }], "stanzaSizes": [7, 4, 4, 6, 4],
+    "corrections": { "When they don't even give you a bow .": "When they don't even give you a bow.", ". \"We must protest this treatment, Hubert,\"": "\"We must protest this treatment, Hubert,\"" },
+    "description": "A mock search for a missing political voice becomes a portrait of frustrated second place.",
+    "about": "The narrator addresses Hubert through telephone silence, musical puns, and questions about life in the shadow of a boss. This complete five-stanza text is the first page of the author's sheet. The second page, Look What's Become of Hubert, is a separately titled 1968 campaign adaptation and is not part of this version.",
+    "themes": ["Satire", "Politics", "Wordplay"], "moods": ["Wry", "Quizzical"], "note": "Preserved the first-page version only; cleaned two punctuation artifacts while retaining printed phrases someone one and Are you said."
+  },
+  {
+    "title": "New Math", "sourceSlug": "new-math", "pdfSha256": "142d439c2cfc81a0e6accefdf42d4901f24f101ad510c65c7fe8b2b0104c52af",
+    "pages": [{ "page": 0, "start": 2, "end": 38 }, { "page": 1, "start": 0, "end": 43 }], "stanzaSizes": [9, 6, 8, 2, 4, 1, 6, 3, 11, 6, 3, 12, 2, 6],
+    "corrections": { "You can't take three from two, The problem is: 342": "You can't take three from two,", "Two is less than three, -173": { "text": "Two is less than three,", "occurrences": 2 }, "So you look at the four in the tens place. 169": "So you look at the four in the tens place.", "Well, six actually. ..": "Well, six actually...", "problem out ofw ants you to do it in base eight. But don't panic! Base eight is just like": "problem out of wants you to do it in base eight. But don't panic! Base eight is just like", "base ten really - ify ou 're missing two fingers! Shall we have a go at it? Hang on. ..": "base ten really - if you're missing two fingers! Shall we have a go at it? Hang on...", "You can't take three from two, 342": "You can't take three from two,", "So you look at the four in the eights place. 147": "So you look at the four in the eights place." },
+    "description": "A confident arithmetic demonstration becomes a comic lesson in how explanations can confuse.",
+    "about": "The same subtraction is worked in two number systems, with spoken classroom asides and a repeated refrain. All spoken and sung text from both pages is retained. The arithmetic printed in the margins is context, not sung words: 342 - 173 = 169 in base ten, and 342 - 173 = 147 in base eight. Those examples are stated here instead of being interleaved with the lyric lines by OCR.",
+    "themes": ["Satire", "Mathematics", "Education"], "moods": ["Playful", "Theatrical"], "note": "Separated both margin equations from the lyric body, preserved their values in About, and checked all 79 spoken/sung lines across both pages."
+  },
+  {
+    "title": "Alma", "sourceSlug": "alma", "pdfSha256": "0c322c3d186452c7e6acd7e4e0622885a0451f84ded02eed4fd0244e5c817af9",
+    "pages": [], "manualPages": [0], "stanzaSizes": [4, 4, 3, 4, 4, 3, 4, 4, 3, 4, 4, 6], "corrections": {},
+    "manualLines": [
+      "The loveliest girl in Vienna", "Was Alma --- the smartest as well.", "Once you picked her up on your antenna,", "You'd never be free of her spell.",
+      "Her lovers were many and varied", "From the day she began her beguine.", "There were three famous ones whom she married,", "And God know how many between.",
+      "Alma, tell us, --- all modern women are jealous ---", "Which of your magical wands", "Got you Gustav and Walter and Franz?",
+      "The first one she married was Mahler,", "Whose buddies all knew him as Gustav,", "And each time he saw her he'd holler,", "\"Ach, dot is de fräulein I must have!\"",
+      "Their marriage, however, was murder,", "He'd scream to the heavens above,", "\"I'm writing 'Das Lied von der Erde,'", "Und she only wants to make love!\"",
+      "Alma, tell us, --- all modern women are jealous ---", "You should have a statue in bronze", "For bagging Gustav and Walter and Franz.",
+      "While married to Gus, she met Gropius,", "And soon she was swinging with Walter.", "Gus died, and her teardrops were copious.", "She cried all the way to the altar.",
+      "But he would work late at the Bauhaus", "And only came home now and then.", "She said, \"What am I running, a cow house?", "It's time to change partners again.\"",
+      "Alma, tell us, --- all modern women are jealous ---", "Though you didn't even use Ponds',", "You got Gustav and Walter and Franz.",
+      "While married to Walt, she met Werfel,", "And he too was caught in her net.", "He married her, but he was carefel,", "'Cause Alma was no Bernadette.",
+      "And that is the story of Alma,", "Who knew how to receive and to give.", "The body that reached her embalma", "Was one that had known how to live.",
+      "Alma, tell us,", "How can they help being jealous?", "Ducks always envy the swans", "Who get Gustav and Walter", "You never did falter", "With Gustav and Walter and Franz!"
+    ],
+    "description": "An elastic chain of names and rhymes turns a romantic life into a comic ballad.",
+    "about": "The song frames Alma's marriages through Gustav, Walter, and Franz, using invented dialogue and deliberately distorted rhymes. It is a satirical portrait, not a complete biography. This edition was transcribed directly from the author's image-only sheet: all twelve indented blocks are present, including the extended final refrain and spellings such as carefel and embalma.",
+    "themes": ["Satire", "Romance", "Wordplay", "Art"], "moods": ["Theatrical", "Playful"], "note": "All 47 lines manually transcribed and visually checked against the single-page image-only PDF; source spellings and the umlaut are retained."
+  },
+  {
+    "title": "(I'm Spending) Hanukkah in Santa Monica", "sourceSlug": "hanukkah-in-santa-monica", "pdfSha256": "61bcc585790ae3de72d97c711590b8fa4627c2491a951f9242253cf016036b6c",
+    "pages": [{ "page": 0, "start": 3, "end": 33 }], "stanzaSizes": [10, 6, 5, 9],
+    "corrections": { "And Yorn Kippuh [Southern accent]": "And Yom Kippuh [Southern accent]" },
+    "description": "A holiday itinerary trades eastern winters for candles and sandals beside the Pacific.",
+    "about": "The narrator pairs Jewish holidays with American place names, bending pronunciations to keep the rhymes going. The complete thirty-line author sheet is retained, including its Southern-accent cue. Spellings such as Arizonah and Mississippuh are deliberate rhyme devices, not corrections to geography.",
+    "themes": ["Holidays", "Travel", "Wordplay"], "moods": ["Playful", "Sunny"], "note": "Checked all thirty lines; corrected the OCR reading Yorn to the printed Yom and retained the source pronunciation cue."
+  },
+  {
+    "title": "I Got It From Agnes", "sourceSlug": "i-got-it-from-agnes", "pdfSha256": "625e61537300319b11ba54c1c6936d090462e6a96fda8e4ae32636919a200e2d",
+    "pages": [{ "page": 0, "start": 3, "end": 11 }, { "page": 0, "start": 12, "end": 39 }], "stanzaSizes": [8, 6, 6, 6, 9],
+    "sectionLabels": ["Verse", "Chorus 1", "Chorus 2", "Chorus 3", "Chorus 4"],
+    "corrections": {
+      "Now, she got if from Harry, who got it from Marie ·": "Now, she got if from Harry, who got it from Marie",
+      "He got it from Franvois and Jacques, aha! ---": "He got it from François and Jacques, aha! ---",
+      "orchestral passage, during which he looks around the audience,": "[orchestral passage, during which he looks around the audience,",
+      "finally chooses someone, grins, points to him or her, and says:": "finally chooses someone, grins, points to him or her, and says:]"
+    },
+    "description": "An innocent-sounding song about sharing becomes a tangled chain of adult innuendo.",
+    "about": "A network of friends passes an unnamed thing from person to person until the narrator brings the audience into the joke. This adult comic song uses sexual innuendo rather than naming the condition. The opening verse and four choruses follow the author sheet, with the orchestral audience-selection direction enclosed in editorial brackets. The printed slips if and maybr are retained rather than silently replaced with a recording's words.",
+    "themes": ["Satire", "Friendship", "Wordplay"], "moods": ["Wry", "Theatrical"], "note": "Preserved the verse/chorus structure, visually restored François, and marked the two-line stage direction without inventing sung text."
+  },
+  {
+    "title": "L-Y", "sourceSlug": "l-y", "pdfSha256": "970d23a76b8400ef38f51814eb20ef80e9b6a16f0928cae432cf37be92343e3c",
+    "pages": [{ "page": 0, "start": 3, "end": 39 }], "stanzaSizes": [5, 5, 5, 5, 5, 5, 6],
+    "corrections": { "0-d-d-d-d-d-patient - L - Y.": "D-d-d-d-d-d-patient - L - Y.", "But the sign says QUIET PLEASE, so how C?tn you cry?": "But the sign says QUIET PLEASE, so how can you cry?" },
+    "description": "Tigers, spies and Dracula turn the adverb ending L-Y into a sequence of miniature scenes.",
+    "about": "Written for The Electric Company, the song asks how to act in seven increasingly awkward situations. Each answer demonstrates an adverb. All seven source blocks and their acting cues are retained. The printed omissions in How do shake and goobye remain visible as source-edition spellings; no alternative performance has been substituted.",
+    "themes": ["Language", "Learning", "Wordplay"], "moods": ["Playful", "Theatrical"], "note": "Checked all seven scenes and thirty-six lines against the sheet; distinguished the letter D from OCR zero in the shivering refrain."
+  },
+  {
+    "title": "N Apostrophe T", "sourceSlug": "n-apostrophe-t", "pdfSha256": "4734109bb5eb101689a483a2bb12aaf1f3f09c1e9828ddfbdb80fb1ead54a6a5",
+    "pages": [{ "page": 0, "start": 4, "end": 55 }], "stanzaSizes": [14, 14, 23],
+    "sectionLabels": ["First exchange", "Second exchange", "The invitation"],
+    "corrections": { "To N apostrophe --": "To N apostrophe ---" },
+    "description": "A child's invitation draws a grouchy hermit out of a world made entirely of negatives.",
+    "about": "The Electric Company scene is set outside a cave. C identifies the sweet child and H the hermit; their dialogue demonstrates contractions before turning no into an invitation to participate. The complete exchange keeps every speaker label and acting cue. Three editorial reading sections follow the source's separated blocks; the introductory setting is described here instead of being presented as a lyric.",
+    "themes": ["Language", "Learning", "Friendship"], "moods": ["Playful", "Hopeful"], "note": "Verified all fifty-one dialogue lines, speaker prefixes, final shared line, and the printed three-dash pause."
+  },
+  {
+    "title": "Selling Out", "sourceSlug": "selling-out", "pdfSha256": "cd381e3d6e476affbc76a2a7f4acd63c3aa52c2f6ce9b363baeb0b4ce8b42629",
+    "pages": [{ "page": 0, "start": 3, "end": 32 }], "stanzaSizes": [7, 7, 6, 9],
+    "sectionLabels": ["A · Son", "B · Daughter", "C · Father", "D · Mother"],
+    "corrections": { "Is easy to do -": "Is easy to do --" },
+    "description": "Four family voices weigh integrity, money and the comfortable language of compromise.",
+    "about": "The sheet identifies this as a song for the 1973 UCSC student production of Park. Its four labeled parts belong to a son, daughter, father and mother. They are printed once each here, exactly in the source order. The separate suggested performance routine combines and repeats these parts, including an optional combined chorus; those arrangements are not fabricated as extra verses in this text edition.",
+    "themes": ["Satire", "Work", "Integrity"], "moods": ["Wry", "Reflective"], "note": "Retained all twenty-nine lines and four character parts; kept performance-order instructions out of the lyric body."
+  },
+  {
+    "title": "Silent E", "sourceSlug": "silent-e", "pdfSha256": "e69dce3bc75b1360ba7841c9cf13440cb2f8a4481eeedb0d0449b707808d728d",
+    "pages": [{ "page": 0, "start": 3, "end": 25 }], "stanzaSizes": [4, 4, 2, 4, 2, 6],
+    "corrections": { "Who can tum a tub into a tube?": "Who can turn a tub into a tube?", "Who can tum a tap into a tape?": "Who can turn a tap into a tape?", "He turned a dam - Alikazam ! - into a dame": "He turned a dam - Alikazam! - into a dame" },
+    "description": "A silent letter performs a string of small transformations, from can and cub to cane and cube.",
+    "about": "This is the complete Electric Company lyric sheet, not the separately supplied private-version score. The examples turn spelling into a magic trick while the unchanged Sam supplies a small exception. All six printed blocks and the final two-line invitation to add Silent E are retained.",
+    "themes": ["Language", "Learning", "Wordplay"], "moods": ["Playful", "Bright"], "note": "Compared all twenty-two lines with the Electric Company sheet; corrected two OCR tum readings and did not mix in the private version."
+  },
+  {
+    "title": "That's Mathematics", "sourceSlug": "thats-mathematics", "pdfSha256": "c2abc9886158cfe6fb1ed2ca7dd3a515e7a693cafa28fd42dc1c2a3b7709366d",
+    "pages": [{ "page": 0, "start": 2, "end": 31 }], "stanzaSizes": [4, 4, 9, 6, 6],
+    "corrections": {},
+    "description": "Sharing, cooking, money and musical time reveal the mathematics inside ordinary routines.",
+    "about": "The main twenty-nine-line text moves from everyday measurements to infinity and back to keeping a beat. The author's second page supplies an optional Andrew Wiles verse added for a 1993 occasion and explains the song's earlier musical setting. This edition follows the complete main text without that optional insertion. It reproduces only Lehrer's words, not the third-party tune discussed in the note.",
+    "themes": ["Mathematics", "Learning", "Everyday life"], "moods": ["Playful", "Curious"], "note": "Reviewed both pages; retained the complete main version and excluded the expressly optional Wiles verse and prose author's note from the lyric body."
+  },
+  {
+    "title": "O-U (The Hound Song)", "sourceSlug": "o-u", "pdfSha256": "a66121578e1325a3df304a656e045bf281baa5bce77dd674d0b6a617073016c9",
+    "pages": [{ "page": 0, "start": 5, "end": 13 }], "stanzaSizes": [4, 4],
+    "corrections": {},
+    "description": "A quiet hound hides in plain sight while eight rhymes circle the sound of O-U.",
+    "about": "The Electric Company lyric uses a hiding dog's monologue to demonstrate the shared spelling in hound, ground and sound. The sheet credits the words to Tom Lehrer and the musical setting to Caro Nome from Giuseppe Verdi's Rigoletto. Both printed four-line stanzas are present; this catalog displays words only and supplies no recording or score.",
+    "themes": ["Language", "Learning", "Animals"], "moods": ["Gentle", "Playful"], "note": "Verified the eight-line text and retained separate lyricist and musical-setting attribution in the song context."
+  },
+  {
+    "title": "S-N (Snore, Sniff, and Sneeze)", "sourceSlug": "s-n", "pdfSha256": "208dce8ab572d019bbf1540a2f4d6ac82b72c4bbb7c3eb38f5bde8ebba82e070",
+    "pages": [{ "page": 0, "start": 3, "end": 38 }], "stanzaSizes": [4, 7, 8, 9, 7],
+    "sectionLabels": ["Verse", "Sneeze", "Sniff", "Snore", "Coda"],
+    "corrections": {
+      "VERSE: Like a rooster loves a hen,": "Like a rooster loves a hen,",
+      "One handkerchief'II": "One handkerchief'll",
+      "I lik~ to snooze, I like resting my head.": "I like to snooze, I like resting my head.",
+      "And I snuggle in bed. (Alt.: And lie down on my bed)": "And I snuggle in bed.",
+      "Or snub any snob who is snotty to me. *": "Or snub any snob who is snotty to me.",
+      "( snore -- sniff -- sneeze, repeated while fading ou~": "(snore -- sniff -- sneeze, repeated while fading out)"
+    },
+    "description": "A noisy celebration of the S-N blend builds from sneezes to a snoring, sniffing finale.",
+    "about": "The Electric Company text grows by adding a new sound to each refrain. Spoken interruptions, noises and the fading-out direction are retained as part of the author-published script. This is the main printed wording; the alternative bed line and the optional replacement couplet in the footer are not mixed into it.",
+    "themes": ["Language", "Learning", "Wordplay"], "moods": ["Playful", "Theatrical"], "note": "Checked all thirty-five text/direction lines, restored OCR letters and the closing parenthesis, and separated both explicitly marked alternatives."
+  },
+  {
+    "title": "All I Need Is a Job", "sourceSlug": "all-i-need-is-a-job", "catalogPlacement": "author-songbook", "pdfSha256": "81c43d3700c43c85a6cb5fe91b77fa53b6fb2a05b8e3ddc4dc9545a0f935023e",
+    "pages": [{ "page": 0, "start": 7, "end": 34 }], "stanzaSizes": [12, 15], "sectionLabels": ["Verse", "Refrain"],
+    "corrections": { "VERSE: Got my education": "Got my education", "Now I'm neat and dressy *": "Now I'm neat and dressy", "Not like UCSC *": "Not like UCSC", "I'm all set --": "I'm all set ---", "REFRAIN: Got my 8.A.": "Got my B.A.", "Got my hopes high **": "Got my hopes high", "Passed my Nat Sci **": "Passed my Nat Sci" },
+    "description": "A graduate has the degree, the tie and the optimism, but still needs someone to offer a job.",
+    "about": "The author sheet dates the chorus approximately to 1979 for Brian Arsenault's UCSC dance recital and says the opening verse was added later. This edition keeps the UCSC and Nat Sci wording rather than inventing the local substitutions suggested in the footnotes. Lehrer wrote these replacement words for All I Need Is the Girl from Gypsy, whose original words and music are credited to Stephen Sondheim and Jule Styne. Only Lehrer's text is reproduced; no recording, score or precise release date is claimed.",
+    "themes": ["Campus", "Work", "Satire"], "moods": ["Wry", "Hopeful"], "note": "Visually checked all twenty-seven lines, restored B.A. from OCR and separated the historical and substitution notes from the verse and refrain."
+  },
+  {
+    "title": "Are There Any Questions?", "sourceSlug": "are-there-any-questions", "catalogPlacement": "author-songbook", "pdfSha256": "0baa4726b0fb75eb02d86cf6dfe4e97b7d7e7ee04b19026e0da823290af2ccad",
+    "pages": [{ "page": 0, "start": 4, "end": 24 }, { "page": 0, "start": 25, "end": 45 }], "stanzaSizes": [20, 20], "sectionLabels": ["Professor", "Students"],
+    "corrections": { "PROFESSOR: Now then, are there any questions?": "Now then, are there any questions?" },
+    "description": "A professor's confident farewell meets a student's unasked questions and relief that the course is over.",
+    "about": "The Physical Revue finale is a canon for four voices, set to Mozart's O, du eselhafter Martin. The sheet prints the professor's part and one shared student part. Student 1 enters at (*), Student 2 at (**), and Student 3 at (***). Both complete printed parts and their return lines are retained, including the author's etc., etc. instructions; additional overlapping copies are not presented as different verses. Only Lehrer's words are reproduced.",
+    "themes": ["Campus", "Teaching", "Satire"], "moods": ["Wry", "Theatrical"], "note": "Checked forty lines in the two printed voice parts; retained the source's entry markers and explained the three student entrances without inventing missing dialogue."
+  },
+  {
+    "title": "Baby, Is It Love?", "sourceSlug": "baby-is-it-love", "catalogPlacement": "author-songbook", "pdfSha256": "c38a1258407474a492423405a10286fc692fa5c3c1cb7cd6d69a913ed4ae07e9",
+    "pages": [{ "page": 0, "start": 3, "end": 28 }], "stanzaSizes": [3, 3, 4, 4, 11], "sectionLabels": ["Verse 1", "Verse 2", "Verse 3", "Verse 4", "Refrain"],
+    "corrections": { "(Refrain:) Some kind of magic has captured us": "Some kind of magic has captured us" },
+    "description": "The spectacle of a perfect romantic moment gives way to a distinctly less romantic question.",
+    "about": "Strobes, strings and lavish imagery surround a narrator who doubts the source of their feelings. The sheet explicitly identifies this as the original version. All twenty-five lines are retained, including the final drug-related punch line; the song contains adult innuendo. The source credits the words to Lehrer but supplies no recording edition or date, so this is an undated reading text.",
+    "themes": ["Romance", "Satire", "Doubt"], "moods": ["Wry", "Theatrical"], "note": "Retained every line of the expressly labeled original version and represented the refrain label as a reading-section heading."
+  },
+  {
+    "title": "The Derivative Song (dy/dx)", "sourceSlug": "the-derivative-song-dy-dx", "catalogPlacement": "author-songbook", "pdfSha256": "a8ea51eba33198e3afe91aec0b9504d4d40a3202cd251b7edf127afcecbd86bc",
+    "pages": [{ "page": 0, "start": 5, "end": 14 }], "stanzaSizes": [9],
+    "corrections": {},
+    "description": "Nine compact lines take a changing function toward the limiting ratio called a derivative.",
+    "about": "The lyric follows a function through a small change in x, a corresponding change in y, and the limiting quotient. This is the complete nine-line first-page text. Page two repeats the words with screen-caption equations; those captions are not extra lyrics. The sheet credits the musical setting to There'll Be Some Changes Made by W. Benton Overstreet and separately identifies original lyricist Billy Higgins on page two. Only Lehrer's new words are displayed.",
+    "themes": ["Mathematics", "Calculus", "Teaching"], "moods": ["Playful", "Curious"], "note": "Reviewed both PDF pages; used the complete first-page text and excluded duplicated words and mathematical screen captions."
+  },
+  {
+    "title": "Dodging the Draft at Harvard", "sourceSlug": "dodging-the-draft-at-harvard", "catalogPlacement": "author-songbook", "pdfSha256": "3e25f5f88dc6b3afb3bafa2c36952235dbfa271011861df91d888dbe19ea90fd",
+    "pages": [{ "page": 0, "start": 3, "end": 30 }], "stanzaSizes": [12, 15],
+    "corrections": { "That the draft board says: 28.": "That the draft board says: 2S." },
+    "description": "Academic ambition and self-preservation meet in a satire of students sheltered from military service.",
+    "about": "The source dates this wording to 1952 and names Irving Berlin's Oh How I Hate to Get Up in the Morning as its tune. The narrator's smug contrast between campus and Korea is historical satire, not present-day guidance about military service. The later 1972 reunion substitutions are identified separately in the sheet and are not blended into this version. The printed 2S classification is retained.",
+    "themes": ["Campus", "War", "Satire"], "moods": ["Wry", "Provocative"], "note": "Verified twenty-seven lines in two printed blocks, corrected OCR 28 to 2S, and excluded the separately dated reunion revisions."
+  },
+  {
+    "title": "Don't Major in Physics", "sourceSlug": "dont-major-in-physics", "catalogPlacement": "author-songbook", "pdfSha256": "8db815afc5dec191be842ffafd7c74c56cd747d9cd260bca2a9ac0a813f7eeb5",
+    "pages": [{ "page": 0, "start": 5, "end": 13 }, { "page": 0, "start": 14, "end": 18 }, { "page": 0, "start": 19, "end": 27 }, { "page": 0, "start": 14, "end": 18 }, { "page": 0, "start": 29, "end": 37 }, { "page": 0, "start": 14, "end": 18 }],
+    "stanzaSizes": [8, 4, 8, 4, 8, 4], "sectionLabels": ["First student", "Chorus 1", "Second student", "Chorus 2", "Third student", "Chorus 3"],
+    "corrections": { "And advised me to transfer to Ee,": "And advised me to transfer to Ec," },
+    "description": "Three students turn frustrated courtship into an absurd argument against a physics degree.",
+    "about": "The three comic narrators voice dated stereotypes about romance and women in science; those views are part of the satire, not advice from this catalog. The sheet names Kurt Weill's The Trouble with Women from One Touch of Venus as the musical setting. Its two later Chorus instructions are expanded with the same four printed lines. Deliberate rhymes such as cudent, phenomener and thermodynammocks remain, as does the printed neckl form.",
+    "themes": ["Campus", "Romance", "Science", "Satire"], "moods": ["Wry", "Theatrical"], "note": "Checked all three student verses and the refrain; repeated the source chorus at its two explicit cues and corrected Ec from the scan."
+  },
+  {
+    "title": "Finch and Dench", "sourceSlug": "finch-and-dench", "catalogPlacement": "author-songbook", "pdfSha256": "1f89e9ce375298a782163efaaa7ade4ae3a1c0522a2d7215afbc650b3e571a2d",
+    "pages": [{ "page": 0, "start": 3, "end": 30 }], "stanzaSizes": [7, 7, 13],
+    "corrections": { "Freddie Fin--ch. (Alt.: Fin--dee--din--ch)": "Freddie Fin--ch.", "Debbie Den--ch. (Alt.: Den--dee--den--ch)": "Debbie Den--ch.", "Freddie Fin--ch. (Alt.: Fin--dee--din--ch": "Freddie Fin--ch." },
+    "description": "Freddie and Debbie's miniature courtship turns the ending N-CH into an exuberant chain of rhymes.",
+    "about": "The Electric Company song introduces two characters before bringing them together over flowers, lunch and a book in French. All three main blocks retain the broken-up spellings used to emphasize the sound. The alternative name refrains printed in the margin are not mixed into the main wording. This entry is an author-sheet text, not a claim about a particular television recording.",
+    "themes": ["Language", "Wordplay", "Teaching"], "moods": ["Playful", "Bright"], "note": "Checked twenty-seven lines and all deliberate internal hyphens; removed only the expressly marked alternative refrains."
+  },
+  {
+    "title": "Fugue for Scientists", "sourceSlug": "fugue-for-scientists", "catalogPlacement": "author-songbook", "pdfSha256": "bfadbf08e95b0e7e5883b349b64f5490b3b45b5225b8df9a9f0807afd9ce3905",
+    "pages": [{ "page": 0, "start": 3, "end": 48 }], "stanzaSizes": [6, 6, 6, 4, 4, 4, 4, 4, 3, 4],
+    "sectionLabels": ["Math 1", "Physics 1", "Chemistry 1", "Math 2", "Physics 2", "Chemistry 2", "Math 3", "Physics 3", "Chemistry 3", "All"],
+    "corrections": { "[Stephen Hawking] says that's right [originally Professor Oldenberg)": "[Stephen Hawking] says that's right", "MA TH: But after all is said": "MATH: But after all is said" },
+    "description": "Mathematics, physics and chemistry compete to be indispensable before finding a shared final boast.",
+    "about": "Three personified disciplines trade claims about research, prestige and destructive inventions. Lehrer supplies replacement words for Frank Loesser's Fugue for Tinhorns from Guys and Dolls. The displayed sheet uses bracketed Stephen Hawking and President Conant references; its marginal note names Professor Oldenberg as an earlier choice. The short etc. refrain cues and the printed loint spelling remain as source features, not missing-text placeholders.",
+    "themes": ["Campus", "Science", "Satire"], "moods": ["Competitive", "Theatrical"], "note": "Retained all forty-five lines and speaker parts; separated the earlier-name annotation and restored the OCR-split MATH label."
+  },
+  {
+    "title": "GSAS Alma Mater", "sourceSlug": "gsas-alma-mater", "catalogPlacement": "author-songbook", "pdfSha256": "70bbdd0704b8b2243dd15916a2399bccaa007b8e1f4bc66a4fd7814320750979",
+    "pages": [{ "page": 0, "start": 3, "end": 25 }], "stanzaSizes": [4, 5, 4, 4, 5],
+    "corrections": { "No-sir-reel": "No-sir-ree!", "Will be an M.A. or a Doctor of PhilQsophy": "Will be an M.A. or a Doctor of Philosophy" },
+    "description": "A graduate-school anthem promises loyalty despite uncertain degrees, absent football and ivory towers.",
+    "about": "GSAS stands for Graduate School of Arts and Sciences. The lyric balances affection for academic life with jokes about careers, credentials and detachment from the world. The source credits Lehrer's words and names Goofus by Wayne King and William Harold as the tune. All five printed blocks are retained, without supplying a recording date or adding music.",
+    "themes": ["Campus", "Belonging", "Satire"], "moods": ["Affectionate", "Wry"], "note": "Verified twenty-two lines, restoring the exclamation in No-sir-ree and the scanned letter in Philosophy."
+  },
+  {
+    "title": "Hail, Chemistry", "sourceSlug": "hail-chemistry", "catalogPlacement": "author-songbook", "pdfSha256": "b59de66e360c151fc6b66ae001a6952aea9ced623f48ba868af735d5e5d044ea",
+    "pages": [{ "page": 0, "start": 5, "end": 13 }], "stanzaSizes": [3, 5],
+    "corrections": { "Whom you 're well thought of by.": "Whom you're well thought of by." },
+    "description": "A solemn salute to chemistry reveals that the praise is coming from chemistry's own admirers.",
+    "about": "The sheet identifies this miniature as part of The Physical Revue (1951) and credits the musical setting to Arthur Sullivan's Hail, Poetry from The Pirates of Penzance. Lehrer's eight-line replacement text turns a grand tribute into a small joke about self-regard. The repeated It's us lines are both present; the catalog reproduces only the words.",
+    "themes": ["Campus", "Science", "Satire"], "moods": ["Wry", "Ceremonial"], "note": "Checked all eight lines and the original comma in the title; removed only a scan-inserted space in you're."
+  },
+  {
+    "title": "High School Hymn", "sourceSlug": "high-school-hymn", "catalogPlacement": "author-songbook", "pdfSha256": "ce15c8d4904181b65c3aaafcc159cacfa0d013ff763597c8f8d1bf5d30f88b80",
+    "pages": [{ "page": 0, "start": 4, "end": 16 }], "stanzaSizes": [6, 6],
+    "corrections": { "0 Thou, our awesome chaperone,": "O Thou, our awesome chaperone," },
+    "description": "A school prayer asks for freedom, privacy and eventual release from the institution itself.",
+    "about": "The formal language of a hymn collides with students' impatience and uncertainty. The sheet credits John B. Dykes's Eternal Father, Strong to Save as the tune and Lehrer as the writer of these words. Both six-line stanzas are complete. The dashed school-name slot in the last line is present in the source; no school name has been invented to fill it.",
+    "themes": ["Campus", "School", "Satire"], "moods": ["Wry", "Restless"], "note": "Compared both stanzas, corrected the OCR zero to the letter O, and retained the author's explicit school-name blank."
+  },
+  {
+    "title": "A Liter and a Gram", "sourceSlug": "a-liter-and-a-gram", "catalogPlacement": "author-songbook", "pdfSha256": "0fe21a8c853056fc96899fe758323bc5892bee1c443751a22fe7a75dbce68d39",
+    "pages": [{ "page": 0, "start": 4, "end": 24 }], "stanzaSizes": [6, 4, 6, 4], "sectionLabels": ["Verse 1", "Chorus 1", "Verse 2", "Chorus 2"],
+    "corrections": { "(Chorus) A meter and a liter": "A meter and a liter", "(Chorus) Centigrades and Fahrenheits": "Centigrades and Fahrenheits" },
+    "description": "A romantic promise measures affection in liters, newtons, calories and a salary's worth of devotion.",
+    "about": "Scientific units become the vocabulary of courtship in two verses and two choruses. The source credits Lehrer's replacement words and Frank Loesser's A Bushel and a Peck from Guys and Dolls as the musical setting. All twenty lines are preserved; this is comic wordplay rather than a consistent dimensional equation or a recording transcription.",
+    "themes": ["Science", "Romance", "Wordplay"], "moods": ["Playful", "Affectionate"], "note": "Checked all twenty lines and represented the two printed Chorus labels as reading headings; retained the separate Loesser music credit in context."
+  },
+  {
+    "title": "Relativity", "sourceSlug": "relativity", "catalogPlacement": "author-songbook", "pdfSha256": "8914351c2dc3ccc5318e734f00777ccd9df7cdcdd60ddaaa6170bd89b213ad55",
+    "pages": [{ "page": 0, "start": 9, "end": 30 }], "stanzaSizes": [5, 5, 6, 5],
+    "corrections": {},
+    "description": "Newton, Einstein and a fourth dimension share a comic introduction to relativity.",
+    "about": "The main lyric moves from Newtonian expectations to length contraction and an ominous atomic-age ending. Its musical setting is Personality by James Van Heusen from The Road to Utopia. This edition presents the complete twenty-one-line main song. The expressly optional opening verse and the separately printed Physical Revue dialogue are excluded, not silently blended into the lyric. The distorted rhyme w-e-o-ry remains as printed.",
+    "themes": ["Science", "Physics", "Satire"], "moods": ["Curious", "Wry"], "note": "Reviewed the entire sheet and selected the four main blocks, keeping the optional verse and preceding scene separate."
+  },
+  {
+    "title": "The Slide Rule Song", "sourceSlug": "the-slide-rule-song", "catalogPlacement": "author-songbook", "pdfSha256": "6387d8947514e50d245aed66e045230c81b13d117d170e39752c10ef5ea37411",
+    "pages": [{ "page": 0, "start": 3, "end": 18 }], "stanzaSizes": [4, 4, 4, 3], "sectionLabels": ["Verse 1", "Verse 2", "Verse 3", "Chorus"],
+    "corrections": { ") But if you hide the answers in your slide rule,": "But if you hide the answers in your slide rule,", "CHORUS: Yes,": "Yes," },
+    "description": "A mock lesson in exam-room originality turns a slide rule into the punch line.",
+    "about": "This short Physical Revue song satirizes cheating and the narrator's misplaced ingenuity. It is a historical comic text, not advice for an examination. All three four-line blocks and the three-line chorus are retained. The source credits both words and music to Lehrer; only the words are displayed here.",
+    "themes": ["Campus", "Exams", "Satire"], "moods": ["Wry", "Mischievous"], "note": "Checked fifteen lines against the sheet, removed a stray scan parenthesis and retained the separate printed chorus."
+  },
+  {
+    "title": "Deep Doodoo", "sourceSlug": "deep-doodoo", "catalogPlacement": "author-songbook", "pdfSha256": "1674b78d20f51309b35446c1a05211dd7a4ab399a0be7cbae97874611e35a5f2",
+    "pages": [{ "page": 0, "start": 4, "end": 53 }], "stanzaSizes": [11, 11, 11, 11, 5],
+    "corrections": { "1. When the classroom’s packed, and the library’s shut,": "When the classroom’s packed, and the library’s shut,", "2. When we can’t compete with the Japanese,": "When we can’t compete with the Japanese,", "3. When some schools feel like combat sectors,": "When some schools feel like combat sectors,", "4. People keep givin’ me the same old pitch:": "People keep givin’ me the same old pitch:" },
+    "description": "A blunt school-system satire moves from crowded classrooms to a question about national priorities.",
+    "about": "The source credits words and music to Lehrer and identifies Keith Carradine's performance in the 1992 PBS special Listen Up! Four numbered verses build toward a five-line coda. The historical satire includes dated national stereotypes, school violence and drug references; these are the song's rhetoric, not current statistics or educational advice. All forty-nine lines of this text edition are retained.",
+    "themes": ["School", "Institutions", "Satire"], "moods": ["Urgent", "Wry"], "note": "Checked four eleven-line verses and the coda. Printed verse numbers become reading-section numbers; no lyric words or repeated refrains are omitted."
+  },
+  {
+    "title": "He's Not the One", "sourceSlug": "hes-not-the-one", "catalogPlacement": "author-songbook", "pdfSha256": "f76cc916ae1f988306218b553373acca927563e14d01fd8bcf8c60f9ab6101b2",
+    "pages": [{ "page": 0, "start": 4, "end": 33 }, { "page": 0, "start": 34, "end": 40 }, { "page": 1, "start": 0, "end": 40 }],
+    "stanzaSizes": [8, 12, 6, 5, 8, 12, 5, 5, 14],
+    "sectionLabels": ["First doubt", "The signs", "A decision", "First password", "The risk", "Second doubt", "Another try", "Second password", "The exchange"],
+    "corrections": { "Gabardine -": "Gabardine --", "goes back to JJ": "[S goes back to J]", "A: [spoken, hesitantly, while Sand J encourage him to get it right]": "A: [spoken, hesitantly, while S and J encourage him to get it right]", "S: [handing \"money 'fo A J The dough": "S: [handing \"money\" to A] The dough", "A: [handing ''plans\" to J J The plans": "A: [handing \"plans\" to J] The plans", "A: lam": "A: I am" },
+    "description": "A supposed clandestine rendezvous becomes a comic argument over whether the right person has arrived.",
+    "about": "Jamie (J), Sara (S) and Austin (A) exchange doubts, passwords and props in this three-character text. The author sheet identifies an abandoned version of Park and explicitly says no music was written. Both pages are presented in order, with spoken cues and speaker initials intact. Section headings are editorial navigation aids, not extra dialogue; this is not a released recording.",
+    "themes": ["Theatre", "Mistaken identity", "Comedy"], "moods": ["Suspenseful", "Playful"], "note": "Checked both pages and all seventy-five text lines. Rejoined the scan-split return-stage cue, restored speaker spacing and bracketed prop directions, and preserved the source's hesistantly spelling."
+  },
+  {
+    "title": "The Ice Cream Tango", "sourceSlug": "ice-cream-tango", "catalogPlacement": "author-songbook", "pdfSha256": "4578426822a381738969004c69245136a3b2ae0d7fdb4970648cafe211b0ca7e",
+    "pages": [{ "page": 0, "start": 3, "end": 44 }], "stanzaSizes": [9, 11, 9, 12],
+    "sectionLabels": ["A small wish", "The flavors", "Dish or cone?", "Four cones"], "corrections": {},
+    "description": "Four characters turn the modest business of ordering ice cream into an elaborate ensemble number.",
+    "about": "Elizabeth, Sara, Jamie and Austin debate flavors and containers before agreeing on four cones. The sheet credits Lehrer with words and music for the 1973 UCSC production of Park. This edition retains every line on the main lyric page, including spoken replies and the overlapping final entrances in printed order. Page two offers possible scenes before and after the song; those optional scenes are not appended to the lyric.",
+    "themes": ["Theatre", "Food", "Everyday life"], "moods": ["Playful", "Affectionate"], "note": "Reviewed the lyric page and the image-only scene supplement. Kept all forty-one main-text lines and their character labels; excluded the separately proposed framing scenes."
+  },
+  {
+    "title": "The Love Song of the Physical Anthropologist", "sourceSlug": "the-love-song-of-the-physical-anthropologist", "catalogPlacement": "author-songbook", "pdfSha256": "21a67d90277f044d7db8cc50cf247ef161de92c0ffa3b4972062be433a8ba863",
+    "pages": [{ "page": 0, "start": 2, "end": 25 }], "stanzaSizes": [5, 5, 6, 7],
+    "corrections": { "Of her pentadacty 1 hand,": "Of her pentadactyl hand," },
+    "description": "The vocabulary of physical anthropology supplies an unusually technical declaration of love.",
+    "about": "Lehrer's explanatory note contrasts conventional compliments with an anthropologist's descriptive vocabulary. The narrator turns that vocabulary into an affectionate catalogue of physical characteristics. All four lyric blocks are retained, including their demanding compound descriptions. These are historical comic lyrics, not a scientific classification guide; the separate author's explanation stays outside the verse.",
+    "themes": ["Science", "Romance", "Wordplay"], "moods": ["Affectionate", "Playful"], "note": "Compared all twenty-three lines and technical adjectives with the sheet. Corrected the OCR-split pentadactyl; retained the printed its in its plain to see."
+  },
+  {
+    "title": "(We're Gonna Put) A Man on the Moon", "sourceSlug": "were-gonna-put-a-man-on-the-moon", "catalogPlacement": "author-songbook", "pdfSha256": "b103a2862ec6fb19d17c5dc80fdeab931df1633999ca726d1b46fc43bbf3f924",
+    "pages": [{ "page": 0, "start": 3, "end": 29 }], "stanzaSizes": [3, 3, 6, 6, 8], "corrections": {},
+    "description": "Space-race enthusiasm collides with a satirist's questions about spending closer to home.",
+    "about": "The author sheet identifies a performance on That Was the Week That Was on April 27, 1965. The lyric weighs space-program rhetoric against disasters, illness and poverty through an exaggerated narrator. Its costs and priorities belong to a historical satire, not a present-day budget report. The full twenty-six-line song is retained; the later moon-landing note is not a final verse.",
+    "themes": ["Space", "Politics", "Satire"], "moods": ["Wry", "Provocative"], "note": "Checked all five printed blocks, keeping the performance credit and the Armstrong footnote separate from the lyric body."
+  },
+  {
+    "title": "The Menu Song", "sourceSlug": "the-menu-song", "catalogPlacement": "author-songbook", "pdfSha256": "a0f240670e56c2bc6f4952175a5e65ec5a1011b6b63dd4ccdd07cedaac3c7a96",
+    "pages": [{ "page": 0, "start": 9, "end": 46 }, { "page": 1, "start": 1, "end": 19 }],
+    "stanzaSizes": [11, 14, 14, 16], "sectionLabels": ["Soup", "Sandwich", "Salad", "Dessert"],
+    "corrections": { "soap flakes. (*)": "soap flakes." },
+    "description": "A luncheonette menu becomes a chain of increasingly impossible rhymes and meals.",
+    "about": "C is the Customer and W is the Waitress or Waiter. The sheet credits Morgan Freeman and Rita Moreno's Electric Company performance and Lehrer with words and music. This reading follows all four menu courses across both pages, including the printed soap-flakes ending. The author explicitly notes that the television ending was changed. Concrete, gasoline and soap are comic absurdities, not food suggestions; no unprinted opening dialogue has been invented.",
+    "themes": ["Learning", "Language", "Wordplay", "Food"], "moods": ["Playful", "Absurd"], "note": "Checked fifty-five spoken and sung lines in source order. Removed the footnote marker only; identified the different television ending without substituting it."
+  },
+  {
+    "title": "The Mumble Song", "sourceSlug": "the-mumble-song", "catalogPlacement": "author-songbook", "pdfSha256": "13d9fc34dd69abf2f9009dd5b7a1a654ff8e746efac52c769608110cd6fa3967",
+    "pages": [{ "page": 0, "start": 7, "end": 26 }], "stanzaSizes": [5, 5, 4, 5],
+    "sectionLabels": ["First attempt", "Second attempt", "Still trying", "The reply"],
+    "corrections": { "All I can do is mumble, \"I. .. luh ... yoo ... \"": "All I can do is mumble, \"I... luh... yoo...\"" },
+    "description": "An ever-tongue-tied declaration of love tangles itself in a chain of mumbling rhymes.",
+    "about": "The source describes Skip Hinnant trying to express his feelings to Judy Graubart as their characters age through successive verses of an Electric Company sketch. All nineteen lines are retained, including the final exchange. The broken syllables are intentional speech sounds, not missing lyric placeholders. The author's scene description is kept in context rather than turned into another verse.",
+    "themes": ["Learning", "Language", "Romance", "Wordplay"], "moods": ["Shy", "Playful"], "note": "Compared every line and restored the spacing of the first printed mumble. Kept the deliberately varied later spellings and the source's final quotation mark."
+  },
+  {
+    "title": "No Rice (It's Gotta Just Happen)", "sourceSlug": "no-rice", "catalogPlacement": "author-songbook", "pdfSha256": "e22c48ab324be31cccd61070615ba3d186738124c6056bc7fb73831408700ff8",
+    "pages": [{ "page": 0, "start": 3, "end": 29 }, { "page": 0, "start": 30, "end": 39 }],
+    "stanzaSizes": [8, 8, 10, 9], "corrections": {},
+    "description": "A reluctant wedding planner rejects the ceremony and leaves room for something spontaneous.",
+    "about": "Invitations, matching dishes and formal declarations give way to the possibility of an unplanned decision. The source identifies Lehrer's words and music as an interpolation for the 1973 UCSC student production of Park. It separately credits the original musical to Paul Cherry and Lance Mulcahy; those credits are context, not authorship of this lyric. All thirty-five main lines, including the brief spoken invitation, are retained.",
+    "themes": ["Romance", "Marriage", "Independence"], "moods": ["Wry", "Spontaneous"], "note": "Checked all four printed blocks, omitting only zero-width blank lines and the separately printed production note."
+  },
+  {
+    "title": "Polaroid Photography Song", "sourceSlug": "polaroid-photography-song", "catalogPlacement": "author-songbook", "pdfSha256": "4705f4cc1051bcdd6533ee89ce8c41314498501bc56d8a1a55fd5ec2d6617e9b",
+    "pages": [{ "page": 0, "start": 5, "end": 34 }], "stanzaSizes": [2, 2, 2, 3, 3, 4, 2, 4, 2, 3, 2],
+    "sectionLabels": ["Uses", "Diagnostics", "More techniques", "Scale", "Chorus 1", "The sciences", "Chorus 2", "Every field", "Chorus 3", "Faster", "Final chorus"],
+    "corrections": { "CHORUS: For bodies microscopic and for bodies astronomical,": "For bodies microscopic and for bodies astronomical,", "CHORUS: With spectroscopes, oscilloscopes, and cam'ras ultrasonical,": "With spectroscopes, oscilloscopes, and cam'ras ultrasonical,", "CHORUS: In short, in every field from cosmic rays to choreography": { "text": "In short, in every field from cosmic rays to choreography", "occurrences": 2 } },
+    "description": "Scientific imaging techniques race through a patter-song catalogue of photographic possibilities.",
+    "about": "This is the long version written for the September 1980 Polaroid sales meeting, not the separate 1972 promotional-film version on page two. The sheet credits the Major General tune from Gilbert and Sullivan's The Pirates of Penzance and describes a Falmouth recording conducted by Bill Tyler with the College Light Opera Company. Only Lehrer's words are reproduced. The complete twenty-nine-line text includes all chorus returns and the acceleration cue; this historical promotional lyric is not a current product guide.",
+    "themes": ["Photography", "Science", "Wordplay"], "moods": ["Brisk", "Playful"], "note": "Reviewed both versions and selected the complete long text. Chorus labels become section headings; every repeated line and the soft, loud and faster cues remain."
+  },
+  {
+    "title": "Political Action Song", "sourceSlug": "political-action-song", "catalogPlacement": "author-songbook", "pdfSha256": "cfd917dd70e1ad527597199c2969667f5ac96f13fedadb6b39fb2b2c7f4df2e2",
+    "pages": [{ "page": 0, "start": 7, "end": 34 }], "stanzaSizes": [9, 9, 9], "corrections": {},
+    "description": "An organization congratulates itself on its meetings, principles and supposedly enormous influence.",
+    "about": "The author describes this as a retitled revision of The Song of the NSA Warriors, where NSA meant National Student Association. The revised song was used in a March 1956 Hexagon Club benefit show in Washington, D.C. Its self-important collective narrator supplies the joke. All three nine-line stanzas are retained; the historical setting is not a claim about a current political organization.",
+    "themes": ["Politics", "Institutions", "Satire"], "moods": ["Wry", "Self-important"], "note": "Checked twenty-seven lines, preserving the repeated final phrases and keeping the separate production history outside the lyric."
+  },
+  {
+    "title": "Post-Thanksgiving Hymn", "sourceSlug": "post-thanksgiving-hymn", "catalogPlacement": "author-songbook", "pdfSha256": "48ac4097b2266f598ba7842ba7e89c4e182804ea6be3173c4c3f0aee32f2e3e4",
+    "pages": [{ "page": 0, "start": 5, "end": 26 }], "stanzaSizes": [7, 7, 7],
+    "corrections": { "And -remember to floss.": "And remember to floss.", "We concentrate on tressing, (alt We're sweetly acquiescing)": "We concentrate on fressing," },
+    "description": "A family feast is reconsidered through an irreverent hymn of recovery, politeness and relief.",
+    "about": "The source credits Lehrer's replacement words for the traditional Dutch tune We Gather Together and identifies the November 25, 1989 broadcast of Garrison Keillor's American Radio Company of the Air. The three main stanzas contrast ceremonial gratitude with the aftermath of a large meal. This edition retains fressing, the printed eating-related word, rather than merging the separately offered alternative line.",
+    "themes": ["Thanksgiving", "Family", "Satire"], "moods": ["Wry", "Festive"], "note": "Checked all twenty-one lines, restored fressing and removed a stray scan hyphen. The marginal alternative and later publication note are not lyric lines."
+  },
+  {
+    "title": "Scenery", "sourceSlug": "scenery", "catalogPlacement": "author-songbook", "pdfSha256": "bde9a70f93d3949884c428452e690929e9b9b6a2197f42779d4c5889607c1d79",
+    "pages": [{ "page": 0, "start": 5, "end": 33 }, { "page": 0, "start": 34, "end": 38 }],
+    "stanzaSizes": [10, 3, 3, 9, 3, 4], "sectionLabels": ["Entrance and verse", "Refrain 1", "Not ready", "Another verse", "Refrain 2", "Ready at last"],
+    "corrections": { "{all backstage yell:) NO!": "(all backstage yell:) NO!" },
+    "description": "A performer admits that the entire point of the song is to give the stage crew more time.",
+    "about": "The sheet identifies use in shows at Camp Androscoggin and credits James van Heusen's Harmony from Variety Girl as the tune. Lehrer's words break the fourth wall while the backstage crew supplies first a no and then a yes. Both verses, refrains, exchanges and entrance/exit cues are retained. The author's optional group adaptation and dance-interlude suggestion remain separate from the thirty-two-line main text.",
+    "themes": ["Theatre", "Backstage", "Comedy"], "moods": ["Self-aware", "Playful"], "note": "Verified the entire sheet, removed one isolated scan mark and corrected a bracket. Stage cues are explicitly parenthesized; no extra chorus is invented after the final yes."
+  },
+  {
+    "title": "Take Me for a Walk", "sourceSlug": "take-me-for-a-walk", "catalogPlacement": "author-songbook", "pdfSha256": "3e41a48024bd1eab9318f39073485100ad1fddd899de100285ed3cc08fd2cc40",
+    "pages": [{ "page": 0, "start": 4, "end": 23 }, { "page": 0, "start": 27, "end": 40 }, { "page": 1, "start": 1, "end": 27 }],
+    "stanzaSizes": [4, 4, 4, 7, 13, 4, 4, 4, 4, 10],
+    "sectionLabels": ["Opening", "A quiet stroll", "Simple pleasures", "Today", "Interlude", "Walk with me", "Morning hike", "Home again", "Agreement", "Finale"],
+    "corrections": { "Not too energetic [alt: Nothing too athletic]": "Not too energetic", "INTERLUDE : A: There surely must be something I can buy you": "A: There surely must be something I can buy you" },
+    "description": "A family conversation chooses time together over expensive gifts and grand gestures.",
+    "about": "The source identifies Sara (S), Austin (A) and Elizabeth (E), with Jamie as an optional fourth character, in an abandoned revision of Park. It explicitly says no music was written. This complete main reading keeps the largely spoken interlude and the alternating final lines, while excluding the marked optional four-line passage and one alternative phrase. The unusual split-word rhymes remain as printed.",
+    "themes": ["Family", "Walking", "Togetherness"], "moods": ["Warm", "Unhurried"], "note": "Reviewed both pages and retained fifty-eight main-text lines. The printed INTERLUDE marker is a section heading; optional additions are described rather than silently combined."
+  },
+  {
+    "title": "Thank Him for Me", "sourceSlug": "thank-him-for-me", "catalogPlacement": "author-songbook", "pdfSha256": "da1dde012f8531270550be6a67c7e22c4f9853311c94a4fda8cb93fa2758d705",
+    "pages": [{ "page": 0, "start": 2, "end": 38 }], "stanzaSizes": [4, 5, 6, 6, 4, 5, 6], "corrections": {},
+    "description": "A present relationship makes room for gratitude toward someone who helped shape the person being loved.",
+    "about": "The lyric looks beyond the current couple to earlier care, growth and influence. Its recurring invitation to give thanks is gentle rather than satirical. The source credits the words to Lehrer and notes two musical settings, one by Lehrer and one by Michael Gould. All seven printed blocks are retained; neither setting or a particular recording is reproduced or inferred.",
+    "themes": ["Gratitude", "Romance", "Memory"], "moods": ["Tender", "Reflective"], "note": "Checked all thirty-six lines and their printed stanza breaks. Kept the separate note about two composers in context, not in the lyric body."
+  },
+  {
+    "title": "There's a Delta for Every Epsilon", "sourceSlug": "theres-a-delta-for-every-epsilon", "catalogPlacement": "author-songbook", "pdfSha256": "cc33c375dd22741b62b5f4244ce141c433efd6684c7167469fa8e4cc6374c88f",
+    "pages": [{ "page": 0, "start": 3, "end": 26 }], "stanzaSizes": [5, 5, 8, 5], "corrections": {},
+    "description": "A calculus condition becomes a mock campaign for the neglected epsilons on the other side of zero.",
+    "about": "Dated 1949 and labeled Calypso on the author sheet, the song personifies the positive-epsilon condition from analysis. The narrator's proposed enlightened calculus is a joke, not a replacement mathematical definition. All twenty-three lines are retained, including the deliberately broken adjec-/Tives rhyme and the altered pronunciation uragin.",
+    "themes": ["Mathematics", "Calculus", "Wordplay"], "moods": ["Playful", "Wry"], "note": "Checked all four printed blocks, including the eight-line middle section. Excluded only the scan debris below the final stanza."
+  },
+  {
+    "title": "Without an S", "sourceSlug": "without-an-s", "catalogPlacement": "author-songbook", "pdfSha256": "c2a246ff674587d7b794b2cb3d8f8061a5b9e9efcca20d405fe49fe2af25fe47",
+    "pages": [{ "page": 0, "start": 5, "end": 16 }, { "page": 0, "start": 17, "end": 38 }], "stanzaSizes": [5, 5, 6, 5, 6, 5], "corrections": {},
+    "description": "Removing a single letter turns nests into nets, stars into tar and a familiar word into a new one.",
+    "about": "The Electric Company lyric explores how deleting S changes words. The sheet credits Rita Moreno and Bill Cosby's performance, Lehrer with these words, and Vincent Youmans's Without a Song as the musical setting. All six printed blocks are complete. Only Lehrer's replacement words are reproduced, not the third-party tune or a television recording.",
+    "themes": ["Learning", "Language", "Wordplay"], "moods": ["Playful", "Curious"], "note": "Checked thirty-two lines in six blocks. The scan's binder-hole mark is excluded between spine and swine; no lyric line is removed."
+  },
+  {
+    "title": "The Professor's Song", "sourceSlug": "the-professors-song", "catalogPlacement": "author-songbook", "pdfSha256": "9162c7a0d71e367e55cc7019ba0a521afcce2022a75365850a950a5bb0484cde",
+    "pages": [{ "page": 0, "start": 6, "end": 27 }, { "page": 0, "start": 28, "end": 34 }],
+    "stanzaSizes": [9, 9, 9], "sectionLabels": ["Qualifications", "At the blackboard", "The spring"],
+    "corrections": { "It's kx3 or kx2 no, just kx, I'll bet": "It's kx³ --- or kx² --- no, just kx, I'll bet" },
+    "description": "A self-assured physics professor explains why every bewildered student must be the problem.",
+    "about": "This is the physics version from The Physical Revue. The sheet gives the tune as Arthur Sullivan's If You Give Me Your Attention from Princess Ida; only Lehrer's replacement words are reproduced. The blackboard direction and the deliberately confused powers of x are part of the joke, not a lesson in mechanics. The separate mathematics version on page two is not spliced into these three complete stanzas.",
+    "themes": ["Physics", "Education", "Satire"], "moods": ["Wry", "Theatrical"], "note": "Reviewed both pages and selected the complete twenty-seven-line physics text. Restored superscripts and the two dashes displaced into a separate OCR line."
+  },
+  {
+    "title": "s = ½ gt²", "sourceSlug": "s-equals-one-half-g-t-squared", "catalogPlacement": "author-songbook", "pdfSha256": "a68c53728245a425cb98a0b4b56441b50b1f4638098112a4fd1713893d79b21f",
+    "pages": [
+      { "page": 0, "start": 2, "end": 18 },
+      { "page": 0, "bbox": [50, 375, 260, 690], "start": 0, "end": 6 },
+      { "page": 0, "bbox": [260, 375, 585, 690], "start": 0, "end": 5 },
+      { "page": 0, "bbox": [50, 375, 260, 690], "start": 6, "end": 11 },
+      { "page": 0, "bbox": [260, 375, 585, 690], "start": 5, "end": 13 },
+      { "page": 0, "bbox": [50, 375, 260, 690], "start": 11, "end": 14 },
+      { "page": 0, "bbox": [260, 375, 585, 690], "start": 13, "end": 16 }
+    ],
+    "stanzaSizes": [4, 12, 6, 5, 5, 8, 3, 3],
+    "sectionLabels": ["Professor · Opening", "Student · Opening", "Professor · Force", "Student · Response", "Professor · Reprise", "Student · Reprise", "Professor · Coda", "Student · Coda"],
+    "corrections": {
+      "PROFESSOR: sis one half gt squared": "s is one half g t squared",
+      "p v equals n rt": { "text": "p v equals n r t", "occurrences": 2 },
+      "And Tis 2 n times the square root of Lover g.": "And T is 2 π times the square root of L over g.",
+      "STUDENT: I try my level best,": "I try my level best,",
+      "And T is 2 n times the square": "And T is 2 π times the square",
+      "Overg": "Over g", "aC": { "text": "a C", "occurrences": 2 }
+    },
+    "description": "A professor's stream of formulas meets a student's increasingly anxious hope of passing physics.",
+    "about": "Lehrer reuses his own Te Amo tune for a professor-and-student duet. After the two opening solos, the source places the parts in parallel columns: they overlap in performance. For linear reading, each paired passage is presented professor first, then student, with separate reprises and codas. Both complete parts are retained; the symbols pi and L are corrected against the scan, and the final grade remains a C.",
+    "themes": ["Physics", "Education", "Duet"], "moods": ["Anxious", "Comic"], "note": "Checked all forty-six lines. Explicit rectangles keep the overlapping voices separate; section labels identify roles without inventing a performance timeline."
+  },
+  {
+    "title": "The SAC Song", "sourceSlug": "the-sac-song", "catalogPlacement": "author-songbook", "pdfSha256": "07964eae2db24a28842beaad91725bb1374c72e9e450a243a337bbed3d9c9320",
+    "pages": [{ "page": 0, "start": 3, "end": 19 }], "stanzaSizes": [4, 4, 4, 4],
+    "corrections": { "Here at SAC we're tilled with pride,": "Here at SAC we're filled with pride," },
+    "description": "Inspections, alerts and an interrupting red telephone shape an aircrew's wry account of service life.",
+    "about": "The author sheet identifies this version as sung by Rod Taylor in A Gathering of Eagles (1963). Its four stanzas contrast official pride with the interruptions and frustrations of military duty. The second page is explicitly headed extra lyrics - not used, and is not merged into the movie-version text. The historical movie credit does not establish a release date or running time for this editorial songbook entry.",
+    "themes": ["Military life", "Film", "Satire"], "moods": ["Wry", "Restless"], "note": "Reviewed both pages and retained all sixteen lines of the identified movie version. Corrected filled, which OCR read as tilled."
+  },
+  {
+    "title": "Sociology", "sourceSlug": "sociology", "catalogPlacement": "author-songbook", "pdfSha256": "899ca4b4b300cf3af95fc061c064939ae546206db8828792be1b6e0d50761581",
+    "pages": [
+      { "page": 0, "bbox": [60, 130, 290, 630], "start": 1, "end": 15 },
+      { "page": 0, "bbox": [60, 130, 290, 630], "start": 16, "end": 30 },
+      { "page": 0, "bbox": [320, 130, 575, 630], "start": 1, "end": 15 },
+      { "page": 0, "bbox": [320, 130, 575, 630], "start": 16, "end": 30 }
+    ],
+    "stanzaSizes": [14, 14, 14, 14], "sectionLabels": ["Verse 1", "Verse 2", "Verse 3", "Verse 4 · Extra verse"], "corrections": {},
+    "description": "Academic jargon and mathematical prestige become targets in a satire of an evolving discipline.",
+    "about": "The sheet supplies three main numbered verses and a fourth explicitly marked extra verse. All four are included, with that distinction retained in the final chapter. Read the left column before the right, not across the page. Lehrer wrote these words to Irving Berlin's Choreography from White Christmas; this text-only edition reproduces neither Berlin's music nor a film performance.",
+    "themes": ["Sociology", "Academia", "Satire"], "moods": ["Wry", "Brisk"], "note": "Visually checked fifty-six lines in the printed order 1, 2, 3, 4. The separately labeled extra verse remains identifiable, rather than being presented as an unlabeled continuation."
+  },
+  {
+    "title": "Speed's Song", "sourceSlug": "speeds-song", "catalogPlacement": "author-songbook", "pdfSha256": "cd06dbc22cd0c4c5083a49cf2a32e8d1fe277a43bb0294b99523a9c50c5423fd",
+    "pages": [], "manualPages": [0],
+    "manualLines": [
+      "All day long you whine and whimper,", "Sighing sighs and looking vague,", "Fold your arms and look tormented", "(And) hide as if you had the plague.",
+      "War-bl-ing pathetic love songs,", "Tossing in your sleep at night,", "Weeping [sob] --- just as if you'd lost your mother,", "Fasting with no appetite.",
+      "Once you used to laugh at lovers", "When they spoke of how it feels,", "Weeping [sob] --- only when you needed money,", "Fasting only between meals.",
+      "You may be my master,", "But look how you behave!", "Love is the master now,", "You are the slave."
+    ],
+    "stanzaSizes": [4, 4, 4, 4], "corrections": {},
+    "description": "A servant recognizes all the symptoms of love in a master who once laughed at other lovers.",
+    "about": "The sheet says this was written for Act 2, Scene 1 of an abandoned UCSC musical version of The Two Gentlemen of Verona. Lehrer credits Ernesto De Curtis's Torna a Surriento as the tune. The four complete lyric stanzas retain the sob cues and the broken-up word War-bl-ing. The Shakespeare dialogue printed below the divider is background, not an additional lyric verse, and is not reproduced here.",
+    "themes": ["Theatre", "Shakespeare", "Romance"], "moods": ["Teasing", "Theatrical"], "note": "Manually transcribed and visually compared all sixteen lyric lines because the PDF has no text layer. Reviewed the entire page, including the separately printed source dialogue."
+  },
+  {
+    "title": "The Subway Song", "sourceSlug": "the-subway-song", "catalogPlacement": "author-songbook", "pdfSha256": "2970c8814ef34aac7d73209b231156b18ead6a035b769d1d2947ff7b87e5e0aa",
+    "pages": [], "manualPages": [0],
+    "manualLines": [
+      "H is for my Alma Mater, Harvard", "C is Central, next stop on the line", "K is for the kozy Kendall station",
+      "C is Charles, that overlooks the brine", "P is Park Street, busy Boston center", "W is Washington, you see",
+      "Put them all together, they spell “HCKC-PW”", "Which is just about what Boston means to me."
+    ],
+    "stanzaSizes": [8], "corrections": {},
+    "description": "A trip from Harvard into Boston turns station initials into an unflattering acrostic.",
+    "about": "Lehrer's historical note places the song after his arrival in Cambridge in 1943. Its station names belong to that period, not to a current transit guide. The sheet identifies Theodore Morse's M-O-T-H-E-R as the tune and Howard Johnson as that song's original lyricist; the eight replacement lines here are Lehrer's. A source footnote explains the final acronym as a throat-clearing and spitting sound.",
+    "themes": ["Boston", "Travel", "Wordplay"], "moods": ["Irreverent", "Playful"], "note": "Manually checked the complete image-only page and all eight lyric lines, preserving kozy and HCKC-PW. The historical note, renamed stations and explanatory footnote are kept out of the sung text."
+  },
+  {
+    "title": "Te Amo", "sourceSlug": "te-amo", "catalogPlacement": "author-songbook", "pdfSha256": "a6a365be3af9ab522064af9df86fddabc3cdb582c73eb49aafb58a3975b6206b",
+    "pages": [
+      { "page": 0, "start": 2, "end": 19 },
+      { "page": 0, "bbox": [40, 315, 260, 720], "start": 0, "end": 6 },
+      { "page": 0, "bbox": [260, 315, 575, 720], "start": 0, "end": 5 },
+      { "page": 0, "bbox": [40, 315, 260, 720], "start": 8, "end": 20 },
+      { "page": 0, "bbox": [260, 315, 575, 720], "start": 5, "end": 17 },
+      { "page": 0, "bbox": [40, 315, 260, 720], "start": 20, "end": 23 },
+      { "page": 0, "bbox": [260, 315, 575, 720], "start": 17, "end": 20 }
+    ],
+    "stanzaSizes": [4, 13, 6, 5, 12, 12, 3, 3],
+    "sectionLabels": ["He · Opening", "She · Opening", "He · A request", "She · Response", "He · Reprise", "She · Reprise", "He · Coda", "She · Coda"],
+    "sectionLanguages": ["es", "en", "es", "en", "es", "en", "es", "en"],
+    "edition": "Author-published lyric sheet · Spanish and English duet",
+    "corrections": {
+      "HE: Te amo, vida de mi vida,": "Te amo, vida de mi vida,", "Te amo con todo mi coraz6n.": "Te amo con todo mi corazón.",
+      "Par ti yo muero, mi querida,": "Por tí yo muero, mi querida,", "Dejame decirte mi pasi6n.": "Déjame decirte mi pasión.",
+      "SHE: The moon is high above,": "The moon is high above,", "HE: Mi amor,": "Mi amor,",
+      "Un besito de contestaci6n.": "Un besito de contestación.", "SHE: I think he said \"amor.\"": "I think he said \"amor.\"",
+      "I'm almo~t sure that love": "I'm almost sure that love", "Teamo": "Te amo", "mi coraz6n.": "mi corazón.",
+      "Par tf": "Por tí", "Dejame": "Déjame", "mf pasi6n.": "mí pasión."
+    },
+    "description": "A bilingual love duet lets the audience understand a courtship that its two characters cannot quite translate.",
+    "about": "The source credits words and music to Lehrer, with thanks to Munro Edmonson. He sings in Spanish while she answers in English. After the opening solos, the parallel columns show overlapping parts; this reading presents each paired passage one voice at a time, with separate reprises and codas. The marked alternative Spanish couplet is excluded. Spelling, accents and line wraps follow the sheet rather than silently modernizing its Spanish.",
+    "themes": ["Romance", "Language", "Duet"], "moods": ["Comic", "Tender"], "note": "Checked fifty-eight main-text lines and both columns. Each paragraph carries its source language for pronunciation tools; the two voices are never concatenated by horizontal OCR."
+  },
+  {
+    "title": "Unsong", "sourceSlug": "unsong", "catalogPlacement": "author-songbook", "pdfSha256": "900f9bfd982159014994b38614ac462be381cec551a1a3cab2741ad9a7743ea3",
+    "pages": [{ "page": 0, "start": 8, "end": 53 }], "stanzaSizes": [10, 2, 10, 8, 2, 11, 2],
+    "sectionLabels": ["Clothes", "Spoken reply", "Boxes and doors", "Getting dressed", "Another reply", "Undoing the damage", "Both"],
+    "corrections": {
+      "B: I unbutton your shirt [it falls ot1]": "B: I unbutton your shirt [it falls off]",
+      "A: [getting angzy] I dress again": "A: [getting angry] I dress again",
+      "B (spoken): Don't forget \"unfair'!": "B (spoken): Don't forget “unfair”!",
+      "A: Oh,yukk!": "A: Oh, yukk!",
+      "A:. [trying to stop B, falls on bed -- it collapses] Oops! I break the bed": "A: [trying to stop B, falls on bed -- it collapses] Oops! I break the bed",
+      "A: [surprised that B has actually done something helpfu[J Why, thank you!": "A: [surprised that B has actually done something helpful] Why, thank you!"
+    },
+    "description": "One character tidies up while another undoes everything, turning the prefix un- into a comic action sequence.",
+    "about": "Lehrer identifies this as a 1987 speculative lyric for a proposed Disney Channel reading series that was never produced. A is orderly and B mischievous; their repeated reversals eventually undo some damage as well as causing it. This is the complete scripted lyric, including the spoken exchanges and bracketed stage directions. It is not labeled as a released television song or a recording.",
+    "themes": ["Learning", "Language", "Theatre"], "moods": ["Mischievous", "Playful"], "note": "Visually checked forty-five lines, preserving A, B and BOTH roles and all scripted action cues. Fixed broken OCR letters and brackets without rewriting the author's dialogue."
+  },
+  {
+    "title": "We're Talkin' Algebra", "sourceSlug": "were-talkin-algebra", "catalogPlacement": "author-songbook", "pdfSha256": "3f1e75d4b7d83a7ddb19d8df3e2f23df8b97128f04b6f6550597ee0e3ebd0896",
+    "pages": [
+      { "page": 0, "start": 5, "end": 23 }, { "page": 0, "start": 24, "end": 32 }, { "page": 0, "start": 13, "end": 23 },
+      { "page": 0, "start": 34, "end": 42 }, { "page": 0, "start": 13, "end": 23 },
+      { "page": 0, "start": 44, "end": 52 }, { "page": 0, "start": 13, "end": 23 }
+    ],
+    "stanzaSizes": [8, 10, 8, 10, 8, 10, 8, 10],
+    "sectionLabels": ["I · Polynomials", "Refrain 1", "II · Conic sections", "Refrain 2", "III · Matrices", "Refrain 3", "IV · Induction", "Refrain 4"],
+    "corrections": { "REFRAIN (sung): We're talkin' algebra,": { "text": "We're talkin' algebra,", "occurrences": 4 } },
+    "description": "Four rapid-fire lists turn an algebra syllabus into a call-and-response patter song.",
+    "about": "Commissioned by Academic Systems in Mountain View, California, the lyric specifies quasi-rap verses and a sung refrain. The four parts cover polynomials, conic sections, matrices and mathematical induction. Each of the three later REFRAIN instructions returns to the same complete ten-line chorus, expanded here for continuous reading. The source credits Edward Landesman with the short spoken responses on the recording; no audio is reproduced.",
+    "themes": ["Mathematics", "Education", "Wordplay"], "moods": ["Brisk", "Playful"], "note": "Checked the entire page and all four eight-line verses. Expanded only the three explicit refrain returns, yielding seventy-two lines without adding an unmarked repetition."
+  },
+  {
+    "title": "Why Not Fight?", "sourceSlug": "why-not-fight", "catalogPlacement": "author-songbook", "pdfSha256": "08cc8aebeaa4942f7efe176626d4993a2fe031b909d69cd3268a0fd673c9aaef",
+    "pages": [
+      { "page": 0, "start": 4, "end": 6 }, { "page": 0, "start": 7, "end": 14 },
+      { "page": 0, "bbox": [95, 332, 340, 353], "start": 0, "end": 1 },
+      { "page": 0, "bbox": [350, 332, 570, 353], "start": 0, "end": 1 },
+      { "page": 0, "start": 15, "end": 34 }
+    ],
+    "stanzaSizes": [2, 10, 8, 6, 3, 1], "sectionLabels": ["All · Opening cheer", "Fight, might, right", "Night and light", "Sight and tight", "Cheering section", "All · Finale"],
+    "corrections": {
+      "ALL (shouted): Rah, rah! Sis-boom-bah!": "Rah, rah! Sis-boom-bah!",
+      "Fight!": { "text": "Singers: Fight!", "occurrences": 3 }, "Fight?": { "text": "Singers: Fight?", "occurrences": 2 },
+      "F-I-G-H-T": { "text": "Cheering: F-I-G-H-T", "occurrences": 3 },
+      "We may not win, but then again we might!": "Singers: We may not win, but then again we might!", "M-I-G-H-T": "Cheering: M-I-G-H-T",
+      "And even if we don’t, it’s still all right,": "Singers: And even if we don’t, it’s still all right,", "R-I-G-H-T": "Cheering: R-I-G-H-T",
+      "So why not": "Singers: So why not", "Give a cheer, give a yell,": { "text": "Cheering: Give a cheer, give a yell,", "occurrences": 2 },
+      "And while we’re here we might as well": "Cheering: And while we’re here we might as well",
+      "‘Cause if we don’t, we may be here all night (*)": "Singers: ‘Cause if we don’t, we may be here all night",
+      "N-I-G-H-T": "Cheering: N-I-G-H-T", "Let’s try to keep our casualties light": "Singers: Let’s try to keep our casualties light", "L-I-G-H-T": "Cheering: L-I-G-H-T",
+      "And why not": { "text": "Singers: And why not", "occurrences": 2 },
+      "Our team is out-a-sight,": "Singers: Our team is out-a-sight,", "S-I-G-H-T": "Cheering: S-I-G-H-T",
+      "So let’s not get uptight,": "Singers: So let’s not get uptight,", "T-I-G-H-T": "Cheering: T-I-G-H-T",
+      "Show them we know how to spell": "Cheering: Show them we know how to spell", "ALL: (shouted) Fight!": "Fight!"
+    },
+    "description": "A mock team anthem turns a cheering section into a spelling lesson built around -ight words.",
+    "about": "Also titled Fight Song, this Electric Company lyric alternates singers with a shouted cheering section. Their overlapping line at the first Fight? is separated for reading, and editorial role prefixes preserve who says each response. The original alternative quarterback couplet is described in the source footnote, not combined with the revised main version. The opening and final all-cast shouts are retained.",
+    "themes": ["Learning", "Spelling", "Wordplay"], "moods": ["Boisterous", "Playful"], "note": "Checked thirty main-text lines. Split the one merged two-column line, retained every spelling response and removed only the reference marker for the unused earlier couplet."
+  },
+  {
+    "title": "I Can't Think Why", "sourceSlug": "i-cant-think-why", "catalogPlacement": "author-songbook", "pdfSha256": "7a5d52d95afee7f24057199a9c647d7496944d029f02ba36f172a0523537ba89",
+    "pages": [{ "page": 0, "start": 4, "end": 31 }], "stanzaSizes": [9, 9, 9],
+    "corrections": { "To all of their deficiencies I ·open people's eyes,": "To all of their deficiencies I open people's eyes,", "Although I am opinionated, no one should object.": "Although I am opinionated, no one should object:" },
+    "edition": "Author-published lyric sheet · 2001 revision of King Gama's song",
+    "underlyingWork": {
+      "title": "King Gama's song from Princess Ida", "writers": ["W. S. Gilbert"],
+      "evidenceUrls": ["https://www.loc.gov/resource/music.musschatz-21647/"],
+      "rightsNote": "The Library of Congress catalogs the Gilbert libretto as published in 1884 and identifies its Albert Schatz Collection contents as public domain and free to reuse. Lehrer's 2001 revised words are covered separately by his 2022 declaration."
+    },
+    "description": "A narrator proud of correcting everyone else's faults cannot understand why nobody enjoys his company.",
+    "about": "This 2001 revision is based on King Gama's song from Gilbert and Sullivan's Princess Ida. The original lyricist is W. S. Gilbert; the revised wording is by Tom Lehrer. All three nine-line stanzas follow Lehrer's sheet. The recurring protest is comic self-delusion, not the site's endorsement of the narrator's behavior. Original and revised text rights are documented separately below.",
+    "themes": ["Satire", "Vanity", "Theatre"], "moods": ["Wry", "Self-important"], "note": "Checked all twenty-seven lines, removed a stray scan dot and restored the colon before the third stanza's explanation."
+  },
+  {
+    "title": "The Night I Appeared as Macbeth", "sourceSlug": "the-night-i-appeared-as-macbeth", "catalogPlacement": "author-songbook", "pdfSha256": "37f95656e8979bf0ab01272db145da458adc4ca6c41f052972bef00db49353df",
+    "pages": [{ "page": 0, "start": 3, "end": 53 }], "stanzaSizes": [11, 14, 11, 14],
+    "sectionLabels": ["A theatrical calling", "First performance", "Improving Shakespeare", "Curtain call"], "corrections": {},
+    "edition": "Author-published lyric sheet · 1982 revision of the 1922 song",
+    "underlyingWork": {
+      "title": "The Night I Appeared as Macbeth", "writers": ["William Hargreaves"],
+      "evidenceUrls": ["https://tomlehrersongs.com/wp-content/uploads/2019/03/the-night-i-appeared-as-macbeth-music.pdf", "https://www.nickhernbooks.co.uk/plays-to-perform/the-shakespeare-revue"],
+      "rightsNote": "The author-published score explicitly identifies Hargreaves's original lyrics and music as public domain; the lyric sheet dates the original to 1922. The publisher of The Shakespeare Revue independently credits Hargreaves and Lehrer's revised words. Only the text is reproduced here, not that published revue or a score."
+    },
+    "description": "An aspiring actor mistakes a disastrous Shakespeare performance for the beginning of a brilliant career.",
+    "about": "William Hargreaves wrote the original song; this sheet presents Tom Lehrer's 1982 revisions. The audience supplies eggs, vegetables and other unmistakable reviews while the actor clings to his confidence. All fifty lines are retained. In the original PDF, italics distinguish revised passages; this reading uses uniform text styling and credits both writers rather than attributing the whole lyric solely to Lehrer.",
+    "themes": ["Theatre", "Shakespeare", "Satire"], "moods": ["Theatrical", "Absurd"], "note": "Checked the complete four-block lyric sheet. The source's original-versus-revised typography is explained in context, and the separate original-work public-domain statement is linked."
+  },
+  {
+    "title": "Trees", "sourceSlug": "trees", "catalogPlacement": "author-songbook", "pdfSha256": "1c6d0d333385a27c6b9866cf056c63564e69d424804183b0fc38328e889c1467",
+    "pages": [{ "page": 0, "start": 4, "end": 19 }], "stanzaSizes": [15],
+    "corrections": { "1s aid God ---": "I said God ---", "1m ean God --": "I mean God ---" },
+    "edition": "Author-published lyric sheet · comic adaptation of Joyce Kilmer's poem",
+    "underlyingWork": {
+      "title": "Trees, in Trees and Other Poems (1914)", "writers": ["Joyce Kilmer"],
+      "evidenceUrls": ["https://www.gutenberg.org/ebooks/263", "https://www.gutenberg.org/cache/epub/263/pg263-images.html"],
+      "rightsNote": "Project Gutenberg identifies the 1914 collection and Joyce Kilmer (1886–1918), and marks the original text public domain in the USA. Lehrer's later adaptation is separately covered by his 2022 declaration. No rights in a musical setting are inferred."
+    },
+    "description": "Kilmer's reverent nature poem receives a deliberately colloquial, irreverent comic rewrite.",
+    "about": "The sheet credits Joyce Kilmer's original words, Oscar Rasbach's musical setting and Lehrer's adaptation. This entry contains the fifteen-line adaptation, not the original poem printed separately underneath. Deliberate spellings such as pome and purty are retained. Both the original poet and adapter are credited, with separate evidence for the old poem and the later rewritten text.",
+    "themes": ["Poetry", "Nature", "Satire"], "moods": ["Irreverent", "Playful"], "note": "Checked the complete adapted passage and the separately printed original. Fixed OCR's numeral 1 and spacing in the two repeated I lines; did not modernize the deliberately comic language."
+  },
+  {
+    "title": "Tango de la Menegilda", "sourceSlug": "tango-de-la-menegilda", "catalogPlacement": "author-songbook", "pdfSha256": "cb4c04ad6ac14166ec62580d609736351e9f8696186298c5c772c7e1862fc3f2",
+    "pages": [{ "page": 0, "bbox": [30, 85, 300, 711], "start": 0, "end": 51 }], "stanzaSizes": [8, 11, 7, 8, 10, 7],
+    "corrections": { "That life was passsing me by.": "That life was passing me by.", "My road to sucess is ---": "My road to success is ---", "Shopping alone evry day.": "Shopping alone every day." },
+    "edition": "Author-published lyric sheet · Tom Lehrer's English version of a Spanish lyric",
+    "underlyingWork": {
+      "title": "Tango de la Menegilda from La Gran Vía", "writers": ["Felipe Pérez y González"],
+      "evidenceUrls": ["https://archivo.sgae.es/heritageobject/la-gran-via-544f/", "https://datos.bne.es/persona/XX4579027", "https://www.bne.es/es/colecciones/partituras/teatro-lirico/gran-via"],
+      "rightsNote": "The SGAE archive credits Felipe Pérez y González (1854–1910) as librettist and records the 1886 premiere; Spain's national library documents the nineteenth-century editions. The original lyric predates modern copyright terms, and Lehrer's English version is covered separately by his 2022 declaration. This does not license later recordings, photographs or editions."
+    },
+    "description": "A resourceful maid narrates her escape from exhausting work through an increasingly dubious education in survival.",
+    "about": "This is Lehrer's English version of the maid's tango from La Gran Vía, with original Spanish words by Felipe Pérez y González and music by Federico Chueca and Joaquín Valverde. The left-hand English column supplies all six stanzas; the facing Spanish text is not interleaved. The narrator's schemes are theatrical satire. The final e-/Ven line break is preserved, and original-work evidence is separate from the translator's declaration.",
+    "themes": ["Theatre", "Work", "Satire"], "moods": ["Resourceful", "Wry"], "note": "Checked both columns and transcribed the complete fifty-one-line English version. Corrected three OCR spelling errors against the page, retained the split-word rhyme and excluded the separate performance-link note."
+  },
+  {
+    "title": "My Home Town", "sourceSlug": "my-home-town", "catalogPlacement": "recorded-release",
+    "pdfSha256": "af7299562e375bf06c4e642c7e39ea69a568871568967296e91155c3ceff34fe",
+    "pages": [], "manualPages": [0, 1, 2, 3],
+    "manualLines": [
+      "I really have a yen",
+      "To go back once again,",
+      "Back to the place where no-one wears a frown,",
+      "To see once more those super-special just plain folks",
+      "In my home town.",
+      "No fellow could ignore",
+      "The little girl next door,",
+      "She sure looked sweet in her first evening gown.",
+      "Now there's a charge for what she used to give for free",
+      "In my home town.",
+      "I remember Dan, the druggist on the corner,",
+      "'E was never mean or ornery,",
+      "He was swell.",
+      "He killed his mother-in-law and ground her up real well,",
+      "And sprinkled just a bit",
+      "Over each banana split.",
+      "The guy that taught us math,",
+      "Who never took a bath,",
+      "Acquired a certain measure of renown,",
+      "And after school he sold the most amazing pictures",
+      "In my home town.",
+      "That fellow was no fool",
+      "Who taught our Sunday School,",
+      "And neither was our kindly Parson Brown.",
+      "(Hum)",
+      "In my home town.",
+      "I remember Sam, he was the village idiot",
+      "And though it seems a pity, it was so.",
+      "He loved to burn down houses just to watch the glow,",
+      "And nothing could be done",
+      "'Cause he was the mayor's son.",
+      "The guy that took a knife",
+      "And monogrammed his wife,",
+      "Then dropped her in the pond and watched her drown.",
+      "Oh, yes indeed, the people there are just plain folks",
+      "In my home town."
+    ],
+    "stanzaSizes": [5, 5, 6, 5, 5, 5, 5],
+    "sectionLabels": ["A return home", "The girl next door", "Dan", "The math teacher", "Sunday School", "Sam", "Just plain folks"],
+    "corrections": {},
+    "edition": "Author-published score · both lyric rows in repeat order, followed by the coda",
+    "scoreReading": {
+      "repeatNote": "Read the upper lyric row from page 1 through the first measure on page 4. The repeat bar returns to the lower lyric row on page 1, using the pickup The already supplied on page 4. After the lower row reaches the repeat bar, continue with the single-row coda on page 4. The parenthesized The at the start of the lower row is not a second word.",
+      "segments": [
+        { "pages": [0, 1], "lyricRow": "upper", "lineRange": [0, 5], "note": "Opening pickup through the first home-town cadence on page 2." },
+        { "pages": [1, 2], "lyricRow": "upper", "lineRange": [5, 10], "note": "No fellow through the home-town cadence on page 3." },
+        { "pages": [2, 3], "lyricRow": "upper", "lineRange": [10, 16], "note": "Dan passage through banana split before the repeat; retain the printed elision 'e." },
+        { "pages": [3, 0, 1], "lyricRow": "lower", "lineRange": [16, 21], "note": "The pickup before the repeat joins guy on page 1; read only the lower lyric row." },
+        { "pages": [1, 2], "lyricRow": "lower", "lineRange": [21, 26], "note": "Sunday School and Parson Brown passage, including the printed Hum direction." },
+        { "pages": [2, 3], "lyricRow": "lower", "lineRange": [26, 31], "note": "Sam passage through mayor's son; no third traversal of the repeat." },
+        { "pages": [3], "lyricRow": "single", "lineRange": [31, 36], "note": "Continue past the repeat into the final knife passage and closing cadence." }
+      ]
+    },
+    "description": "A nostalgic return to a small town reveals increasingly macabre stories behind its respectable neighbors.",
+    "about": "The narrator's warm memories conceal grotesque stories about the people he grew up around. This is fictional dark satire, including violence and dated derogatory language. The author supplies a four-page score rather than a separate lyric sheet. This reading follows its upper lyric row, repeats with the lower row, then continues into the final coda. The written humming cue is retained without inventing words. Line breaks and the seven section titles are editorial reading aids; spoken introductions from recordings are not included.",
+    "themes": ["Satire", "Hometown", "Dark comedy"], "moods": ["Nostalgic", "Macabre"],
+    "note": "Visually reviewed all four score pages and both lyric rows. Joined syllables split across notes and page turns, followed the marked repeat once, preserved the humming cue, and excluded the noisy OCR layer and all musical notation."
+  }
+]

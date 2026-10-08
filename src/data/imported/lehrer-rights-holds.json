@@ -1,0 +1,39 @@
+[
+  {
+    "sourceSlug": "all-is-well",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/all-is-well/",
+    "reason": "The sheet credits French lyrics to Bach and Henri Laverne and an English translation to Tom Lehrer. The translator's release alone does not establish permission to republish the underlying lyrics. Do not promote either language until separate rights evidence is reviewed."
+  },
+  {
+    "sourceSlug": "the-bourgeoisie",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/the-bourgeoisie/",
+    "reason": "The first page credits the French words of Les Bourgeois to Jacques Brel, music to Jean Corti and an English version to Tom Lehrer. No separate permission for the underlying lyric has been established. Keep both the original and translated text out of the full-lyric catalog pending that evidence."
+  },
+  {
+    "sourceSlug": "juca",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/juca/",
+    "reason": "The sheet explicitly credits the Portuguese lyrics and music to Chico Buarque, with English lyrics by Tom Lehrer. Lehrer's declaration does not establish rights in Buarque's underlying words. Neither language is approved for republication in the full-lyric catalog."
+  },
+  {
+    "sourceSlug": "sunshine",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/sunshine/",
+    "reason": "The Bom Tempo / Sunshine sheet credits music and Portuguese lyrics to Chico Buarque and English lyrics to Tom Lehrer. No independent clearance of the underlying lyric has been reviewed. Hold both versions rather than treating the English credit as proof of permission for the whole work."
+  },
+  {
+    "sourceSlug": "shakespeare-lied",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/shakespeare-lied/",
+    "reason": "The sheet identifies original lyrics by Carolyn Leigh, original music by Elmer Bernstein and an adaptation by Tom Lehrer for a song from How Now, Dow Jones. The adaptation credit is not sole authorship of all displayed words. Do not publish the adapted lyric without independent clearance of the underlying text."
+  },
+  {
+    "sourceSlug": "hey-joe",
+    "status": "underlying-lyrics-rights-unverified",
+    "sourceUrl": "https://tomlehrersongs.com/hey-joe/",
+    "reason": "The DOCX and score contain simultaneous English words by Tom Lehrer and a Neapolitan part from 'O Sole Mio, credited to Giovanni Capurro. The DOCX also credits Eduardo di Capua and Alfredo Mazzucchi for the earlier music. Lehrer's declaration does not clear all contributors to the duet. A separate basis for worldwide republication of the complete text has not been established; do not label just the English part as the complete duet. No lyric body is published while this review is outstanding.",
+    "evidenceUrls": ["https://tomlehrersongs.com/wp-content/uploads/2019/03/Hey-Joe-lyrics-with-history.docx", "https://tomlehrersongs.com/wp-content/uploads/2019/03/Hey-Joe-score-final.pdf", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0077"]
+  }
+]

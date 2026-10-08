@@ -1,111 +1,88 @@
-import React, { useState, useMemo } from 'react';
-import { useSearchParams } from 'react-router-dom';
-import { Search, RotateCw, Music } from 'lucide-react';
-import AlphaPagination from '../components/common/AlphaPagination';
-import ArtistListCard from '../components/artists/ArtistListCard';
-import { ARTISTS } from '../data/mockData';
-import { Artist } from '../types';
+import { useMemo } from 'react';
+import { Search, X } from 'lucide-react';
+import { Link, useSearchParams } from 'react-router';
+import { CatalogCard } from '../components/ui/CatalogCard';
+import { EmptyState } from '../components/ui/Status';
+import { ARTISTS } from '../data/catalog';
+import { normalizeCatalogText } from '../data/normalize';
+import { paginate } from '../data/pagination';
+import { Pagination } from '../components/ui/Pagination';
 
-const BrowseArtists = () => {
-  const [searchParams] = useSearchParams();
-  const filterChar = searchParams.get('filter') || 'All';
-  const [searchQuery, setSearchQuery] = useState('');
+const LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
-  // Filter and Group Artists
-  const groupedArtists = useMemo(() => {
-    let filtered = ARTISTS;
+export const meta = () => [
+  { title: 'Artist index A–Z — 52lyrics' },
+  { name: 'description', content: 'Browse the 52lyrics artist catalog alphabetically or search by name and genre.' },
+];
 
-    // Filter by search
-    if (searchQuery) {
-      filtered = filtered.filter(a => a.name.toLowerCase().includes(searchQuery.toLowerCase()));
-    }
+export default function BrowseArtists() {
+  const [params, setParams] = useSearchParams();
+  const letter = LETTERS.includes(params.get('letter')) ? params.get('letter') : 'all';
+  const query = params.get('q') || '';
+  const setQuery = (value: string) => {
+    const next = new URLSearchParams(params);
+    if (value) next.set('q', value); else next.delete('q');
+    next.delete('page');
+    setParams(next, { replace: true });
+  };
+  const setLetter = (value: string) => {
+    const next = new URLSearchParams(params);
+    if (value === 'all') next.delete('letter'); else next.set('letter', value);
+    next.delete('page');
+    setParams(next);
+  };
 
-    // Filter by char
-    if (filterChar !== 'All') {
-      if (filterChar === 'num') {
-        filtered = filtered.filter(a => /^\d/.test(a.name));
-      } else {
-        filtered = filtered.filter(a => a.name.toUpperCase().startsWith(filterChar));
-      }
-    }
-
-    // Group by first letter
-    const groups: Record<string, Artist[]> = {};
-    filtered.forEach(artist => {
-      const firstChar = artist.name.charAt(0).toUpperCase();
-      const groupKey = /^[A-Z]/.test(firstChar) ? firstChar : '#';
-      if (!groups[groupKey]) groups[groupKey] = [];
-      groups[groupKey].push(artist);
-    });
-
-    // Sort keys
-    return Object.keys(groups).sort().reduce((acc, key) => {
-      acc[key] = groups[key];
-      return acc;
-    }, {} as Record<string, Artist[]>);
-  }, [filterChar, searchQuery]);
+  const artists = useMemo(() => ARTISTS.filter((artist) => {
+    const matchesLetter = letter === 'all' || normalizeCatalogText(artist.name).toUpperCase().startsWith(letter);
+    const normalizedQuery = normalizeCatalogText(query);
+    const matchesQuery = !normalizedQuery || [artist.name, ...artist.genres].some((value) => normalizeCatalogText(value).includes(normalizedQuery));
+    return matchesLetter && matchesQuery;
+  }).sort((left, right) => left.name.localeCompare(right.name, 'en') || left.id.localeCompare(right.id)), [letter, query]);
+  const pagination = paginate(artists.length, params.get('page'));
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      {/* Header */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 mb-8">
-        <div>
-          <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">Browse Artists</h1>
-          <p className="text-gray-400">Find your favorite artists alphabetically or use the search bar.</p>
+    <div className="shell page">
+      <header className="page-intro page-intro--split">
+        <div><span className="eyebrow">A–Z catalog</span><h1>Every voice,<br /><em>within reach.</em></h1></div>
+        <div className="artist-search">
+          <Search aria-hidden="true" />
+          <input value={query} onChange={(event) => setQuery(event.target.value)} placeholder="Filter by name or genre" aria-label="Filter artists" />
+          {query && <button type="button" onClick={() => setQuery('')} aria-label="Clear artist filter"><X aria-hidden="true" /></button>}
         </div>
-        
-        <div className="relative w-full md:w-80">
-          <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
-          <input
-            type="text"
-            placeholder="Search for an artist..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-surface text-white pl-10 pr-4 py-3 rounded-xl border border-gray-800 focus:border-primary-500 focus:outline-none focus:ring-1 focus:ring-primary-500 placeholder:text-gray-500 transition-all"
-          />
-        </div>
+      </header>
+
+      <nav className="alphabet-nav" aria-label="Artist first letter">
+        <button type="button" onClick={() => setLetter('all')} className={letter === 'all' ? 'is-active' : ''} aria-current={letter === 'all' ? 'page' : undefined}>All</button>
+        {LETTERS.map((value) => (
+          <button type="button" key={value} onClick={() => setLetter(value)} className={letter === value ? 'is-active' : ''} aria-current={letter === value ? 'page' : undefined}>{value}</button>
+        ))}
+      </nav>
+
+      <div className="catalog-summary">
+        <span><strong>{artists.length}</strong> matching artists</span>
+        <span><strong>{artists.reduce((total, artist) => total + artist.songCount, 0)}</strong> cataloged tracks</span>
+        <span>Metadata and availability are clearly labeled</span>
       </div>
 
-      {/* Filter */}
-      <div className="mb-10 overflow-x-auto no-scrollbar">
-        <AlphaPagination activeChar={filterChar} />
-      </div>
-
-      {/* Content */}
-      <div className="space-y-12">
-        {Object.keys(groupedArtists).length > 0 ? (
-          Object.entries(groupedArtists).map(([letter, artists]) => (
-            <div key={letter}>
-              <h2 className="text-2xl font-bold text-primary-500 mb-6">{letter}</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-                {artists.map(artist => (
-                  <ArtistListCard key={artist.id} artist={artist} />
-                ))}
-              </div>
-            </div>
-          ))
-        ) : (
-          <div className="py-20 flex flex-col items-center justify-center text-center border border-dashed border-gray-800 rounded-3xl bg-surface/50">
-            <div className="w-16 h-16 rounded-full bg-dark-800 flex items-center justify-center mb-4">
-              <Music className="w-8 h-8 text-gray-600" />
-            </div>
-            <h3 className="text-xl font-bold text-white mb-2">No artists found starting with '{filterChar}'</h3>
-            <p className="text-gray-400">Try searching for a specific artist above.</p>
-          </div>
-        )}
-      </div>
-
-      {/* Load More */}
-      {Object.keys(groupedArtists).length > 0 && (
-        <div className="mt-12 flex justify-center">
-          <button className="flex items-center gap-2 px-6 py-3 rounded-full border border-primary-500 text-white hover:bg-primary-500/10 transition-colors font-semibold">
-            <RotateCw className="w-4 h-4" />
-            <span>Load More Artists</span>
-          </button>
+      {artists.length ? (
+        <>
+        <Pagination pagination={pagination} label="Artist pages" anchor="artist-results" />
+        <div className="artist-index" id="artist-results">
+          {artists.slice(pagination.offset, pagination.end).map((artist, index) => (
+            <CatalogCard key={artist.id} itemRef={{ type: 'artist', id: artist.id }} index={pagination.offset + index} />
+          ))}
         </div>
+        <Pagination pagination={pagination} label="Artist pages" anchor="artist-results" position="bottom" />
+        </>
+      ) : (
+        <EmptyState
+          eyebrow="No artist match"
+          title="Try another part of the alphabet."
+          description="Clear the text filter or choose All to return to the full index."
+          action={<button type="button" className="text-link" onClick={() => { setQuery(''); setParams({}); }}>Show all artists</button>}
+        />
       )}
+      <p className="page-footnote">Looking for a song instead? <Link to="/search">Search the full catalog.</Link></p>
     </div>
   );
-};
-
-export default BrowseArtists;
+}

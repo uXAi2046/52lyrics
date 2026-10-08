@@ -1,0 +1,2092 @@
+{
+  "schemaVersion": 1,
+  "status": "source-material-awaiting-transcription-review",
+  "retrievedAt": "2026-09-08T10:32:29.676Z",
+  "evidenceUrl": "https://tomlehrersongs.com/",
+  "evidenceSha256": "4c7704894e2d92ad0ad4d50b8ef23fa50854c1a92eda2943b23b2b2ae48c673b",
+  "songs": [
+    {
+      "slug": "all-i-need-is-a-job",
+      "title": "All I Need is a Job",
+      "sourceUrl": "https://tomlehrersongs.com/all-i-need-is-a-job/",
+      "sourceModified": "2019-03-11T03:35:52",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/all-i-need-is-a-job.pdf",
+          "filename": "all-i-need-is-a-job-1.pdf",
+          "sha256": "81c43d3700c43c85a6cb5fe91b77fa53b6fb2a05b8e3ddc4dc9545a0f935023e",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "all-is-well",
+      "title": "All is Well",
+      "sourceUrl": "https://tomlehrersongs.com/all-is-well/",
+      "sourceModified": "2019-03-11T03:54:11",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/03/all-is-well.pdf",
+          "filename": "all-is-well-1.pdf",
+          "sha256": "f66cb65d16cd2b8c1dd286793d4725628b3f64de380e049a0e48d482c0cfa516",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "alma",
+      "title": "Alma",
+      "sourceUrl": "https://tomlehrersongs.com/alma/",
+      "sourceModified": "2021-10-10T20:15:40",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/11/alma.pdf",
+          "filename": "alma-1.pdf",
+          "sha256": "0c322c3d186452c7e6acd7e4e0622885a0451f84ded02eed4fd0244e5c817af9",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "are-there-any-questions",
+      "title": "Are There Any Questions?",
+      "sourceUrl": "https://tomlehrersongs.com/are-there-any-questions/",
+      "sourceModified": "2019-02-05T00:23:59",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/are-there-any-questions.pdf",
+          "filename": "are-there-any-questions-1.pdf",
+          "sha256": "0baa4726b0fb75eb02d86cf6dfe4e97b7d7e7ee04b19026e0da823290af2ccad",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "baby-is-it-love",
+      "title": "Baby, Is It Love?",
+      "sourceUrl": "https://tomlehrersongs.com/baby-is-it-love/",
+      "sourceModified": "2019-03-12T01:29:58",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/baby-is-it-love.pdf",
+          "filename": "baby-is-it-love-1.pdf",
+          "sha256": "c38a1258407474a492423405a10286fc692fa5c3c1cb7cd6d69a913ed4ae07e9",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "be-prepared",
+      "title": "Be Prepared",
+      "sourceUrl": "https://tomlehrersongs.com/be-prepared/",
+      "sourceModified": "2021-10-09T06:15:03",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/be-prepared.pdf",
+          "filename": "be-prepared-1.pdf",
+          "sha256": "29946335c8ce6a2e635b429404ec50c8fe2cc85f14a1c1dfeb4a214076d9f427",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-bourgeoisie",
+      "title": "The Bourgeoisie",
+      "sourceUrl": "https://tomlehrersongs.com/the-bourgeoisie/",
+      "sourceModified": "2019-03-12T01:30:19",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-bourgeoisie.pdf",
+          "filename": "the-bourgeoisie-1.pdf",
+          "sha256": "8617ff15d3e7b3ed7bd876d13a47b7766595ecb3d7e5a8da6233f2c310e949aa",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "bright-college-days",
+      "title": "Bright College Days",
+      "sourceUrl": "https://tomlehrersongs.com/bright-college-days/",
+      "sourceModified": "2021-10-09T18:21:14",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/bright-college-days.pdf",
+          "filename": "bright-college-days-1.pdf",
+          "sha256": "2247472a9d989e9e6add99b940af2e39958f125a4ec32069ba8db210653ff78e",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "a-christmas-carol",
+      "title": "A Christmas Carol",
+      "sourceUrl": "https://tomlehrersongs.com/a-christmas-carol/",
+      "sourceModified": "2021-10-09T18:22:14",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/a-christmas-carol.pdf",
+          "filename": "a-christmas-carol-1.pdf",
+          "sha256": "5838b86b244cc63b47e9c13a2582ae46da2fc9a97e4f25374da5097a9d9188af",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "clementine",
+      "title": "Clementine",
+      "sourceUrl": "https://tomlehrersongs.com/clementine/",
+      "sourceModified": "2021-10-09T18:23:05",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/clementine.pdf",
+          "filename": "clementine-1.pdf",
+          "sha256": "4b5c347a0f788718d27ad37580453a79fe0109c7d5733fa7b98ada76565bf1cf",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "deep-doodoo",
+      "title": "Deep Doodoo",
+      "sourceUrl": "https://tomlehrersongs.com/deep-doodoo/",
+      "sourceModified": "2020-01-14T20:40:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2020/01/Deep-Doodoo-PBS.pdf",
+          "filename": "deep-doodoo-1.pdf",
+          "sha256": "1674b78d20f51309b35446c1a05211dd7a4ab399a0be7cbae97874611e35a5f2",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-derivative-song-dy-dx",
+      "title": "The Derivative Song (dy/dx)",
+      "sourceUrl": "https://tomlehrersongs.com/the-derivative-song-dy-dx/",
+      "sourceModified": "2019-05-04T14:22:15",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-derivative-song.pdf",
+          "filename": "the-derivative-song-dy-dx-1.pdf",
+          "sha256": "a8ea51eba33198e3afe91aec0b9504d4d40a3202cd251b7edf127afcecbd86bc",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "dodging-the-draft-at-harvard",
+      "title": "Dodging the Draft at Harvard",
+      "sourceUrl": "https://tomlehrersongs.com/dodging-the-draft-at-harvard/",
+      "sourceModified": "2019-02-05T00:25:02",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/dodging-the-draft-at-harvard.pdf",
+          "filename": "dodging-the-draft-at-harvard-1.pdf",
+          "sha256": "3e25f5f88dc6b3afb3bafa2c36952235dbfa271011861df91d888dbe19ea90fd",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "dont-major-in-physics",
+      "title": "Don’t Major in Physics",
+      "sourceUrl": "https://tomlehrersongs.com/dont-major-in-physics/",
+      "sourceModified": "2019-02-05T00:25:04",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/dont-major-in-physics.pdf",
+          "filename": "dont-major-in-physics-1.pdf",
+          "sha256": "8db815afc5dec191be842ffafd7c74c56cd747d9cd260bca2a9ac0a813f7eeb5",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-elements",
+      "title": "The Elements (incl. the Aristotle version and Elements 103-118)",
+      "sourceUrl": "https://tomlehrersongs.com/the-elements/",
+      "sourceModified": "2023-09-19T18:26:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-elements.pdf",
+          "filename": "the-elements-1.pdf",
+          "sha256": "47f7d82247a282c17e5336d6e842890493f4b47d46d42437657db5b6835d9b13",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2023/09/Elements-103-to-118-.docx",
+          "filename": "the-elements-lyrics.docx",
+          "sha256": "9d401a06a025cf26edf3da7f8a6024d2d0a8ff0e546bff444f4688c62b3c5db1",
+          "format": "docx",
+          "kind": "lyric-sheet"
+        }
+      ]
+    },
+    {
+      "slug": "fight-fiercely-harvard",
+      "title": "Fight Fiercely, Harvard",
+      "sourceUrl": "https://tomlehrersongs.com/fight-fiercely-harvard/",
+      "sourceModified": "2021-10-09T18:24:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/fight-fiercely.pdf",
+          "filename": "fight-fiercely-harvard-1.pdf",
+          "sha256": "75fa5ec48f24c10438f8b63f9b02bb97d596faa63ea8189b5d8041ab7aa98bfd",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "finch-and-dench",
+      "title": "Finch and Dench",
+      "sourceUrl": "https://tomlehrersongs.com/finch-and-dench/",
+      "sourceModified": "2019-02-05T00:25:12",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/finch-and-dench.pdf",
+          "filename": "finch-and-dench-1.pdf",
+          "sha256": "1f89e9ce375298a782163efaaa7ade4ae3a1c0522a2d7215afbc650b3e571a2d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-folk-song-army",
+      "title": "The Folk Song Army",
+      "sourceUrl": "https://tomlehrersongs.com/the-folk-song-army/",
+      "sourceModified": "2021-10-09T19:47:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-folk-song-army.pdf",
+          "filename": "the-folk-song-army-1.pdf",
+          "sha256": "10fcbb8e20a67bc031d20ac177fed532ccb30c98b73b71b2297f4ab6b3e5f8d3",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "fugue-for-scientists",
+      "title": "Fugue for Scientists",
+      "sourceUrl": "https://tomlehrersongs.com/fugue-for-scientists/",
+      "sourceModified": "2019-02-05T00:33:28",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/fugue-for-scientists.pdf",
+          "filename": "fugue-for-scientists-1.pdf",
+          "sha256": "bfadbf08e95b0e7e5883b349b64f5490b3b45b5225b8df9a9f0807afd9ce3905",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "gsas-alma-mater",
+      "title": "GSAS Alma Mater",
+      "sourceUrl": "https://tomlehrersongs.com/gsas-alma-mater/",
+      "sourceModified": "2019-02-05T00:34:08",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/gsas-alma-mater.pdf",
+          "filename": "gsas-alma-mater-1.pdf",
+          "sha256": "70bbdd0704b8b2243dd15916a2399bccaa007b8e1f4bc66a4fd7814320750979",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "george-murphy",
+      "title": "George Murphy (incl. The George Murphy Campaign Song and addenda)",
+      "sourceUrl": "https://tomlehrersongs.com/george-murphy/",
+      "sourceModified": "2021-10-08T16:37:22",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/george-murphy.pdf",
+          "filename": "george-murphy-1.pdf",
+          "sha256": "e7f27de8e2dd98522b2c76306415bf16f99046e5d80d8da2e961e23d7eac460e",
+          "kind": "lyric-sheet"
+        },
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-george-murphy-campaign-song.pdf",
+          "filename": "george-murphy-2.pdf",
+          "sha256": "280974f53069f5a2378102a63061e6bf499dbb547da668e8780804154c3d797c",
+          "kind": "lyric-sheet"
+        },
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/george-murphy-addenda.pdf",
+          "filename": "george-murphy-3.pdf",
+          "sha256": "51d7eec1f14e7ad1f0cf1be014d1f0a9f6bc0d1b9bd2db3c4fddfc7125ccd6c4",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "hail-chemistry",
+      "title": "Hail Chemistry",
+      "sourceUrl": "https://tomlehrersongs.com/hail-chemistry/",
+      "sourceModified": "2019-03-11T04:17:00",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/03/hail-chemistry.pdf",
+          "filename": "hail-chemistry-1.pdf",
+          "sha256": "b59de66e360c151fc6b66ae001a6952aea9ced623f48ba868af735d5e5d044ea",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "hanukkah-in-santa-monica",
+      "title": "(I’m Spending) Hanukkah in Santa Monica",
+      "sourceUrl": "https://tomlehrersongs.com/hanukkah-in-santa-monica/",
+      "sourceModified": "2023-09-19T21:17:09",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/hanukkah-in-santa-monica.pdf",
+          "filename": "hanukkah-in-santa-monica-1.pdf",
+          "sha256": "61bcc585790ae3de72d97c711590b8fa4627c2491a951f9242253cf016036b6c",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "hes-not-the-one",
+      "title": "He’s Not the One",
+      "sourceUrl": "https://tomlehrersongs.com/hes-not-the-one/",
+      "sourceModified": "2019-02-05T00:34:27",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/hes-not-the-one.pdf",
+          "filename": "hes-not-the-one-1.pdf",
+          "sha256": "f76cc916ae1f988306218b553373acca927563e14d01fd8bcf8c60f9ab6101b2",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "hey-joe",
+      "title": "Hey, Joe!",
+      "sourceUrl": "https://tomlehrersongs.com/hey-joe/",
+      "sourceModified": "2021-01-24T05:41:22",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/03/Hey-Joe-score-final.pdf",
+          "filename": "hey-joe-score.pdf",
+          "sha256": "c2cfa154eb838f452dbd49b17fd31430216ec85eacacf516dc0dd5fa9272d1ca",
+          "kind": "score"
+        }
+      ],
+      "documents": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/03/Hey-Joe-lyrics-with-history.docx",
+          "filename": "hey-joe-lyrics.docx",
+          "sha256": "2b7bd571739cd71b1947a9aa01de0d8a340be583638c007a859cca21d56a7fcf",
+          "format": "docx",
+          "kind": "lyric-sheet"
+        }
+      ]
+    },
+    {
+      "slug": "high-school-hymn",
+      "title": "High School Hymn",
+      "sourceUrl": "https://tomlehrersongs.com/high-school-hymn/",
+      "sourceModified": "2019-05-04T14:23:04",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/05/high-school-hymn.pdf",
+          "filename": "high-school-hymn-1.pdf",
+          "sha256": "ce15c8d4904181b65c3aaafcc159cacfa0d013ff763597c8f8d1bf5d30f88b80",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-hunting-song",
+      "title": "The Hunting Song",
+      "sourceUrl": "https://tomlehrersongs.com/the-hunting-song/",
+      "sourceModified": "2021-10-09T20:30:03",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-hunting-song.pdf",
+          "filename": "the-hunting-song-1.pdf",
+          "sha256": "20068f50b619c5867df0576961b69d962cf5b3cb7842cab36f3996ad027b35be",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "i-cant-think-why",
+      "title": "I Can’t Think Why",
+      "sourceUrl": "https://tomlehrersongs.com/i-cant-think-why/",
+      "sourceModified": "2021-10-04T17:26:28",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/i-cant-think-why.pdf",
+          "filename": "i-cant-think-why-1.pdf",
+          "sha256": "7a5d52d95afee7f24057199a9c647d7496944d029f02ba36f172a0523537ba89",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "i-got-it-from-agnes",
+      "title": "I Got It From Agnes",
+      "sourceUrl": "https://tomlehrersongs.com/i-got-it-from-agnes/",
+      "sourceModified": "2023-09-19T21:18:42",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/i-got-it-from-agnes.pdf",
+          "filename": "i-got-it-from-agnes-1.pdf",
+          "sha256": "625e61537300319b11ba54c1c6936d090462e6a96fda8e4ae32636919a200e2d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "i-hold-your-hand-in-mine",
+      "title": "I Hold Your Hand In Mine",
+      "sourceUrl": "https://tomlehrersongs.com/i-hold-your-hand-in-mine/",
+      "sourceModified": "2021-10-09T20:31:18",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/i-hold-your-hand-in-mine.pdf",
+          "filename": "i-hold-your-hand-in-mine-1.pdf",
+          "sha256": "0c990ebc2e08c9cff11d16c88dd99177eb2e20b0dfc67504603d567fdcd0cc4d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "i-wanna-go-back-to-dixie",
+      "title": "I Wanna Go Back to Dixie (incl. revised version)",
+      "sourceUrl": "https://tomlehrersongs.com/i-wanna-go-back-to-dixie/",
+      "sourceModified": "2021-10-09T20:36:48",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/i-wanna-go-back-to-dixie.pdf",
+          "filename": "i-wanna-go-back-to-dixie-1.pdf",
+          "sha256": "247a21c0de2cd5be63ea49fe726cc4afa01450c02684f8f5ef30740760520b3d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "ice-cream-tango",
+      "title": "The Ice Cream Tango (incl. scene)",
+      "sourceUrl": "https://tomlehrersongs.com/ice-cream-tango/",
+      "sourceModified": "2019-12-30T20:05:40",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/05/ice-cream-tango.pdf",
+          "filename": "ice-cream-tango-1.pdf",
+          "sha256": "4578426822a381738969004c69245136a3b2ae0d7fdb4970648cafe211b0ca7e",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "in-old-mexico",
+      "title": "In Old Mexico (incl. revision)",
+      "sourceUrl": "https://tomlehrersongs.com/in-old-mexico/",
+      "sourceModified": "2021-10-10T20:14:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/in-old-mexico.pdf",
+          "filename": "in-old-mexico-1.pdf",
+          "sha256": "bad40d181b3fad946a465b78201ece3adaf38a424cd3caeee6d7a906a8bc9b72",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-irish-ballad",
+      "title": "The Irish Ballad",
+      "sourceUrl": "https://tomlehrersongs.com/the-irish-ballad/",
+      "sourceModified": "2021-10-09T20:47:50",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-irish-ballad.pdf",
+          "filename": "the-irish-ballad-1.pdf",
+          "sha256": "08e159f192ddd28312753fa574aada14e73528130a959698c4a49f4ae7abaedc",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "it-makes-a-fellow-proud-to-be-a-soldier",
+      "title": "It Makes a Fellow Proud to be a Soldier (incl. U.K. version)",
+      "sourceUrl": "https://tomlehrersongs.com/it-makes-a-fellow-proud-to-be-a-soldier/",
+      "sourceModified": "2021-10-09T20:53:05",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/it-makes-a-fellow-proud-to-be-a-soldier.pdf",
+          "filename": "it-makes-a-fellow-proud-to-be-a-soldier-1.pdf",
+          "sha256": "09f7d1c0916904620bc7a494e0ab16bc6b856a0f8d1f300e87866cc9e8b84e42",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "juca",
+      "title": "Juca",
+      "sourceUrl": "https://tomlehrersongs.com/juca/",
+      "sourceModified": "2021-10-04T17:27:57",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/juca.pdf",
+          "filename": "juca-1.pdf",
+          "sha256": "2bb939d9d8734633180fa41e7d75844d7736fd88ca9c62c9b8e8debf888f954d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "l-y",
+      "title": "L-Y",
+      "sourceUrl": "https://tomlehrersongs.com/l-y/",
+      "sourceModified": "2021-10-10T15:40:18",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/l-y.pdf",
+          "filename": "l-y-1.pdf",
+          "sha256": "970d23a76b8400ef38f51814eb20ef80e9b6a16f0928cae432cf37be92343e3c",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "a-liter-and-a-gram",
+      "title": "A Liter and a Gram",
+      "sourceUrl": "https://tomlehrersongs.com/a-liter-and-a-gram/",
+      "sourceModified": "2019-02-05T00:36:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/a-liter-and-a-gram.pdf",
+          "filename": "a-liter-and-a-gram-1.pdf",
+          "sha256": "0fe21a8c853056fc96899fe758323bc5892bee1c443751a22fe7a75dbce68d39",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "lobachevsky",
+      "title": "Lobachevsky",
+      "sourceUrl": "https://tomlehrersongs.com/lobachevsky/",
+      "sourceModified": "2021-10-10T15:44:20",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/lobachevsky.pdf",
+          "filename": "lobachevsky-1.pdf",
+          "sha256": "5f3b5cb879f98562b160fd9b4907b970dfc5e9817627a2786e81e87f08ef9d17",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-love-song-of-the-physical-anthropologist",
+      "title": "The Love Song of the Physical Anthropologist",
+      "sourceUrl": "https://tomlehrersongs.com/the-love-song-of-the-physical-anthropologist/",
+      "sourceModified": "2023-09-19T21:19:03",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-love-song-of-the-physical-anthropologist.pdf",
+          "filename": "the-love-song-of-the-physical-anthropologist-1.pdf",
+          "sha256": "21a67d90277f044d7db8cc50cf247ef161de92c0ffa3b4972062be433a8ba863",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "were-gonna-put-a-man-on-the-moon",
+      "title": "(We’re Gonna Put) A Man on the Moon",
+      "sourceUrl": "https://tomlehrersongs.com/were-gonna-put-a-man-on-the-moon/",
+      "sourceModified": "2019-02-05T00:48:29",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/a-man-on-the-moon.pdf",
+          "filename": "were-gonna-put-a-man-on-the-moon-1.pdf",
+          "sha256": "b103a2862ec6fb19d17c5dc80fdeab931df1633999ca726d1b46fc43bbf3f924",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-masochism-tango",
+      "title": "The Masochism Tango (incl. revision)",
+      "sourceUrl": "https://tomlehrersongs.com/the-masochism-tango/",
+      "sourceModified": "2021-10-10T16:29:23",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-masochism-tango.pdf",
+          "filename": "the-masochism-tango-1.pdf",
+          "sha256": "4bef134dabb3e177e0173053f133ff6024c527b0b5a5eb4e9ffe427b933203fc",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-menu-song",
+      "title": "The Menu Song",
+      "sourceUrl": "https://tomlehrersongs.com/the-menu-song/",
+      "sourceModified": "2019-02-05T00:48:42",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-menu-song.pdf",
+          "filename": "the-menu-song-1.pdf",
+          "sha256": "a0f240670e56c2bc6f4952175a5e65ec5a1011b6b63dd4ccdd07cedaac3c7a96",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "mlf-lullaby",
+      "title": "MLF Lullaby",
+      "sourceUrl": "https://tomlehrersongs.com/mlf-lullaby/",
+      "sourceModified": "2021-10-10T16:32:50",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/mlf-lullaby.pdf",
+          "filename": "mlf-lullaby-1.pdf",
+          "sha256": "6f07833e5dd28a70bce3e7c54f3d2a841901836284527e55fcac669c314668ee",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-mumble-song",
+      "title": "The Mumble Song",
+      "sourceUrl": "https://tomlehrersongs.com/the-mumble-song/",
+      "sourceModified": "2019-02-05T00:48:54",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-mumble-song.pdf",
+          "filename": "the-mumble-song-1.pdf",
+          "sha256": "13d9fc34dd69abf2f9009dd5b7a1a654ff8e746efac52c769608110cd6fa3967",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "my-home-town",
+      "title": "My Home Town",
+      "sourceUrl": "https://tomlehrersongs.com/my-home-town/",
+      "sourceModified": "2019-02-05T00:47:22",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/02/my-home-town-music.pdf",
+          "filename": "my-home-town-score.pdf",
+          "sha256": "af7299562e375bf06c4e642c7e39ea69a568871568967296e91155c3ceff34fe",
+          "kind": "score"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "n-apostrophe-t",
+      "title": "N Apostrophe T",
+      "sourceUrl": "https://tomlehrersongs.com/n-apostrophe-t/",
+      "sourceModified": "2023-09-19T21:16:36",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/n-apostrophe-t.pdf",
+          "filename": "n-apostrophe-t-1.pdf",
+          "sha256": "4734109bb5eb101689a483a2bb12aaf1f3f09c1e9828ddfbdb80fb1ead54a6a5",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "824-2",
+      "title": "National Brotherhood Week",
+      "sourceUrl": "https://tomlehrersongs.com/824-2/",
+      "sourceModified": "2021-10-10T16:47:32",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/1967/09/national-brotherhood-week.pdf",
+          "filename": "824-2-1.pdf",
+          "sha256": "294900b28ea00e244ebbca5db38c54d18a80bd6b6a4d0200bd31bde38a48a057",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "new-math",
+      "title": "New Math",
+      "sourceUrl": "https://tomlehrersongs.com/new-math/",
+      "sourceModified": "2021-10-10T16:50:20",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/new-math.pdf",
+          "filename": "new-math-1.pdf",
+          "sha256": "142d439c2cfc81a0e6accefdf42d4901f24f101ad510c65c7fe8b2b0104c52af",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-night-i-appeared-as-macbeth",
+      "title": "The Night I Appeared as Macbeth",
+      "sourceUrl": "https://tomlehrersongs.com/the-night-i-appeared-as-macbeth/",
+      "sourceModified": "2020-01-13T00:54:02",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2020/01/The-Night-I-Appeared-with-italics.pdf",
+          "filename": "the-night-i-appeared-as-macbeth-1.pdf",
+          "sha256": "37f95656e8979bf0ab01272db145da458adc4ca6c41f052972bef00db49353df",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "no-rice",
+      "title": "No Rice",
+      "sourceUrl": "https://tomlehrersongs.com/no-rice/",
+      "sourceModified": "2021-01-24T06:10:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/No-Rice-1.pdf",
+          "filename": "no-rice-1.pdf",
+          "sha256": "e22c48ab324be31cccd61070615ba3d186738124c6056bc7fb73831408700ff8",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "o-u",
+      "title": "O-U (The Hound Song)",
+      "sourceUrl": "https://tomlehrersongs.com/o-u/",
+      "sourceModified": "2019-03-14T23:01:52",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/o-u.pdf",
+          "filename": "o-u-1.pdf",
+          "sha256": "a66121578e1325a3df304a656e045bf281baa5bce77dd674d0b6a617073016c9",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "oedipus-rex",
+      "title": "Oedipus Rex",
+      "sourceUrl": "https://tomlehrersongs.com/oedipus-rex/",
+      "sourceModified": "2021-10-10T16:54:35",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/oedipus-rex.pdf",
+          "filename": "oedipus-rex-1.pdf",
+          "sha256": "69bb08a5ec46b93ae9dbb9f08a05617658152c8a801252c9b0030ab754908860",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-old-dope-peddler",
+      "title": "The Old Dope Peddler",
+      "sourceUrl": "https://tomlehrersongs.com/the-old-dope-peddler/",
+      "sourceModified": "2021-10-10T16:58:58",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-old-dope-peddler.pdf",
+          "filename": "the-old-dope-peddler-1.pdf",
+          "sha256": "09174552f2af0889ec0daba4c96fc75a55a6160cd779ce5599da0398bc88985a",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "poisoning-pigeons-in-the-park",
+      "title": "Poisoning Pigeons in the Park",
+      "sourceUrl": "https://tomlehrersongs.com/poisoning-pigeons-in-the-park/",
+      "sourceModified": "2021-10-10T17:11:37",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/poisoning-pigeons-in-the-park.pdf",
+          "filename": "poisoning-pigeons-in-the-park-1.pdf",
+          "sha256": "e0191b7894d36f1c66106d0b5924fe9f1ac5c6ebb38b94dc3ca3c665aa1f4530",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "polaroid-photography-song",
+      "title": "Polaroid Photography Song",
+      "sourceUrl": "https://tomlehrersongs.com/polaroid-photography-song/",
+      "sourceModified": "2019-02-05T00:50:21",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/polaroid-photography-song.pdf",
+          "filename": "polaroid-photography-song-1.pdf",
+          "sha256": "4705f4cc1051bcdd6533ee89ce8c41314498501bc56d8a1a55fd5ec2d6617e9b",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "political-action-song",
+      "title": "Political Action Song",
+      "sourceUrl": "https://tomlehrersongs.com/political-action-song/",
+      "sourceModified": "2021-01-24T05:46:32",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/political-action-song.pdf",
+          "filename": "political-action-song-1.pdf",
+          "sha256": "cfd917dd70e1ad527597199c2969667f5ac96f13fedadb6b39fb2b2c7f4df2e2",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "pollution",
+      "title": "Pollution",
+      "sourceUrl": "https://tomlehrersongs.com/pollution/",
+      "sourceModified": "2021-10-10T17:14:26",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/pollution.pdf",
+          "filename": "pollution-1.pdf",
+          "sha256": "9852e0cbaecc0c481f966f9aeaceebfd009241add0ce5c539a0d91f4508dfc8f",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "post-thanksgiving-hymn",
+      "title": "Post-Thanksgiving Hymn",
+      "sourceUrl": "https://tomlehrersongs.com/post-thanksgiving-hymn/",
+      "sourceModified": "2019-03-16T02:06:09",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/post-thanksgiving-hymn.pdf",
+          "filename": "post-thanksgiving-hymn-1.pdf",
+          "sha256": "48ac4097b2266f598ba7842ba7e89c4e182804ea6be3173c4c3f0aee32f2e3e4",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-professors-song",
+      "title": "The Professor’s Song – physics version (incl. math version)",
+      "sourceUrl": "https://tomlehrersongs.com/the-professors-song/",
+      "sourceModified": "2019-03-12T01:34:12",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-professors-song.pdf",
+          "filename": "the-professors-song-1.pdf",
+          "sha256": "9162c7a0d71e367e55cc7019ba0a521afcce2022a75365850a950a5bb0484cde",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "relativity",
+      "title": "Relativity",
+      "sourceUrl": "https://tomlehrersongs.com/relativity/",
+      "sourceModified": "2019-02-05T00:50:44",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/relativity.pdf",
+          "filename": "relativity-1.pdf",
+          "sha256": "8914351c2dc3ccc5318e734f00777ccd9df7cdcdd60ddaaa6170bd89b213ad55",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "s-equals-one-half-g-t-squared",
+      "title": "s = ½ gt²",
+      "sourceUrl": "https://tomlehrersongs.com/s-equals-one-half-g-t-squared/",
+      "sourceModified": "2019-03-12T01:36:00",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/s-equals-one-half-g-t-squared.pdf",
+          "filename": "s-equals-one-half-g-t-squared-1.pdf",
+          "sha256": "a68c53728245a425cb98a0b4b56441b50b1f4638098112a4fd1713893d79b21f",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "s-n",
+      "title": "S-N (Snore, Sniff, and Sneeze)",
+      "sourceUrl": "https://tomlehrersongs.com/s-n/",
+      "sourceModified": "2021-10-10T17:16:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/s-n.pdf",
+          "filename": "s-n-1.pdf",
+          "sha256": "208dce8ab572d019bbf1540a2f4d6ac82b72c4bbb7c3eb38f5bde8ebba82e070",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-sac-song",
+      "title": "The SAC Song (movie version) (incl. extra lyics)",
+      "sourceUrl": "https://tomlehrersongs.com/the-sac-song/",
+      "sourceModified": "2019-03-12T01:37:52",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-sac-song.pdf",
+          "filename": "the-sac-song-1.pdf",
+          "sha256": "07964eae2db24a28842beaad91725bb1374c72e9e450a243a337bbed3d9c9320",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "scenery",
+      "title": "Scenery",
+      "sourceUrl": "https://tomlehrersongs.com/scenery/",
+      "sourceModified": "2019-02-05T00:50:55",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/scenery.pdf",
+          "filename": "scenery-1.pdf",
+          "sha256": "bde9a70f93d3949884c428452e690929e9b9b6a2197f42779d4c5889607c1d79",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "selling-out",
+      "title": "Selling Out",
+      "sourceUrl": "https://tomlehrersongs.com/selling-out/",
+      "sourceModified": "2023-09-19T21:19:26",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/selling-out.pdf",
+          "filename": "selling-out-1.pdf",
+          "sha256": "cd381e3d6e476affbc76a2a7f4acd63c3aa52c2f6ce9b363baeb0b4ce8b42629",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "send-the-marines",
+      "title": "Send the Marines (incl. U.K. revision)",
+      "sourceUrl": "https://tomlehrersongs.com/send-the-marines/",
+      "sourceModified": "2021-10-10T17:23:33",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/send-the-marines.pdf",
+          "filename": "send-the-marines-1.pdf",
+          "sha256": "5bcb6ea58c56b56b5257171b7517ff1f83662358300764e91076f3ff8555ee7e",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "shakespeare-lied",
+      "title": "Shakespeare Lied",
+      "sourceUrl": "https://tomlehrersongs.com/shakespeare-lied/",
+      "sourceModified": "2019-02-05T01:02:07",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/shakespeare-lied.pdf",
+          "filename": "shakespeare-lied-1.pdf",
+          "sha256": "8a6b86103de73f746ec3cdc677d4ab57771ed8fe676600b9c24ac8dcde3cee36",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "shes-my-girl",
+      "title": "She’s My Girl",
+      "sourceUrl": "https://tomlehrersongs.com/shes-my-girl/",
+      "sourceModified": "2021-10-10T17:27:13",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/shes-my-girl.pdf",
+          "filename": "shes-my-girl-1.pdf",
+          "sha256": "ae0b350fc7ad915d1b606c5cd6c2e15e04e724b01fb7ea7bd4578a5cbfdd6719",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "silent-e",
+      "title": "Silent E (incl. private version)",
+      "sourceUrl": "https://tomlehrersongs.com/silent-e/",
+      "sourceModified": "2021-10-10T17:34:01",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/silent-e.pdf",
+          "filename": "silent-e-1.pdf",
+          "sha256": "e69dce3bc75b1360ba7841c9cf13440cb2f8a4481eeedb0d0449b707808d728d",
+          "kind": "lyric-sheet"
+        },
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/12/Silent-E-private2p.pdf",
+          "filename": "silent-e-2.pdf",
+          "sha256": "d48fc059d6b277162479f89537d0dc463006c911165358fe9bca78de7b6724f3",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-slide-rule-song",
+      "title": "The Slide Rule Song",
+      "sourceUrl": "https://tomlehrersongs.com/the-slide-rule-song/",
+      "sourceModified": "2021-01-24T05:54:05",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-slide-rule-song.pdf",
+          "filename": "the-slide-rule-song-1.pdf",
+          "sha256": "6387d8947514e50d245aed66e045230c81b13d117d170e39752c10ef5ea37411",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "smut",
+      "title": "Smut (incl. revision)",
+      "sourceUrl": "https://tomlehrersongs.com/smut/",
+      "sourceModified": "2021-10-10T17:39:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/smut.pdf",
+          "filename": "smut-1.pdf",
+          "sha256": "cf327be7307634c381b3014ada53fcd6b6af1a2038a65248f44cfcb784225892",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "so-long-mom",
+      "title": "So Long, Mom (A Song for World War III)",
+      "sourceUrl": "https://tomlehrersongs.com/so-long-mom/",
+      "sourceModified": "2021-10-10T17:42:43",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/11/so-long-mom.pdf",
+          "filename": "so-long-mom-1.pdf",
+          "sha256": "9c0cd03cbe6f4ca394d850988be9c6fb37fd3a06abdade09d7a28f4517c5b07c",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "sociology",
+      "title": "Sociology",
+      "sourceUrl": "https://tomlehrersongs.com/sociology/",
+      "sourceModified": "2019-02-05T00:59:42",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/sociology.pdf",
+          "filename": "sociology-1.pdf",
+          "sha256": "899ca4b4b300cf3af95fc061c064939ae546206db8828792be1b6e0d50761581",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "speeds-song",
+      "title": "Speed’s Song",
+      "sourceUrl": "https://tomlehrersongs.com/speeds-song/",
+      "sourceModified": "2020-01-27T23:38:19",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2020/01/speeds-song2.pdf",
+          "filename": "speeds-song-1.pdf",
+          "sha256": "cd06dbc22cd0c4c5083a49cf2a32e8d1fe277a43bb0294b99523a9c50c5423fd",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-subway-song",
+      "title": "The Subway Song",
+      "sourceUrl": "https://tomlehrersongs.com/the-subway-song/",
+      "sourceModified": "2019-05-04T14:23:56",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/05/the-subway-song.pdf",
+          "filename": "the-subway-song-1.pdf",
+          "sha256": "2970c8814ef34aac7d73209b231156b18ead6a035b769d1d2947ff7b87e5e0aa",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "sunshine",
+      "title": "Sunshine",
+      "sourceUrl": "https://tomlehrersongs.com/sunshine/",
+      "sourceModified": "2020-01-13T21:26:05",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2020/01/Bom-Tempo-Sunshine-copy.cwk_.pdf",
+          "filename": "sunshine-1.pdf",
+          "sha256": "c2928cca72d21c9d1ad771ca2b2f3e01347b539c3d967a3806b619099820c37c",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "take-me-for-a-walk",
+      "title": "Take Me for a Walk",
+      "sourceUrl": "https://tomlehrersongs.com/take-me-for-a-walk/",
+      "sourceModified": "2019-02-05T00:59:04",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/take-me-for-a-walk.pdf",
+          "filename": "take-me-for-a-walk-1.pdf",
+          "sha256": "3e41a48024bd1eab9318f39073485100ad1fddd899de100285ed3cc08fd2cc40",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "tango-de-la-menegilda",
+      "title": "Tango de la Menegilda",
+      "sourceUrl": "https://tomlehrersongs.com/tango-de-la-menegilda/",
+      "sourceModified": "2019-02-05T01:05:21",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/tango-de-la-menegilda.pdf",
+          "filename": "tango-de-la-menegilda-1.pdf",
+          "sha256": "cb4c04ad6ac14166ec62580d609736351e9f8696186298c5c772c7e1862fc3f2",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "te-amo",
+      "title": "Te Amo",
+      "sourceUrl": "https://tomlehrersongs.com/te-amo/",
+      "sourceModified": "2019-03-12T01:43:50",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/te-amo.pdf",
+          "filename": "te-amo-1.pdf",
+          "sha256": "a6a365be3af9ab522064af9df86fddabc3cdb582c73eb49aafb58a3975b6206b",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "thank-him-for-me",
+      "title": "Thank Him for Me",
+      "sourceUrl": "https://tomlehrersongs.com/thank-him-for-me/",
+      "sourceModified": "2019-02-05T01:05:33",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/thank-him-for-me.pdf",
+          "filename": "thank-him-for-me-1.pdf",
+          "sha256": "da1dde012f8531270550be6a67c7e22c4f9853311c94a4fda8cb93fa2758d705",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "thats-mathematics",
+      "title": "That’s Mathematics",
+      "sourceUrl": "https://tomlehrersongs.com/thats-mathematics/",
+      "sourceModified": "2023-09-19T21:19:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/thats-mathematics.pdf",
+          "filename": "thats-mathematics-1.pdf",
+          "sha256": "c2abc9886158cfe6fb1ed2ca7dd3a515e7a693cafa28fd42dc1c2a3b7709366d",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "theres-a-delta-for-every-epsilon",
+      "title": "There’s a Delta for Every Epsilon",
+      "sourceUrl": "https://tomlehrersongs.com/theres-a-delta-for-every-epsilon/",
+      "sourceModified": "2021-01-24T05:18:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/theres-a-delta-for-every-epsilon.pdf",
+          "filename": "theres-a-delta-for-every-epsilon-1.pdf",
+          "sha256": "cc33c375dd22741b62b5f4244ce141c433efd6684c7167469fa8e4cc6374c88f",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "trees",
+      "title": "Trees",
+      "sourceUrl": "https://tomlehrersongs.com/trees/",
+      "sourceModified": "2019-03-10T20:46:31",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/trees.pdf",
+          "filename": "trees-1.pdf",
+          "sha256": "1c6d0d333385a27c6b9866cf056c63564e69d424804183b0fc38328e889c1467",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "unsong",
+      "title": "Unsong",
+      "sourceUrl": "https://tomlehrersongs.com/unsong/",
+      "sourceModified": "2019-02-05T01:05:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/unsong.pdf",
+          "filename": "unsong-1.pdf",
+          "sha256": "900f9bfd982159014994b38614ac462be381cec551a1a3cab2741ad9a7743ea3",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-vatican-rag",
+      "title": "The Vatican Rag",
+      "sourceUrl": "https://tomlehrersongs.com/the-vatican-rag/",
+      "sourceModified": "2021-10-10T19:55:32",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-vatican-rag.pdf",
+          "filename": "the-vatican-rag-1.pdf",
+          "sha256": "fcba15d95699999e56e12ede45d0dee8f272a03bba88d6c214684fc8447c07ac",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "we-will-all-go-together-when-we-go",
+      "title": "We Will All Go Together When We Go",
+      "sourceUrl": "https://tomlehrersongs.com/we-will-all-go-together-when-we-go/",
+      "sourceModified": "2021-10-10T19:58:57",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/we-will-all-go-together-when-we-go.pdf",
+          "filename": "we-will-all-go-together-when-we-go-1.pdf",
+          "sha256": "9aab853a3fa2b67e5b6665615ea3e45c64769cf847dbfb11709a92eebf600293",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "were-talkin-algebra",
+      "title": "We’re Talkin’ Algebra",
+      "sourceUrl": "https://tomlehrersongs.com/were-talkin-algebra/",
+      "sourceModified": "2019-03-10T21:29:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/were-talkin-algebra.pdf",
+          "filename": "were-talkin-algebra-1.pdf",
+          "sha256": "3f1e75d4b7d83a7ddb19d8df3e2f23df8b97128f04b6f6550597ee0e3ebd0896",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "wernher-von-braun",
+      "title": "Wernher Von Braun",
+      "sourceUrl": "https://tomlehrersongs.com/wernher-von-braun/",
+      "sourceModified": "2021-10-10T20:00:28",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/wernher-von-braun.pdf",
+          "filename": "wernher-von-braun-1.pdf",
+          "sha256": "e34ef2a8467c6cdc8ab3b13f85550a4cbc17b3440ce3bf8b9b4775e632ce3aea",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "whatever-became-of-hubert",
+      "title": "Whatever Became of Hubert? (incl. Look What’s Become of Hubert)",
+      "sourceUrl": "https://tomlehrersongs.com/whatever-became-of-hubert/",
+      "sourceModified": "2021-10-10T20:01:44",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/04/whatever-became-of-hubert.pdf",
+          "filename": "whatever-became-of-hubert-1.pdf",
+          "sha256": "4d4e3e1b494db90e91038da550dabd083959ffcbce910cb03182c5c039203dae",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "when-you-are-old-and-gray",
+      "title": "When You Are Old and Gray (incl. verse added for Tomfoolery)",
+      "sourceUrl": "https://tomlehrersongs.com/when-you-are-old-and-gray/",
+      "sourceModified": "2021-10-10T20:04:37",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/when-you-are-old-and-gray.pdf",
+          "filename": "when-you-are-old-and-gray-1.pdf",
+          "sha256": "8d41fd61611baa9dbc3bdeda03cce05754b8e8edf4a5fb7d4e19e17cfe817d9e",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "whos-next",
+      "title": "Who’s Next?",
+      "sourceUrl": "https://tomlehrersongs.com/whos-next/",
+      "sourceModified": "2021-10-10T20:06:13",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/whos-next.pdf",
+          "filename": "whos-next-1.pdf",
+          "sha256": "9a11c4068a45cbace69303ad10470a12e0f14ff79f79cfe76f4f82ae577f43ec",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "why-not-fight",
+      "title": "Why Not Fight? (aka Fight Song)",
+      "sourceUrl": "https://tomlehrersongs.com/why-not-fight/",
+      "sourceModified": "2021-01-24T06:17:21",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/Why-Not-Fight_-.pdf",
+          "filename": "why-not-fight-1.pdf",
+          "sha256": "08cc8aebeaa4942f7efe176626d4993a2fe031b909d69cd3268a0fd673c9aaef",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-wiener-schnitzel-waltz",
+      "title": "The Wiener Schnitzel Waltz",
+      "sourceUrl": "https://tomlehrersongs.com/the-wiener-schnitzel-waltz/",
+      "sourceModified": "2021-10-10T20:08:38",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-wiener-schnitzel-waltz.pdf",
+          "filename": "the-wiener-schnitzel-waltz-1.pdf",
+          "sha256": "2d43270ffc5072585c001fc06f2ec67af9c32a0986b215a5a46c488bf15aa5f6",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "the-wild-west-is-where-i-want-to-be",
+      "title": "The Wild West is Where I Want to Be",
+      "sourceUrl": "https://tomlehrersongs.com/the-wild-west-is-where-i-want-to-be/",
+      "sourceModified": "2021-10-10T20:10:46",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2018/12/the-wild-west-is-where-i-want-to-be.pdf",
+          "filename": "the-wild-west-is-where-i-want-to-be-1.pdf",
+          "sha256": "373b079f1700481adc9c14cd540e91c0af6923befc102561b1882783fe414ffc",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    },
+    {
+      "slug": "without-an-s",
+      "title": "Without an S",
+      "sourceUrl": "https://tomlehrersongs.com/without-an-s/",
+      "sourceModified": "2019-03-11T03:48:03",
+      "pdfs": [
+        {
+          "url": "https://tomlehrersongs.com/wp-content/uploads/2019/03/without-an-s.pdf",
+          "filename": "without-an-s-1.pdf",
+          "sha256": "c2a246ff674587d7b794b2cb3d8f8061a5b9e9efcca20d405fe49fe2af25fe47",
+          "kind": "lyric-sheet"
+        }
+      ],
+      "documents": []
+    }
+  ],
+  "albums": [
+    {
+      "title": "An Evening (wasted) With Tom Lehrer",
+      "sourceUrl": "https://tomlehrersongs.com/albums/an-evening-wasted-with-tom-lehrer/",
+      "tracks": [
+        {
+          "title": "Poisoning Pigeons in the Park",
+          "length": "2:39",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Bright College Days",
+          "length": "3:03",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "A Christmas Carol",
+          "length": "2:39",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Elements",
+          "length": "2:19",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Oedipus Rex",
+          "length": "3:43",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "In Old Mexico",
+          "length": "6:36",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Clementine",
+          "length": "4:41",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "It Makes a Fellow Proud to Be a Soldier",
+          "length": "4:51",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "She’s My Girl",
+          "length": "2:53",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Masochism Tango",
+          "length": "3:30",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "We Will All Go Together When We Go",
+          "length": "5:30",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    },
+    {
+      "title": "Revisited",
+      "sourceUrl": "https://tomlehrersongs.com/albums/revisited/",
+      "tracks": [
+        {
+          "title": "Introduction",
+          "length": "3:28",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Wanna Go Back to Dixie",
+          "length": "2:56",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wild West Is Where I Want to Be",
+          "length": "2:31",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Old Dope Peddler",
+          "length": "1:43",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Fight Fiercely, Harvard",
+          "length": "2:52",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Lobachevsky",
+          "length": "4:20",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Irish Ballad",
+          "length": "5:14",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Hunting Song",
+          "length": "1:59",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "My Home Town",
+          "length": "2:58",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "When You Are Old and Grey",
+          "length": "2:27",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wiener Schnitzel Waltz",
+          "length": "2:21",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Hold Your Hand in Mine",
+          "length": "1:55",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Be Prepared",
+          "length": "2:40",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "L-Y",
+          "length": "2:12",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Silent E",
+          "length": "1:31",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    },
+    {
+      "title": "That Was The Year That Was",
+      "sourceUrl": "https://tomlehrersongs.com/albums/twtytw/",
+      "tracks": [
+        {
+          "title": "National Brotherhood Week",
+          "length": "2:36",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "MLF Lullaby",
+          "length": "2:25",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "George Murphy",
+          "length": "2:09",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Folk Song Army",
+          "length": "2:12",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Smut",
+          "length": "3:15",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Send the Marines",
+          "length": "1:46",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Pollution",
+          "length": "2:16",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "So Long, Mom (A Song for World War III)",
+          "length": "2:23",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Whatever Became of Hubert",
+          "length": "2:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "New Math",
+          "length": "4:29",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Alma",
+          "length": "5:27",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Who’s Next",
+          "length": "2:00",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Wernher von Braun",
+          "length": "1:47",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Vatican Rag",
+          "length": "2:14",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    },
+    {
+      "title": "The Remains of Tom Lehrer (disc 1)",
+      "sourceUrl": "https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer/",
+      "tracks": [
+        {
+          "title": "Fight Fiercely, Harvard",
+          "length": "1:25",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Old Dope Peddler",
+          "length": "1:27",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Be Prepared",
+          "length": "1:32",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wild West Is Where I Want to Be",
+          "length": "2:03",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Wanna Go Back to Dixie",
+          "length": "1:54",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Lobachevsky",
+          "length": "3:11",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Irish Ballad",
+          "length": "3:01",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Hunting Song",
+          "length": "1:19",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "My Home Town",
+          "length": "2:39",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "When You Are Old and Gray",
+          "length": "1:52",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Hold Your Hand in Mine",
+          "length": "1:28",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wiener Schnitzel Waltz",
+          "length": "1:56",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Poisoning Pigeons in the Park",
+          "length": "2:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Bright College Days",
+          "length": "2:06",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "A Christmas Carol",
+          "length": "1:43",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Elements",
+          "length": "1:26",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Oedipus Rex",
+          "length": "1:40",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "In Old Mexico",
+          "length": "4:08",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Clementine",
+          "length": "4:18",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "It Makes a Fellow Proud to Be a Soldier",
+          "length": "2:40",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "She’s My Girl",
+          "length": "1:49",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Masochism Tango",
+          "length": "3:03",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "We Will All Go Together When We Go",
+          "length": "3:27",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Got It From Agnes",
+          "length": "1:47",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "That’s Mathematics",
+          "length": "1:31",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    },
+    {
+      "title": "The Remains of Tom Lehrer (disc 2)",
+      "sourceUrl": "https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer-disc-2/",
+      "tracks": [
+        {
+          "title": "Introduction",
+          "length": "3:15",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Wanna Go Back to Dixie",
+          "length": "2:54",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wild West Is Where I Want to Be",
+          "length": "2:31",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Old Dope Peddler",
+          "length": "1:43",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Fight Fiercely, Harvard",
+          "length": "2:44",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Lobachevsky",
+          "length": "4:20",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Irish Ballad",
+          "length": "5:11",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Hunting Song",
+          "length": "1:59",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "My Home Town",
+          "length": "2:58",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "When You Are Old and Gray",
+          "length": "2:26",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Wiener Schnitzel Waltz",
+          "length": "2:21",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "I Hold Your Hand in Mine",
+          "length": "2:01",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Be Prepared",
+          "length": "2:30",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Poisoning Pigeons in the Park",
+          "length": "2:38",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Bright College Days",
+          "length": "3:05",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "A Christmas Carol",
+          "length": "2:55",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Elements",
+          "length": "2:12",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Oedipus Rex",
+          "length": "3:41",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "In Old Mexico",
+          "length": "6:24",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Clementine",
+          "length": "4:41",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "It Makes a Fellow Proud to Be a Soldier",
+          "length": "4:54",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "She’s My Girl",
+          "length": "2:54",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Masochism Tango",
+          "length": "3:33",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "We Will All Go Together When We Go",
+          "length": "5:30",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    },
+    {
+      "title": "The Remains of Tom Lehrer (disc 3)",
+      "sourceUrl": "https://tomlehrersongs.com/albums/the-remains-of-tom-lehrer-disc-3/",
+      "tracks": [
+        {
+          "title": "National Brotherhood Week",
+          "length": "2:36",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "MLF Lullaby",
+          "length": "2:25",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "George Murphy",
+          "length": "2:09",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Folk Song Army",
+          "length": "2:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Smut",
+          "length": "3:15",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Send the Marines",
+          "length": "1:46",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Pollution",
+          "length": "2:14",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "So Long, Mom (A Song for World War III)",
+          "length": "2:24",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Whatever Became of Hubert",
+          "length": "2:14",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "New Math",
+          "length": "4:30",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Alma",
+          "length": "4:26",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Who’s Next",
+          "length": "3:03",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Wernher von Braun",
+          "length": "1:47",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Vatican Rag",
+          "length": "2:22",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Poisoning Pigeons in the Park",
+          "length": "2:08",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Masochism Tango",
+          "length": "2:55",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "The Hunting Song",
+          "length": "1:49",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "We Will All Go Together When We Go",
+          "length": "2:41",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "L‐Y",
+          "length": "2:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Silent E",
+          "length": "1:35",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "O‐U (The Hound Song)",
+          "length": "1:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "S‐N (Snore, Sniff, and Sneeze)",
+          "length": "2:34",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "N Apostrophe T",
+          "length": "2:13",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "Selling Out",
+          "length": "2:26",
+          "artist": "Tom Lehrer"
+        },
+        {
+          "title": "(I’m Spending) Hanukkah in Santa Monica",
+          "length": "1:49",
+          "artist": "Tom Lehrer"
+        }
+      ]
+    }
+  ],
+  "excluded": []
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "releaseGroupId": "6427df4c-634e-41d1-91ce-263051e02f32",
+    "artist": "Bruno Mars",
+    "title": "Tomorrow's King",
+    "reason": "The source associates a 1990 release with the contemporary artist, contradicting his official 2010 debut-album announcement. Quarantined for identity/data review rather than displayed as a verified studio album.",
+    "evidenceUrl": "https://www.brunomars.com/news/exclusive-doo-wops-hooligans-tracklist-59821"
+  },
+  {
+    "releaseGroupId": "eae010fe-04f1-4eaa-9bbd-0bb3f793bc3d",
+    "artist": "Bob Hope",
+    "title": "The Quick and the Dead - Volume 1: The Atom Bomb",
+    "reason": "The Library of Congress identifies The Quick and the Dead as a radio program about the atom bomb and hydrogen bomb. This spoken documentary is not a song album, despite the source omitting a secondary type.",
+    "evidenceUrl": "https://tile.loc.gov/storage-services/service/gdc/gdcfindingaidpdfs/rs018001/rs018001.pdf"
+  },
+  {
+    "releaseGroupId": "66e88896-b5dd-48cf-92bb-371de5e931ba",
+    "artist": "Lucille Ball",
+    "title": "Laughs, Luck ... and Lucy",
+    "reason": "The memoir's companion CD contains classic radio comedy scenes, not a song album. Its cached track list contains dialogue/sketch titles and the source omits a secondary type. Hold this release rather than count it as music content.",
+    "evidenceUrl": "https://lucydesishop.com/products/laughs-luck-and-lucy",
+    "additionalEvidenceUrl": "https://books.google.com/books?id=KHolhEHAM28C"
+  }
+]
