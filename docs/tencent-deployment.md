@@ -2,7 +2,9 @@
 
 目标地址：`https://www.52lyrics.com`，服务器：`43.135.135.12`。
 
-2026-10-01 已发布千位歌手版本：运行目录为 `/srv/52lyrics/releases/20261001-1000artists/`，`current` 指针与 `52lyrics-web` 容器均指向此版本。站内有 1,000 位具备完整来源发行资料的歌手，连同历史词作者等共 1,010 个艺人/作者页面；1,121 个专辑/阅读歌本、13,217 个歌曲页面、953 张许可与署名核验通过的图片，108 首既有完整歌词作品保持不变。上一版 `/srv/52lyrics/releases/20260930-guides/` 保留在停止状态的 `52lyrics-web-rollback-20261001-1000artists` 中。
+2026-10-09 已首次从服务器上的 Git 仓库构建并发布提交 `b1b7a2f93cf78c8e7bfd1eba12994c09a6dc23f6`。候选构建通过类型检查、Lint、69 项测试和产物审计：15,470 个详情页、958 张图片、16,499 个产物文件；静态目录约 586 MiB。临时候选容器检查通过后，生产容器已挂载 `/srv/52lyrics/releases/git-b1b7a2f93cf7/`，`current` 指针同步；旧版容器保留为 `52lyrics-web-rollback-git-b1b7a2f93cf7`。本机 HTTPS 首页和新导览页与候选文件一致，公网浏览器检查首页显示 1,020 位艺人/作者入口、新导览和旧有完整歌词页正常；sitemap 与 robots 均返回 200。其他容器继续运行。发布时首次 HTTPS 探测发生一次连接重置，自动重试后通过。
+
+2026-10-01 已发布千位歌手版本：运行目录为 `/srv/52lyrics/releases/20261001-1000artists/`，当时 `current` 指针与 `52lyrics-web` 容器均指向此版本。站内有 1,000 位具备完整来源发行资料的歌手，连同历史词作者等共 1,010 个艺人/作者页面；1,121 个专辑/阅读歌本、13,217 个歌曲页面、953 张许可与署名核验通过的图片，108 首既有完整歌词作品保持不变。上一版 `/srv/52lyrics/releases/20260930-guides/` 保留在停止状态的 `52lyrics-web-rollback-20261001-1000artists` 中。
 
 发布包为 231,799,502 字节，SHA-256 `89f817902b26e3bf48eae4133d0fcc733650e269c8e3485350b5b9e222b8c7a9`，上传完成后服务器核验通过。先以临时候选容器检查首页和新增艺人，再切换容器；切换后的本机 HTTPS 检查通过。公网首页、sitemap、新增的 Josef Salvat 艺人与资料型歌曲页，以及旧有的 City Lights 完整歌词页，均与本地构建的 SHA-256 一致；Josef Salvat 的图片亦与许可清单中的 SHA-256 一致。浏览器实测首页出现 1,010 位艺人/作者的入口，版式切换可用，新增艺人到专辑到歌曲的路径可用，资料型歌曲明确显示无可展示歌词。旧版首页脚本仍返回 200。发布前通过来源核验、增量保留检查、类型检查、ESLint、69 项单元测试、32 项桌面/移动浏览器测试、生产构建及 15,348 个详情页与 953 张图片的产物审计。临时上传公钥在包校验通过后自动撤销，旧密钥登录被拒绝，本地临时私钥已移除。
 
@@ -35,7 +37,7 @@
 | 内容 | 位置 |
 | --- | --- |
 | 本地构建产物 | `build/client/` |
-| 本次服务器版本目录 | `/srv/52lyrics/releases/20261001-1000artists/` |
+| 当前服务器版本目录 | `/srv/52lyrics/releases/git-b1b7a2f93cf7/` |
 | 当前版本指针 | `/srv/52lyrics/current` |
 | Caddy 配置 | `/srv/52lyrics/caddy/Caddyfile` |
 | HTTPS 证书及续期状态 | `/srv/52lyrics/caddy/data/`（不要删除或公开） |
@@ -44,9 +46,9 @@
 
 容器将指定版本目录只读挂载为 `/srv/52lyrics/current`，对外仅映射 TCP 80 和 443。更改宿主机的 `current` 软链接不会自动更改现有容器挂载的版本；后续更新需要重建本站容器。服务器上其他容器不属于本站部署范围。
 
-## 服务器拉取 Git 并构建：迁移预检
+## 服务器拉取 Git、构建和发布
 
-现行生产发布仍采用下文的本地构建包流程。改为服务器构建前，先在腾讯服务器上运行仓库里的只读检查：
+先在腾讯服务器上运行只读检查：
 
 ```bash
 bash scripts/deploy/server-preflight.sh
@@ -56,14 +58,22 @@ bash scripts/deploy/server-preflight.sh
 
 本地从干净 Git 快照安装并构建的实测产物约 593 MiB、16,499 个文件；依赖约 276 MiB、源图片约 210 MiB。默认并发 8 的 macOS 构建进程最高常驻内存约 1.62 GB；将 `PRERENDER_CONCURRENCY=1` 后约为 1.20 GB，两份构建的 16,499 个文件逐字节相同。当前腾讯服务器为 2 GB 内存，预检时可用约 1.3 GiB，另有 8 GiB swap；隔离试构建应使用并发 1，并监测内存与线上 Caddy 状态。服务器还需要容纳旧版与新版发布目录，是否足够须以实际试构建为准。试构建通过前不切换生产容器。
 
-服务器当前已有 Node.js 22 与 Git，但还未安装 `pnpm`。候选构建脚本优先使用已安装的 pnpm，其次使用 Corepack；若两者都没有而 `npx` 可用，则从 npm 仓库运行固定的 pnpm 10.30.3。首次从 GitHub 获取源码后，在服务器上执行：
+服务器已有 Node.js 22、Git 和 Corepack。候选构建脚本优先使用已安装的 pnpm，其次使用 Corepack；若两者都没有而 `npx` 可用，则从 npm 仓库运行固定的 pnpm 10.30.3。首次从 GitHub 获取源码后，在服务器上执行：
 
 ```bash
 git clone --branch main --single-branch https://github.com/uXAi2046/52lyrics.git /srv/52lyrics/source
 bash /srv/52lyrics/source/scripts/deploy/server-build-candidate.sh <要发布的完整提交号>
 ```
 
-候选脚本只在 `/srv/52lyrics/builds/git-<提交号>/` 安装依赖、检查并构建；产物审计通过后报告 `CANDIDATE_READY`。它不复制到发布目录、不重建 Caddy、不修改 `current`。通过候选构建、检查服务器资源和候选页面后，才进入发布切换。
+候选脚本只在 `/srv/52lyrics/builds/git-<提交号>/` 安装依赖、检查并构建；产物审计通过后报告 `CANDIDATE_READY`。它不复制到发布目录、不重建 Caddy、不修改 `current`。通过候选构建后，使用**同一个完整提交号**发布：
+
+```bash
+bash /srv/52lyrics/source/scripts/deploy/server-publish-candidate.sh <要发布的完整提交号>
+```
+
+发布脚本将候选产物复制到新的 `/srv/52lyrics/releases/git-<提交号前12位>/`，保留旧版脚本和样式资源，先在仅监听本机的候选容器检查首页与导览页，再重建 `52lyrics-web`。切换后通过本机 HTTPS 检查；任何切换后的失败都会尝试恢复旧容器和 `current` 指针。旧容器保留为 `52lyrics-web-rollback-git-<提交号前12位>`。执行前须确认当前容器挂载与 `current` 一致，发布目录和回滚容器名尚未被占用。
+
+后续更新时，先将源码提交并推送到 GitHub `main`，然后在服务器执行候选构建和发布两个脚本。服务器从 GitHub 拉取变更，仅首次拉取完整仓库；日常更新无需从本地上传数百 MB 的构建包。静态产物仍由服务器构建并在发布时占用新的磁盘空间，旧版本应在确认稳定后按需清理。
 
 ## 构建与发布原则
 
@@ -76,7 +86,7 @@ SITE_URL=https://www.52lyrics.com BAIDU_TONGJI_ID=7ba35cf48a0603715bafc08f9b760f
 pnpm catalog:verify-build
 ```
 
-只上传 `build/client/` 的压缩包，不上传源码、`.git`、`.vercel`、环境变量文件或 SSH 私钥。上传后核对本地与服务器 SHA-256，再解压至新的版本目录；不要直接覆盖正在服务的目录。
+历史发布曾上传 `build/client/` 压缩包并在服务器核对 SHA-256。Git 构建流程不再上传该压缩包，也不会直接覆盖正在服务的目录。
 
 Caddy 配置源文件为 `scripts/deploy/Caddyfile`：提供自动 HTTPS、HTTP 跳转、预渲染目录索引和 SPA 深链接回退。缺失的静态资源返回 404，不回退为 HTML。`/top-charts` 永久跳转到 `/discover`。公网 IP 仅作为 HTTP 检查入口，带有 `noindex` 标记。
 
@@ -96,14 +106,14 @@ docker restart 52lyrics-web
 
 更新时保留上一版本目录和证书目录。若新版本异常，重建本站容器并挂载上一版本；不要清理其他服务或使用全局 Docker 清理命令。
 
-本次已保留可直接启动的上一版容器。需要回滚时，先确认下列容器名称仍对应本次发布，再运行：
+本次已保留可直接启动的上一版容器。需要回滚时，先确认下列容器名称仍对应当前发布，再运行：
 
 ```bash
 docker stop 52lyrics-web
-docker rename 52lyrics-web 52lyrics-web-failed-20261001-1000artists
-docker rename 52lyrics-web-rollback-20261001-1000artists 52lyrics-web
+docker rename 52lyrics-web 52lyrics-web-failed-git-b1b7a2f93cf7
+docker rename 52lyrics-web-rollback-git-b1b7a2f93cf7 52lyrics-web
 docker start 52lyrics-web
-ln -sfn /srv/52lyrics/releases/20260930-guides /srv/52lyrics/current
+ln -sfn /srv/52lyrics/releases/20261001-1000artists /srv/52lyrics/current
 ```
 
 回滚后检查 HTTPS 首页及静态资源，并保留失败版本以便排查。
