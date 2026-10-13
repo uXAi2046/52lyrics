@@ -13,6 +13,7 @@ const baseUrl = (
 const paths = [
   '/',
   '/discover',
+  '/lyrics',
   '/guides',
   ...GUIDES.map((guide) => guidePath(guide.slug)),
   '/artists',
@@ -22,8 +23,14 @@ const paths = [
   '/copyright',
   ...ARTISTS.map((artist) => `/artists/${artist.slug}`),
   ...ALBUMS.map((album) => `/albums/${album.slug}`),
-  ...ALBUMS.flatMap((album) => album.tracks.map((song) => `/lyrics/${song.slug}`)),
+  // Metadata-only pages document release facts without lyric text; they stay out
+  // of the sitemap and are marked noindex so they cannot dilute the lyric index.
+  ...ALBUMS.flatMap((album) => album.tracks)
+    .filter((song) => song.lyricsAvailability === 'full')
+    .map((song) => `/lyrics/${song.slug}`),
 ];
+
+const metadataOnlyCount = ALBUMS.flatMap((album) => album.tracks).filter((song) => song.lyricsAvailability === 'metadata-only').length;
 
 const sitemap = [
   '<?xml version="1.0" encoding="UTF-8"?>',
@@ -36,6 +43,7 @@ const sitemap = [
 await writeFile('build/client/sitemap.xml', sitemap, 'utf8');
 await writeFile('build/client/robots.txt', `User-agent: *\nAllow: /\nSitemap: ${baseUrl}/sitemap.xml\n`, 'utf8');
 await copyFile('build/client/__spa-fallback.html', 'build/client/404.html');
+console.log(`sitemap: ${paths.length} URLs (${metadataOnlyCount} metadata-only lyric pages excluded)`);
 
 const findHtmlFiles = async (directory: string): Promise<string[]> => {
   const entries = await readdir(directory, { withFileTypes: true });

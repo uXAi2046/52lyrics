@@ -4,7 +4,7 @@ import { Link } from 'react-router';
 import GlobalSearch from '../components/search/GlobalSearch';
 import { SaveButton } from '../components/ui/Actions';
 import { PhotoCredit } from '../components/ui/SourceCredit';
-import { ARTISTS, albumPath, artistPath, findSong, songPath } from '../data/catalog';
+import { ARTISTS, albumPath, artistPath, findSong, FULL_LYRIC_WORKS, songPath } from '../data/catalog';
 import { HOME_ARTIST_FILTERS, HOME_ARTIST_PICKS, HOME_READERS, HOME_REGION_PICKS, HOME_RELEASE_PATHS, HOME_SPOTLIGHTS, recentHomeArtists, type HomeArtistFilter } from '../data/homeArtists';
 import { nextHomeSpotlights } from '../data/homeSpotlights';
 import { nextHomeLayout, selectHomeExperience, STATIC_HOME_EXPERIENCE } from '../data/homeExperience';
@@ -133,12 +133,12 @@ export default function Home() {
       </section>
 
       <section className="home-reading shell home-section" aria-labelledby="home-reading-title">
-        <header className="home-section-heading"><div><span className="eyebrow">Spend a little time with the words</span><h2 id="home-reading-title">Artists you can read here.</h2></div><Link to="/discover">Explore all reading collections <ArrowUpRight aria-hidden="true" /></Link></header>
+        <header className="home-section-heading"><div><span className="eyebrow">Spend a little time with the words</span><h2 id="home-reading-title">Artists you can read here.</h2></div><Link to="/lyrics">Browse all {FULL_LYRIC_WORKS.length} complete texts <ArrowUpRight aria-hidden="true" /></Link></header>
         <div className="home-reading-grid">{HOME_READERS.map(({ artist, songs }) => <article className={`home-reading-card ${artist.slug === 'the-midnight-echo' ? 'home-reading-card--original' : ''}`} key={artist.id}>
           <div className="home-reading-card__identity">{artist.imageCredit ? <ArtistPortrait artist={artist} /> : <span className="home-original-mark" aria-hidden="true">ME<span>52lyrics originals</span></span>}<div><span className="eyebrow">{artist.slug === 'the-midnight-echo' ? 'Our fictional original band' : 'The author’s archive'}</span><h3><Link to={artistPath(artist)}>{artist.name}<ArrowUpRight aria-hidden="true" /></Link></h3><p>{songs.length} complete {artist.slug === 'the-midnight-echo' ? 'original songs' : 'reviewed lyric works'}</p></div></div>
           <div className="home-reading-card__songs">{songs.slice(0, 3).map((song) => <Link to={songPath(song)} key={song.id}><BookOpen aria-hidden="true" /><span>{song.title}</span><ArrowRight aria-hidden="true" /></Link>)}</div>
         </article>)}</div>
-        <p className="home-reading-note">Full lyrics are marked wherever they’re available. Other songs offer release details and song notes.</p>
+        <p className="home-reading-note">Full lyrics are marked wherever they’re available. Other songs offer release details and song notes. <Link to="/lyrics">See the complete lyric index →</Link></p>
       </section>
 
       <section className="home-guides shell home-section" aria-labelledby="home-guides-title">

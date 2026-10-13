@@ -35,7 +35,9 @@ test('filters public-domain texts and connects their writer and songbook', async
   await page.getByRole('combobox', { name: 'Theme', exact: true }).selectOption('History');
   await page.getByRole('combobox', { name: 'Lyrics', exact: true }).selectOption('full');
   await expect(page.locator('.collection-section')).toHaveCount(1);
-  await expect(page.locator('.collection-section .catalog-card')).toHaveCount(8);
+  // The collected anthology batch shares the History theme; the reviewed
+  // browser captures must remain in the filtered set, not own it exclusively.
+  await expect(page.locator('.collection-section .catalog-card')).toHaveCount(24, { timeout: 10_000 });
   await page.getByRole('link', { name: /Amazing Grace/ }).click();
   await page.getByRole('link', { name: 'John Newton', exact: true }).click();
   await expect(page.getByText('Writer file · Lifespan · 1725–1807')).toBeVisible();

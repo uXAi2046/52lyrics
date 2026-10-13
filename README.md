@@ -29,10 +29,10 @@ The production build is written to `build/client`. It contains pre-rendered HTML
 ## Product model
 
 - **Search and discovery:** songs, artists, albums, themes, and moods share one ranked search index.
-- **Homepage editions:** three responsive hero layouts rotate by local daypart and browser language region, with a visitor-controlled layout switch. Seasonal and fixed-date festive palettes change homepage accents; regional artist routes point to existing sourced catalog records. No location permission or IP lookup is used.
-- **Lyrics availability:** `full` is allowed only when rights are `original`, `licensed`, or verified `public-domain`; `metadata-only` pages never render placeholder lyrics.
+- **Complete lyric index:** `/lyrics` lists every distinct work published with complete text, with rights filters and pagination; the header, homepage, and Discover link to it. One entry per work — duplicate release pages are not double-counted.
+- **Lyrics availability:** `full` is allowed only when rights are `original`, `licensed`, or verified `public-domain`; `metadata-only` pages never render placeholder lyrics, carry `noindex`, and stay out of `sitemap.xml`.
 - **Original catalog:** The Midnight Echo has two releases and ten complete original songs.
-- **Historical catalog:** eight public-domain texts collected from Wikisource, with eight writer files and eight explicitly editorial songbooks.
+- **Historical catalog:** eight reviewed public-domain texts from Wikisource, plus a collected anthology batch (The Book of Scottish Song 1843, The Scottish Minstrel 1850, The Canadian Soldiers' Song Book 1918). Every text pins a Wikisource revision, edition, retrieval date, and rights note. See [the collection record](docs/pd-collection.md).
 - **Online collection:** sourced MusicBrainz release editions, local Commons artist photographs, and visually reviewed author-released lyrics. Run `pnpm catalog:stats` for current counts (including distinct works versus release-track entries). Downloaded lyric documents and scores awaiting review are not counted as complete lyrics.
 - **Author songbook:** approved texts without a verified recording edition have an explicitly editorial reading selection. Unknown dates remain unknown; translations with unresolved underlying rights remain outside the full-lyric catalog.
 - **Local library:** saved items, recent views, and recent searches use the versioned `52lyrics:library:v1` localStorage key.

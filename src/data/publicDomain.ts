@@ -115,3 +115,34 @@ for (const edition of PUBLIC_DOMAIN_EDITIONS) {
     seoDescription: `Explore historical lyrics by ${edition.author}, with complete texts and source editions.`,
   });
 }
+
+// Authors already covered by a reviewed edition keep one artist identity; the
+// anthology batch songs join the existing songbook album instead of creating
+// a second page for the same writer.
+import { PUBLIC_DOMAIN_BATCH_ARTISTS, PUBLIC_DOMAIN_BATCH_ALBUMS } from './publicDomainBatch';
+export const BATCH_INTEGRATION = { mergedAuthors: 0, mergedSongs: 0, addedAuthors: 0, addedAlbums: 0, addedSongs: 0 };
+for (const batchArtist of PUBLIC_DOMAIN_BATCH_ARTISTS) {
+  const existingArtist = PUBLIC_DOMAIN_ARTISTS.find((artist) => artist.id === batchArtist.id);
+  const batchAlbum = PUBLIC_DOMAIN_BATCH_ALBUMS.find((item) => item.artistId === batchArtist.id)!;
+  if (existingArtist) {
+    const existingAlbum = existingArtist.albums.find((item) => item.id === batchAlbum.id);
+    if (!existingAlbum) throw new Error(`Existing author is missing a songbook: ${batchArtist.name}`);
+    const offset = existingAlbum.tracks.length;
+    batchAlbum.tracks.forEach((track, index) => {
+      track.trackNumber = offset + index + 1;
+      track.albumTitle = existingAlbum.title;
+    });
+    existingAlbum.tracks.push(...batchAlbum.tracks);
+    existingAlbum.trackCount = existingAlbum.tracks.length;
+    existingArtist.songCount = existingArtist.albums.reduce((sum, item) => sum + item.tracks.length, 0);
+    if (existingArtist.topSongs.length < 5) existingArtist.topSongs = existingAlbum.tracks.slice(0, 5);
+    BATCH_INTEGRATION.mergedAuthors += 1;
+    BATCH_INTEGRATION.mergedSongs += batchAlbum.tracks.length;
+  } else {
+    PUBLIC_DOMAIN_ARTISTS.push(batchArtist);
+    PUBLIC_DOMAIN_ALBUMS.push(batchAlbum);
+    BATCH_INTEGRATION.addedAuthors += 1;
+    BATCH_INTEGRATION.addedAlbums += 1;
+    BATCH_INTEGRATION.addedSongs += batchAlbum.tracks.length;
+  }
+}

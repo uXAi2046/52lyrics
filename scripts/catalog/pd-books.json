@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "books": [
+    {
+      "id": "scottish-song-1843",
+      "prefix": "The Book of Scottish Song/",
+      "title": "The Book of Scottish Song",
+      "year": 1843,
+      "editor": "Alexander Whitelaw",
+      "indexPage": "The Book of Scottish Song",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Book_of_Scottish_Song",
+      "provider": "Wikisource",
+      "themes": ["Scottish song", "Folk"],
+      "rights": "unconditional",
+      "rightsNote": "Every contribution in this 1843 anthology predates modern copyright terms by more than a century; any contributor died at least 130 years ago, so the text is in the public domain worldwide (life+70 terms expired no later than 2020).",
+      "maxSubpages": 560,
+      "authorOverrides": {}
+    },
+    {
+      "id": "scottish-minstrel-1850",
+      "prefix": "The Scottish Minstrel (First Series)/",
+      "title": "The Scottish Minstrel (First Series)",
+      "year": 1850,
+      "editor": null,
+      "indexPage": "The Scottish Minstrel (First Series)",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Scottish_Minstrel_(First_Series)",
+      "provider": "Wikisource",
+      "themes": ["Scottish song", "Folk"],
+      "rights": "unconditional",
+      "rightsNote": "Every contribution in this 1850 anthology predates modern copyright terms; any contributor died more than 130 years ago, so the text is in the public domain worldwide.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "canadian-soldiers-1918",
+      "prefix": "The Canadian Soldiers' Song Book/",
+      "title": "The Canadian Soldiers' Song Book",
+      "year": 1918,
+      "editor": null,
+      "indexPage": "The Canadian Soldiers' Song Book",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Canadian_Soldiers%27_Song_Book",
+      "provider": "Wikisource",
+      "themes": ["Soldier song", "Historical song"],
+      "rights": "author-death",
+      "rightsNote": "The 1918 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    }
+  ]
+}

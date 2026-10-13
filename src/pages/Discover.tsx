@@ -55,7 +55,7 @@ export default function Discover() {
         <span className="eyebrow">{COLLECTIONS.length} ways into the catalog</span>
         <h1>Follow the sound,<br /><em>not a leaderboard.</em></h1>
         <p>Every collection has an editorial reason to exist. Choose a mood, a theme, or start with lyrics you can read in full.</p>
-        <p>Want to follow the sources? <Link className="text-link" to="/guides">Read the music guides →</Link></p>
+        <p>Want the whole reading shelf? <Link className="text-link" to="/lyrics">Browse every complete lyric →</Link> Or follow the sources: <Link className="text-link" to="/guides">read the music guides →</Link></p>
       </header>
 
       <div className="filter-bar" aria-label="Filter collections">

@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { ARTISTS, ALBUMS, SONGS, FULL_LYRIC_WORKS, artistPath, findArtist, findAlbum, songPath } from '../../src/data/catalog.ts';
+import { BATCH_INTEGRATION } from '../../src/data/publicDomain.ts';
 
 // Compare against an explicit pre-collection backup, not staging counters or source search results.
 const [baselineDirectory, requestedAdded] = process.argv.slice(2);
@@ -22,7 +23,7 @@ for (const name of ['commons', 'artist-profiles']) {
 const added = after.artists.slice(before.artists.length);
 assert.equal(added.length, addedCount, 'Wrong number of new artist identities');
 assert.equal(after.artists.filter((artist) => artist.albums.length).length - before.artists.filter((artist) => artist.albums.length).length, addedCount);
-assert.equal(FULL_LYRIC_WORKS.length, 108, 'Previously reviewed lyric corpus changed');
+assert.equal(FULL_LYRIC_WORKS.length, 108 + BATCH_INTEGRATION.addedSongs + BATCH_INTEGRATION.mergedSongs, 'Previously reviewed lyric corpus changed');
 const rows = added.map((record) => {
   const artist = findArtist(`mb-artist-${record.mbid}`);
   assert(artist && record.albums.length > 0, `Missing artist/release: ${record.name}`);

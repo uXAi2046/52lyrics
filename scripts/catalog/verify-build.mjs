@@ -19,7 +19,14 @@ for (const { item, path, title } of entries) {
   assert.equal(document.querySelector('h1')?.textContent, title, `Wrong rendered heading: ${path}`);
   const canonical = document.querySelector('link[rel="canonical"]')?.href;
   assert(canonical?.endsWith(path), `Wrong canonical: ${path}`);
-  assert(sitemap.includes(canonical), `Not in sitemap: ${path}`);
+  const noindex = [...document.querySelectorAll('meta[name="robots"]')].some((tag) => tag.content.includes('noindex'));
+  if ('lyricsAvailability' in item && item.lyricsAvailability === 'metadata-only') {
+    assert(noindex, `Metadata-only page must be noindex: ${path}`);
+    assert(!sitemap.includes(canonical), `Metadata-only page must stay out of the sitemap: ${path}`);
+  } else {
+    assert(!noindex, `Indexable page carries noindex: ${path}`);
+    assert(sitemap.includes(canonical), `Not in sitemap: ${path}`);
+  }
   const structuredData = [...document.querySelectorAll('script[type="application/ld+json"]')].map((script) => JSON.parse(script.textContent));
   if ('biography' in item) {
     assert.equal(document.querySelector('.artist-hero__bio')?.textContent, item.biography, `Wrong artist biography: ${path}`);

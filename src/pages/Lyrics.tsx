@@ -15,6 +15,8 @@ export const meta = ({ params }: { params: { songId?: string } }) => {
   return [
     { title: song ? `${song.title} by ${song.artistName} — ${song.lyricsAvailability === 'full' ? 'full lyrics and song notes' : 'song credits and release notes'} | 52lyrics` : 'Song not found — 52lyrics' },
     { name: 'description', content: song?.seoDescription || 'The requested song is not in the 52lyrics catalog.' },
+    // Pages without lyric text are release documentation, not lyric content.
+    ...(song && song.lyricsAvailability === 'metadata-only' ? [{ name: 'robots', content: 'noindex' }] : []),
     { property: 'og:title', content: song ? `${song.title} — ${song.artistName}` : 'Song not found' },
     { property: 'og:description', content: song?.seoDescription || 'Search songs on 52lyrics.' },
   ];

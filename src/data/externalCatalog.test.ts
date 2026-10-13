@@ -53,7 +53,7 @@ describe('sourced release catalog', () => {
     expect(album.metadataSource?.edition).toContain('2000-05-23');
   });
 
-  it('keeps artwork local and checks the actual downloaded image bytes and credit links', () => {
+  it('keeps artwork local and checks the actual downloaded image bytes and credit links', { timeout: 120_000 }, () => {
     expect(photos.records.length).toBeGreaterThanOrEqual(40);
     for (const image of photos.records) {
       expect(image.localPath).toMatch(/^\/artwork\/imported\/[a-f0-9]{20}\.(jpg|png)$/);

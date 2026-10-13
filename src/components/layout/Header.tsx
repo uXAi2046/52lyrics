@@ -6,6 +6,7 @@ import GlobalSearch from '../search/GlobalSearch';
 const NAV_ITEMS = [
   { to: '/', label: 'Home', end: true },
   { to: '/discover', label: 'Discover' },
+  { to: '/lyrics', label: 'Lyrics' },
   { to: '/artists', label: 'Artists' },
   { to: '/saved', label: 'Saved' },
 ];

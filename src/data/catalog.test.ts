@@ -3,17 +3,20 @@ import { ALBUMS, ARTISTS, FULL_LYRIC_SONGS, FULL_LYRIC_WORKS, SONGS, assertCatal
 import { searchCatalog } from './search';
 import imported from './imported/musicbrainz.json';
 import { ARTISTS as ORIGINAL_ARTISTS, ALBUMS as ORIGINAL_ALBUMS } from './mockData';
+import { BATCH_INTEGRATION } from './publicDomain';
 
 describe('catalog release integrity', () => {
   it('contains the expected release catalog', () => {
     expect(ARTISTS.length).toBeGreaterThan(32);
     expect(ALBUMS.length).toBeGreaterThan(33);
     expect(SONGS.length).toBeGreaterThan(179);
-    // 25 original releases, eight historical songbooks, and one author-sheet songbook.
-    expect(ALBUMS.length).toBe(34 + imported.artists.reduce((sum, artist) => sum + artist.albums.length, 0));
+    // 25 original releases, eight historical songbooks, one author-sheet songbook,
+    // and the reviewed anthology songbooks collected from Wikisource.
+    expect(ALBUMS.length).toBe(34 + imported.artists.reduce((sum, artist) => sum + artist.albums.length, 0) + BATCH_INTEGRATION.addedAlbums);
     expect(ORIGINAL_ARTISTS.every((artist) => ARTISTS.some((item) => item.id === artist.id && item.slug === artist.slug))).toBe(true);
     expect(ORIGINAL_ALBUMS.every((album) => ALBUMS.some((item) => item.id === album.id && item.slug === album.slug))).toBe(true);
-    expect(FULL_LYRIC_WORKS).toHaveLength(108);
+    expect(FULL_LYRIC_WORKS.length).toBe(108 + BATCH_INTEGRATION.addedSongs + BATCH_INTEGRATION.mergedSongs);
+    expect(FULL_LYRIC_WORKS.length).toBeGreaterThanOrEqual(500);
   });
 
   it('keeps complete lyrics rights-safe and metadata songs empty', () => {

@@ -1,0 +1,3301 @@
+{
+  "generatedAt": "2026-10-12T06:35:17.339Z",
+  "artists": 1020,
+  "albums": 1131,
+  "songPages": 13319,
+  "metadataOnlyPages": 13112,
+  "fullLyricPages": 207,
+  "fullLyricWorks": 108,
+  "auditDistinctWorks": 108,
+  "pagesPerWorkRatio": 1.92,
+  "fullBySource": {
+    "Original": 10,
+    "Tom Lehrer": 189,
+    "Wikisource": 8
+  },
+  "fullByRights": {
+    "original": 10,
+    "public-domain": 197
+  },
+  "counts": {
+    "worksWithTextProblems": 0,
+    "worksWithSingleStanza": 4,
+    "worksWithProvenanceProblems": 0,
+    "worksWithMultipleFullPages": 37
+  },
+  "consistency": {
+    "auditDistinctWorks": 108,
+    "catalogDistinctWorks": 108,
+    "match": true
+  },
+  "commercialLicenses": 0,
+  "urlChecks": [
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::fight fiercely, harvard",
+      "url": "https://tomlehrersongs.com/fight-fiercely-harvard/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the old dope peddler",
+      "url": "https://tomlehrersongs.com/the-old-dope-peddler/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::be prepared",
+      "url": "https://tomlehrersongs.com/be-prepared/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wild west is where i want to be",
+      "url": "https://tomlehrersongs.com/the-wild-west-is-where-i-want-to-be/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i wanna go back to dixie",
+      "url": "https://tomlehrersongs.com/i-wanna-go-back-to-dixie/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::lobachevsky",
+      "url": "https://tomlehrersongs.com/lobachevsky/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the irish ballad",
+      "url": "https://tomlehrersongs.com/the-irish-ballad/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the hunting song",
+      "url": "https://tomlehrersongs.com/the-hunting-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::my home town",
+      "url": "https://tomlehrersongs.com/my-home-town/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::when you are old and gray",
+      "url": "https://tomlehrersongs.com/when-you-are-old-and-gray/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i hold your hand in mine",
+      "url": "https://tomlehrersongs.com/i-hold-your-hand-in-mine/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wiener schnitzel waltz",
+      "url": "https://tomlehrersongs.com/the-wiener-schnitzel-waltz/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::poisoning pigeons in the park",
+      "url": "https://tomlehrersongs.com/poisoning-pigeons-in-the-park/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::bright college days",
+      "url": "https://tomlehrersongs.com/bright-college-days/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::a christmas carol",
+      "url": "https://tomlehrersongs.com/a-christmas-carol/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the elements",
+      "url": "https://tomlehrersongs.com/the-elements/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::oedipus rex",
+      "url": "https://tomlehrersongs.com/oedipus-rex/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::in old mexico",
+      "url": "https://tomlehrersongs.com/in-old-mexico/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::clementine",
+      "url": "https://tomlehrersongs.com/clementine/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::it makes a fellow proud to be a soldier",
+      "url": "https://tomlehrersongs.com/it-makes-a-fellow-proud-to-be-a-soldier/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::she's my girl",
+      "url": "https://tomlehrersongs.com/shes-my-girl/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the masochism tango",
+      "url": "https://tomlehrersongs.com/the-masochism-tango/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::we will all go together when we go",
+      "url": "https://tomlehrersongs.com/we-will-all-go-together-when-we-go/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::national brotherhood week",
+      "url": "https://tomlehrersongs.com/824-2/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::mlf lullaby",
+      "url": "https://tomlehrersongs.com/mlf-lullaby/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::george murphy",
+      "url": "https://tomlehrersongs.com/george-murphy/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the folk song army",
+      "url": "https://tomlehrersongs.com/the-folk-song-army/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::smut",
+      "url": "https://tomlehrersongs.com/smut/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::send the marines",
+      "url": "https://tomlehrersongs.com/send-the-marines/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::pollution",
+      "url": "https://tomlehrersongs.com/pollution/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::so long, mom (a song for world war iii)",
+      "url": "https://tomlehrersongs.com/so-long-mom/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::whatever became of hubert?",
+      "url": "https://tomlehrersongs.com/whatever-became-of-hubert/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::new math",
+      "url": "https://tomlehrersongs.com/new-math/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::alma",
+      "url": "https://tomlehrersongs.com/alma/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::who's next?",
+      "url": "https://tomlehrersongs.com/whos-next/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::wernher von braun",
+      "url": "https://tomlehrersongs.com/wernher-von-braun/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the vatican rag",
+      "url": "https://tomlehrersongs.com/the-vatican-rag/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i got it from agnes",
+      "url": "https://tomlehrersongs.com/i-got-it-from-agnes/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::that's mathematics",
+      "url": "https://tomlehrersongs.com/thats-mathematics/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::l-y",
+      "url": "https://tomlehrersongs.com/l-y/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::silent e",
+      "url": "https://tomlehrersongs.com/silent-e/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::o-u (the hound song)",
+      "url": "https://tomlehrersongs.com/o-u/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::s-n (snore, sniff, and sneeze)",
+      "url": "https://tomlehrersongs.com/s-n/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::n apostrophe t",
+      "url": "https://tomlehrersongs.com/n-apostrophe-t/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::selling out",
+      "url": "https://tomlehrersongs.com/selling-out/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::(i'm spending) hanukkah in santa monica",
+      "url": "https://tomlehrersongs.com/hanukkah-in-santa-monica/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-john-newton::amazing grace",
+      "url": "https://en.wikisource.org/wiki/Olney_Hymns_(1840)%2FBook_1%2FHymn_41",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-christina-rossetti::in the bleak midwinter",
+      "url": "https://en.wikisource.org/wiki/In_the_Bleak_Midwinter",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-will-l-thompson::softly and tenderly",
+      "url": "https://en.wikisource.org/wiki/Softly_and_Tenderly",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-john-henry-hopkins::we three kings of orient are",
+      "url": "https://en.wikisource.org/wiki/We_Three_Kings_of_Orient_Are",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-william-chatterton-dix::what child is this?",
+      "url": "https://en.wikisource.org/wiki/What_Child_Is_This%3F",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-john-mason-neale::good king wenceslas",
+      "url": "https://en.wikisource.org/wiki/Carols_for_Christmas-tide%2FGood_King_Wenceslas",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-henry-wadsworth-longfellow::christmas bells",
+      "url": "https://en.wikisource.org/wiki/Flower-de-Luce_(Collection)%2FChristmas_Bells",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "pd-artist-john-howard-payne::home, sweet home",
+      "url": "https://en.wikisource.org/wiki/Poems_That_Every_Child_Should_Know%2FHome%2C_Sweet_Home",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::all i need is a job",
+      "url": "https://tomlehrersongs.com/all-i-need-is-a-job/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::are there any questions?",
+      "url": "https://tomlehrersongs.com/are-there-any-questions/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::baby, is it love?",
+      "url": "https://tomlehrersongs.com/baby-is-it-love/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the derivative song (dy/dx)",
+      "url": "https://tomlehrersongs.com/the-derivative-song-dy-dx/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::dodging the draft at harvard",
+      "url": "https://tomlehrersongs.com/dodging-the-draft-at-harvard/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::don't major in physics",
+      "url": "https://tomlehrersongs.com/dont-major-in-physics/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::finch and dench",
+      "url": "https://tomlehrersongs.com/finch-and-dench/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::fugue for scientists",
+      "url": "https://tomlehrersongs.com/fugue-for-scientists/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::gsas alma mater",
+      "url": "https://tomlehrersongs.com/gsas-alma-mater/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::hail, chemistry",
+      "url": "https://tomlehrersongs.com/hail-chemistry/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::high school hymn",
+      "url": "https://tomlehrersongs.com/high-school-hymn/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::a liter and a gram",
+      "url": "https://tomlehrersongs.com/a-liter-and-a-gram/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::relativity",
+      "url": "https://tomlehrersongs.com/relativity/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the slide rule song",
+      "url": "https://tomlehrersongs.com/the-slide-rule-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::deep doodoo",
+      "url": "https://tomlehrersongs.com/deep-doodoo/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::he's not the one",
+      "url": "https://tomlehrersongs.com/hes-not-the-one/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the ice cream tango",
+      "url": "https://tomlehrersongs.com/ice-cream-tango/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the love song of the physical anthropologist",
+      "url": "https://tomlehrersongs.com/the-love-song-of-the-physical-anthropologist/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::(we're gonna put) a man on the moon",
+      "url": "https://tomlehrersongs.com/were-gonna-put-a-man-on-the-moon/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the menu song",
+      "url": "https://tomlehrersongs.com/the-menu-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the mumble song",
+      "url": "https://tomlehrersongs.com/the-mumble-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::no rice (it's gotta just happen)",
+      "url": "https://tomlehrersongs.com/no-rice/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::polaroid photography song",
+      "url": "https://tomlehrersongs.com/polaroid-photography-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::political action song",
+      "url": "https://tomlehrersongs.com/political-action-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::post-thanksgiving hymn",
+      "url": "https://tomlehrersongs.com/post-thanksgiving-hymn/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::scenery",
+      "url": "https://tomlehrersongs.com/scenery/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::take me for a walk",
+      "url": "https://tomlehrersongs.com/take-me-for-a-walk/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::thank him for me",
+      "url": "https://tomlehrersongs.com/thank-him-for-me/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::there's a delta for every epsilon",
+      "url": "https://tomlehrersongs.com/theres-a-delta-for-every-epsilon/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::without an s",
+      "url": "https://tomlehrersongs.com/without-an-s/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the professor's song",
+      "url": "https://tomlehrersongs.com/the-professors-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::s = 1⁄2 gt2",
+      "url": "https://tomlehrersongs.com/s-equals-one-half-g-t-squared/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the sac song",
+      "url": "https://tomlehrersongs.com/the-sac-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::sociology",
+      "url": "https://tomlehrersongs.com/sociology/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::speed's song",
+      "url": "https://tomlehrersongs.com/speeds-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the subway song",
+      "url": "https://tomlehrersongs.com/the-subway-song/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::te amo",
+      "url": "https://tomlehrersongs.com/te-amo/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::unsong",
+      "url": "https://tomlehrersongs.com/unsong/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::we're talkin' algebra",
+      "url": "https://tomlehrersongs.com/were-talkin-algebra/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::why not fight?",
+      "url": "https://tomlehrersongs.com/why-not-fight/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i can't think why",
+      "url": "https://tomlehrersongs.com/i-cant-think-why/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the night i appeared as macbeth",
+      "url": "https://tomlehrersongs.com/the-night-i-appeared-as-macbeth/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::trees",
+      "url": "https://tomlehrersongs.com/trees/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::tango de la menegilda",
+      "url": "https://tomlehrersongs.com/tango-de-la-menegilda/",
+      "status": 200,
+      "ok": true
+    }
+  ],
+  "brokenText": [],
+  "brokenProvenance": [],
+  "duplicatedWorks": [
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::fight fiercely, harvard",
+      "title": "Fight Fiercely, Harvard",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 2,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-fight-fiercely-harvard-f2967ddd",
+        "tom-lehrer-fight-fiercely-harvard-d0b1d5a9",
+        "tom-lehrer-fight-fiercely-harvard-4de4dc96",
+        "tom-lehrer-fight-fiercely-harvard-2839fd65",
+        "tom-lehrer-fight-fiercely-harvard-1c35a5a9"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the old dope peddler",
+      "title": "The Old Dope Peddler",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-old-dope-peddler-fb8ac94b",
+        "tom-lehrer-the-old-dope-peddler-8211703a",
+        "tom-lehrer-the-old-dope-peddler-8259543f",
+        "tom-lehrer-the-old-dope-peddler-b8a93061",
+        "tom-lehrer-the-old-dope-peddler-2e2157dc"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::be prepared",
+      "title": "Be Prepared",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-be-prepared-8e61ab2f",
+        "tom-lehrer-be-prepared-bf4776b8",
+        "tom-lehrer-be-prepared-4e850aea",
+        "tom-lehrer-be-prepared-53cc4cdd",
+        "tom-lehrer-be-prepared-012bd597"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wild west is where i want to be",
+      "title": "The Wild West Is Where I Want to Be",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-4d1cb955",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-60f18cca",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-94a2874d",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-cd0f8103",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-df346ade"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i wanna go back to dixie",
+      "title": "I Wanna Go Back to Dixie",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 7,
+      "lines": 34,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-wanna-go-back-to-dixie-bba89fe2",
+        "tom-lehrer-i-wanna-go-back-to-dixie-6b62eb17",
+        "tom-lehrer-i-wanna-go-back-to-dixie-f17c0f54",
+        "tom-lehrer-i-wanna-go-back-to-dixie-c8b6e5fa",
+        "tom-lehrer-i-wanna-go-back-to-dixie-615145a8"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::lobachevsky",
+      "title": "Lobachevsky",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 12,
+      "lines": 73,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-lobachevsky-5cbb0e11",
+        "tom-lehrer-lobachevsky-95d5837e",
+        "tom-lehrer-lobachevsky-95a0f320",
+        "tom-lehrer-lobachevsky-81365aff",
+        "tom-lehrer-lobachevsky-252df569"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the irish ballad",
+      "title": "The Irish Ballad",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 8,
+      "lines": 64,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-irish-ballad-d1be3bcc",
+        "tom-lehrer-the-irish-ballad-d1594b87",
+        "tom-lehrer-the-irish-ballad-4f6b37d4",
+        "tom-lehrer-the-irish-ballad-0b7c01f5",
+        "tom-lehrer-the-irish-ballad-aa499b82"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the hunting song",
+      "title": "The Hunting Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 6,
+      "totalSongPages": 6,
+      "stanzas": 4,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-hunting-song-755dc394",
+        "tom-lehrer-the-hunting-song-cd76c702",
+        "tom-lehrer-the-hunting-song-18df1fd3",
+        "tom-lehrer-the-hunting-song-1f0ba68e",
+        "tom-lehrer-the-hunting-song-24b540ab",
+        "tom-lehrer-the-hunting-song-8c80a702"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::my home town",
+      "title": "My Home Town",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 7,
+      "lines": 36,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-my-home-town-6764cb6d",
+        "tom-lehrer-my-home-town-ee8297a6",
+        "tom-lehrer-my-home-town-8d9ea326",
+        "tom-lehrer-my-home-town-de01325a",
+        "tom-lehrer-my-home-town-5e800292"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::when you are old and gray",
+      "title": "When You Are Old and Gray",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 5,
+      "lines": 34,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-when-you-are-old-and-gray-b1fd336f",
+        "tom-lehrer-when-you-are-old-and-gray-60bb28f3",
+        "tom-lehrer-when-you-are-old-and-gray-75320ce3",
+        "tom-lehrer-when-you-are-old-and-gray-5c66539e",
+        "tom-lehrer-when-you-are-old-and-gray-7364c5e0"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i hold your hand in mine",
+      "title": "I Hold Your Hand in Mine",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 1,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [
+        "single-stanza work: 1 stanza(s)"
+      ],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-hold-your-hand-in-mine-d66936b3",
+        "tom-lehrer-i-hold-your-hand-in-mine-20440597",
+        "tom-lehrer-i-hold-your-hand-in-mine-713d5b89",
+        "tom-lehrer-i-hold-your-hand-in-mine-9a401d1e",
+        "tom-lehrer-i-hold-your-hand-in-mine-046368e7"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wiener schnitzel waltz",
+      "title": "The Wiener Schnitzel Waltz",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 3,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-wiener-schnitzel-waltz-b14d38ac",
+        "tom-lehrer-the-wiener-schnitzel-waltz-0c2aac9b",
+        "tom-lehrer-the-wiener-schnitzel-waltz-62bc0a60",
+        "tom-lehrer-the-wiener-schnitzel-waltz-abee5817",
+        "tom-lehrer-the-wiener-schnitzel-waltz-b2c7f576"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::poisoning pigeons in the park",
+      "title": "Poisoning Pigeons in the Park",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 6,
+      "lines": 41,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-poisoning-pigeons-in-the-park-5f7cce64",
+        "tom-lehrer-poisoning-pigeons-in-the-park-7c266c63",
+        "tom-lehrer-poisoning-pigeons-in-the-park-9cf89a34",
+        "tom-lehrer-poisoning-pigeons-in-the-park-8673457b",
+        "tom-lehrer-poisoning-pigeons-in-the-park-87e25b8d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::bright college days",
+      "title": "Bright College Days",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-bright-college-days-2f3ab3db",
+        "tom-lehrer-bright-college-days-d4382aac",
+        "tom-lehrer-bright-college-days-96fc042f",
+        "tom-lehrer-bright-college-days-2ed0d326"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::a christmas carol",
+      "title": "A Christmas Carol",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 7,
+      "lines": 30,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-a-christmas-carol-d229cdb2",
+        "tom-lehrer-a-christmas-carol-537833a5",
+        "tom-lehrer-a-christmas-carol-d73d2521",
+        "tom-lehrer-a-christmas-carol-fccb71f0"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the elements",
+      "title": "The Elements",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 7,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-elements-91641359",
+        "tom-lehrer-the-elements-53e0bf09",
+        "tom-lehrer-the-elements-db625b49",
+        "tom-lehrer-the-elements-27fa7fd2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::oedipus rex",
+      "title": "Oedipus Rex",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-oedipus-rex-da61c4d7",
+        "tom-lehrer-oedipus-rex-67daba32",
+        "tom-lehrer-oedipus-rex-d49551b4",
+        "tom-lehrer-oedipus-rex-8755da0c"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::in old mexico",
+      "title": "In Old Mexico",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 9,
+      "lines": 59,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-in-old-mexico-1d056b8a",
+        "tom-lehrer-in-old-mexico-125929a5",
+        "tom-lehrer-in-old-mexico-12f7cf6f",
+        "tom-lehrer-in-old-mexico-d2bbd2c8"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::clementine",
+      "title": "Clementine",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 4,
+      "lines": 46,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-clementine-04fb9596",
+        "tom-lehrer-clementine-a3a75682",
+        "tom-lehrer-clementine-8e4d241c",
+        "tom-lehrer-clementine-7c48c148"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::it makes a fellow proud to be a soldier",
+      "title": "It Makes a Fellow Proud to Be a Soldier",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 9,
+      "lines": 47,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-7cf19bb1",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-e6783cd3",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-21f776a2",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-53c85eeb"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::she's my girl",
+      "title": "She’s My Girl",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 4,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-she-s-my-girl-be5bb0c0",
+        "tom-lehrer-she-s-my-girl-aa0a55ca",
+        "tom-lehrer-she-s-my-girl-261b3e6e",
+        "tom-lehrer-she-s-my-girl-2adee780"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the masochism tango",
+      "title": "The Masochism Tango",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 8,
+      "lines": 51,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-masochism-tango-fc96a01f",
+        "tom-lehrer-the-masochism-tango-43acbc81",
+        "tom-lehrer-the-masochism-tango-e3cb7a7f",
+        "tom-lehrer-the-masochism-tango-36844f3d",
+        "tom-lehrer-the-masochism-tango-595ee0cc"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::we will all go together when we go",
+      "title": "We Will All Go Together When We Go",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 10,
+      "lines": 56,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-we-will-all-go-together-when-we-go-ef079a72",
+        "tom-lehrer-we-will-all-go-together-when-we-go-2048f896",
+        "tom-lehrer-we-will-all-go-together-when-we-go-b00d28bf",
+        "tom-lehrer-we-will-all-go-together-when-we-go-23a1133f",
+        "tom-lehrer-we-will-all-go-together-when-we-go-7ccfcf24"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::national brotherhood week",
+      "title": "National Brotherhood Week",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 31,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-national-brotherhood-week-8ef3e6ba",
+        "tom-lehrer-national-brotherhood-week-9a1a591d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::mlf lullaby",
+      "title": "MLF Lullaby",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 21,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-mlf-lullaby-b7f30c8b",
+        "tom-lehrer-mlf-lullaby-4bcebc67"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::george murphy",
+      "title": "George Murphy",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 22,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-george-murphy-4b02f9cf",
+        "tom-lehrer-george-murphy-95e1b49a"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the folk song army",
+      "title": "The Folk Song Army",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-folk-song-army-45746fc5",
+        "tom-lehrer-the-folk-song-army-dcd7ead2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::smut",
+      "title": "Smut",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 10,
+      "lines": 60,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-smut-f55aa9e2",
+        "tom-lehrer-smut-53649205"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::send the marines",
+      "title": "Send the Marines",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 29,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-send-the-marines-7fa67c19",
+        "tom-lehrer-send-the-marines-5c5c644f"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::pollution",
+      "title": "Pollution",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 8,
+      "lines": 33,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-pollution-bbe612f1",
+        "tom-lehrer-pollution-2ba85e15"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::so long, mom (a song for world war iii)",
+      "title": "So Long, Mom (A Song for World War III)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 33,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-so-long-mom-a-song-for-world-war-iii-3e87ccf8",
+        "tom-lehrer-so-long-mom-a-song-for-world-war-iii-2c8e96f2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::whatever became of hubert?",
+      "title": "Whatever Became of Hubert?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 5,
+      "lines": 25,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-whatever-became-of-hubert-55dafe8a",
+        "tom-lehrer-whatever-became-of-hubert-04d4aa87"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::new math",
+      "title": "New Math",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 14,
+      "lines": 79,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-new-math-a88f5bdc",
+        "tom-lehrer-new-math-8be12f64"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::alma",
+      "title": "Alma",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 12,
+      "lines": 47,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-alma-8867eff5",
+        "tom-lehrer-alma-3d4ac57d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::who's next?",
+      "title": "Who’s Next?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 5,
+      "lines": 28,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-who-s-next-12dea645",
+        "tom-lehrer-who-s-next-4311660a"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::wernher von braun",
+      "title": "Wernher Von Braun",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 18,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-wernher-von-braun-d9343136",
+        "tom-lehrer-wernher-von-braun-75739bf9"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the vatican rag",
+      "title": "The Vatican Rag",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-vatican-rag-6de1da90",
+        "tom-lehrer-the-vatican-rag-266a0d91"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "key": "a24::city lights",
+      "title": "City Lights",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 14,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-city-lights"
+      ]
+    },
+    {
+      "key": "a24::echoes of yesterday",
+      "title": "Echoes of Yesterday",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-echoes-of-yesterday"
+      ]
+    },
+    {
+      "key": "a24::digital hearts",
+      "title": "Digital Hearts",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-digital-hearts"
+      ]
+    },
+    {
+      "key": "a24::running from the sun",
+      "title": "Running from the Sun",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-running-from-the-sun"
+      ]
+    },
+    {
+      "key": "a24::concrete jungle",
+      "title": "Concrete Jungle",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 14,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-concrete-jungle"
+      ]
+    },
+    {
+      "key": "a24::back to the start",
+      "title": "Back to the Start",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-back-to-the-start"
+      ]
+    },
+    {
+      "key": "a24::fading signals",
+      "title": "Fading Signals",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-fading-signals"
+      ]
+    },
+    {
+      "key": "a24::starlit drive",
+      "title": "Starlit Drive",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 14,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-starlit-drive"
+      ]
+    },
+    {
+      "key": "a24::lost frequency",
+      "title": "Lost Frequency",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-lost-frequency"
+      ]
+    },
+    {
+      "key": "a24::waves",
+      "title": "Waves",
+      "artist": "The Midnight Echo",
+      "provider": "Original",
+      "rights": "original",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "the-midnight-echo-waves"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::fight fiercely, harvard",
+      "title": "Fight Fiercely, Harvard",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 2,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-fight-fiercely-harvard-f2967ddd",
+        "tom-lehrer-fight-fiercely-harvard-d0b1d5a9",
+        "tom-lehrer-fight-fiercely-harvard-4de4dc96",
+        "tom-lehrer-fight-fiercely-harvard-2839fd65",
+        "tom-lehrer-fight-fiercely-harvard-1c35a5a9"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the old dope peddler",
+      "title": "The Old Dope Peddler",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-old-dope-peddler-fb8ac94b",
+        "tom-lehrer-the-old-dope-peddler-8211703a",
+        "tom-lehrer-the-old-dope-peddler-8259543f",
+        "tom-lehrer-the-old-dope-peddler-b8a93061",
+        "tom-lehrer-the-old-dope-peddler-2e2157dc"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::be prepared",
+      "title": "Be Prepared",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-be-prepared-8e61ab2f",
+        "tom-lehrer-be-prepared-bf4776b8",
+        "tom-lehrer-be-prepared-4e850aea",
+        "tom-lehrer-be-prepared-53cc4cdd",
+        "tom-lehrer-be-prepared-012bd597"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wild west is where i want to be",
+      "title": "The Wild West Is Where I Want to Be",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 4,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-4d1cb955",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-60f18cca",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-94a2874d",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-cd0f8103",
+        "tom-lehrer-the-wild-west-is-where-i-want-to-be-df346ade"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i wanna go back to dixie",
+      "title": "I Wanna Go Back to Dixie",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 7,
+      "lines": 34,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-wanna-go-back-to-dixie-bba89fe2",
+        "tom-lehrer-i-wanna-go-back-to-dixie-6b62eb17",
+        "tom-lehrer-i-wanna-go-back-to-dixie-f17c0f54",
+        "tom-lehrer-i-wanna-go-back-to-dixie-c8b6e5fa",
+        "tom-lehrer-i-wanna-go-back-to-dixie-615145a8"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::lobachevsky",
+      "title": "Lobachevsky",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 12,
+      "lines": 73,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-lobachevsky-5cbb0e11",
+        "tom-lehrer-lobachevsky-95d5837e",
+        "tom-lehrer-lobachevsky-95a0f320",
+        "tom-lehrer-lobachevsky-81365aff",
+        "tom-lehrer-lobachevsky-252df569"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the irish ballad",
+      "title": "The Irish Ballad",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 8,
+      "lines": 64,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-irish-ballad-d1be3bcc",
+        "tom-lehrer-the-irish-ballad-d1594b87",
+        "tom-lehrer-the-irish-ballad-4f6b37d4",
+        "tom-lehrer-the-irish-ballad-0b7c01f5",
+        "tom-lehrer-the-irish-ballad-aa499b82"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the hunting song",
+      "title": "The Hunting Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 6,
+      "totalSongPages": 6,
+      "stanzas": 4,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-hunting-song-755dc394",
+        "tom-lehrer-the-hunting-song-cd76c702",
+        "tom-lehrer-the-hunting-song-18df1fd3",
+        "tom-lehrer-the-hunting-song-1f0ba68e",
+        "tom-lehrer-the-hunting-song-24b540ab",
+        "tom-lehrer-the-hunting-song-8c80a702"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::my home town",
+      "title": "My Home Town",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 7,
+      "lines": 36,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-my-home-town-6764cb6d",
+        "tom-lehrer-my-home-town-ee8297a6",
+        "tom-lehrer-my-home-town-8d9ea326",
+        "tom-lehrer-my-home-town-de01325a",
+        "tom-lehrer-my-home-town-5e800292"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::when you are old and gray",
+      "title": "When You Are Old and Gray",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 5,
+      "lines": 34,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-when-you-are-old-and-gray-b1fd336f",
+        "tom-lehrer-when-you-are-old-and-gray-60bb28f3",
+        "tom-lehrer-when-you-are-old-and-gray-75320ce3",
+        "tom-lehrer-when-you-are-old-and-gray-5c66539e",
+        "tom-lehrer-when-you-are-old-and-gray-7364c5e0"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i hold your hand in mine",
+      "title": "I Hold Your Hand in Mine",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 1,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [
+        "single-stanza work: 1 stanza(s)"
+      ],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-hold-your-hand-in-mine-d66936b3",
+        "tom-lehrer-i-hold-your-hand-in-mine-20440597",
+        "tom-lehrer-i-hold-your-hand-in-mine-713d5b89",
+        "tom-lehrer-i-hold-your-hand-in-mine-9a401d1e",
+        "tom-lehrer-i-hold-your-hand-in-mine-046368e7"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the wiener schnitzel waltz",
+      "title": "The Wiener Schnitzel Waltz",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 3,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-wiener-schnitzel-waltz-b14d38ac",
+        "tom-lehrer-the-wiener-schnitzel-waltz-0c2aac9b",
+        "tom-lehrer-the-wiener-schnitzel-waltz-62bc0a60",
+        "tom-lehrer-the-wiener-schnitzel-waltz-abee5817",
+        "tom-lehrer-the-wiener-schnitzel-waltz-b2c7f576"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::poisoning pigeons in the park",
+      "title": "Poisoning Pigeons in the Park",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 6,
+      "lines": 41,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-poisoning-pigeons-in-the-park-5f7cce64",
+        "tom-lehrer-poisoning-pigeons-in-the-park-7c266c63",
+        "tom-lehrer-poisoning-pigeons-in-the-park-9cf89a34",
+        "tom-lehrer-poisoning-pigeons-in-the-park-8673457b",
+        "tom-lehrer-poisoning-pigeons-in-the-park-87e25b8d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::bright college days",
+      "title": "Bright College Days",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-bright-college-days-2f3ab3db",
+        "tom-lehrer-bright-college-days-d4382aac",
+        "tom-lehrer-bright-college-days-96fc042f",
+        "tom-lehrer-bright-college-days-2ed0d326"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::a christmas carol",
+      "title": "A Christmas Carol",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 7,
+      "lines": 30,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-a-christmas-carol-d229cdb2",
+        "tom-lehrer-a-christmas-carol-537833a5",
+        "tom-lehrer-a-christmas-carol-d73d2521",
+        "tom-lehrer-a-christmas-carol-fccb71f0"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the elements",
+      "title": "The Elements",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 7,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-elements-91641359",
+        "tom-lehrer-the-elements-53e0bf09",
+        "tom-lehrer-the-elements-db625b49",
+        "tom-lehrer-the-elements-27fa7fd2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::oedipus rex",
+      "title": "Oedipus Rex",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-oedipus-rex-da61c4d7",
+        "tom-lehrer-oedipus-rex-67daba32",
+        "tom-lehrer-oedipus-rex-d49551b4",
+        "tom-lehrer-oedipus-rex-8755da0c"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::in old mexico",
+      "title": "In Old Mexico",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 9,
+      "lines": 59,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-in-old-mexico-1d056b8a",
+        "tom-lehrer-in-old-mexico-125929a5",
+        "tom-lehrer-in-old-mexico-12f7cf6f",
+        "tom-lehrer-in-old-mexico-d2bbd2c8"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::clementine",
+      "title": "Clementine",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 4,
+      "lines": 46,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-clementine-04fb9596",
+        "tom-lehrer-clementine-a3a75682",
+        "tom-lehrer-clementine-8e4d241c",
+        "tom-lehrer-clementine-7c48c148"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::it makes a fellow proud to be a soldier",
+      "title": "It Makes a Fellow Proud to Be a Soldier",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 9,
+      "lines": 47,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-7cf19bb1",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-e6783cd3",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-21f776a2",
+        "tom-lehrer-it-makes-a-fellow-proud-to-be-a-soldier-53c85eeb"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::she's my girl",
+      "title": "She’s My Girl",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 4,
+      "totalSongPages": 4,
+      "stanzas": 4,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-she-s-my-girl-be5bb0c0",
+        "tom-lehrer-she-s-my-girl-aa0a55ca",
+        "tom-lehrer-she-s-my-girl-261b3e6e",
+        "tom-lehrer-she-s-my-girl-2adee780"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the masochism tango",
+      "title": "The Masochism Tango",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 8,
+      "lines": 51,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-masochism-tango-fc96a01f",
+        "tom-lehrer-the-masochism-tango-43acbc81",
+        "tom-lehrer-the-masochism-tango-e3cb7a7f",
+        "tom-lehrer-the-masochism-tango-36844f3d",
+        "tom-lehrer-the-masochism-tango-595ee0cc"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::we will all go together when we go",
+      "title": "We Will All Go Together When We Go",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 5,
+      "totalSongPages": 5,
+      "stanzas": 10,
+      "lines": 56,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-we-will-all-go-together-when-we-go-ef079a72",
+        "tom-lehrer-we-will-all-go-together-when-we-go-2048f896",
+        "tom-lehrer-we-will-all-go-together-when-we-go-b00d28bf",
+        "tom-lehrer-we-will-all-go-together-when-we-go-23a1133f",
+        "tom-lehrer-we-will-all-go-together-when-we-go-7ccfcf24"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::national brotherhood week",
+      "title": "National Brotherhood Week",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 31,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-national-brotherhood-week-8ef3e6ba",
+        "tom-lehrer-national-brotherhood-week-9a1a591d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::mlf lullaby",
+      "title": "MLF Lullaby",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 21,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-mlf-lullaby-b7f30c8b",
+        "tom-lehrer-mlf-lullaby-4bcebc67"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::george murphy",
+      "title": "George Murphy",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 22,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-george-murphy-4b02f9cf",
+        "tom-lehrer-george-murphy-95e1b49a"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the folk song army",
+      "title": "The Folk Song Army",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-folk-song-army-45746fc5",
+        "tom-lehrer-the-folk-song-army-dcd7ead2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::smut",
+      "title": "Smut",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 10,
+      "lines": 60,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-smut-f55aa9e2",
+        "tom-lehrer-smut-53649205"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::send the marines",
+      "title": "Send the Marines",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 29,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-send-the-marines-7fa67c19",
+        "tom-lehrer-send-the-marines-5c5c644f"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::pollution",
+      "title": "Pollution",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 8,
+      "lines": 33,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-pollution-bbe612f1",
+        "tom-lehrer-pollution-2ba85e15"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::so long, mom (a song for world war iii)",
+      "title": "So Long, Mom (A Song for World War III)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 33,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-so-long-mom-a-song-for-world-war-iii-3e87ccf8",
+        "tom-lehrer-so-long-mom-a-song-for-world-war-iii-2c8e96f2"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::whatever became of hubert?",
+      "title": "Whatever Became of Hubert?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 5,
+      "lines": 25,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-whatever-became-of-hubert-55dafe8a",
+        "tom-lehrer-whatever-became-of-hubert-04d4aa87"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::new math",
+      "title": "New Math",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 14,
+      "lines": 79,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-new-math-a88f5bdc",
+        "tom-lehrer-new-math-8be12f64"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::alma",
+      "title": "Alma",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 12,
+      "lines": 47,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-alma-8867eff5",
+        "tom-lehrer-alma-3d4ac57d"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::who's next?",
+      "title": "Who’s Next?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 5,
+      "lines": 28,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-who-s-next-12dea645",
+        "tom-lehrer-who-s-next-4311660a"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::wernher von braun",
+      "title": "Wernher Von Braun",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 4,
+      "lines": 18,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-wernher-von-braun-d9343136",
+        "tom-lehrer-wernher-von-braun-75739bf9"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the vatican rag",
+      "title": "The Vatican Rag",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 2,
+      "totalSongPages": 2,
+      "stanzas": 6,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-vatican-rag-6de1da90",
+        "tom-lehrer-the-vatican-rag-266a0d91"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i got it from agnes",
+      "title": "I Got It From Agnes",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 35,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-got-it-from-agnes-8846f725"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::that's mathematics",
+      "title": "That’s Mathematics",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 29,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-that-s-mathematics-69035655"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::l-y",
+      "title": "L‐Y",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 7,
+      "lines": 36,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-l-y-8a1aeba6"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::silent e",
+      "title": "Silent E",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 22,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-silent-e-967abaa5"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::o-u (the hound song)",
+      "title": "O‐U (The Hound Song)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 8,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-o-u-the-hound-song-586e1589"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::s-n (snore, sniff, and sneeze)",
+      "title": "S‐N (Snore, Sniff, and Sneeze)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 35,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-s-n-snore-sniff-and-sneeze-b703a013"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::n apostrophe t",
+      "title": "N Apostrophe T",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 51,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-n-apostrophe-t-e31db309"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::selling out",
+      "title": "Selling Out",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 29,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-selling-out-8e2f92e6"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::(i'm spending) hanukkah in santa monica",
+      "title": "(I’m Spending) Hanukkah in Santa Monica",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 30,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-m-spending-hanukkah-in-santa-monica-089f2981"
+      ]
+    },
+    {
+      "key": "pd-artist-john-newton::amazing grace",
+      "title": "Amazing Grace",
+      "artist": "John Newton",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "john-newton-amazing-grace"
+      ]
+    },
+    {
+      "key": "pd-artist-christina-rossetti::in the bleak midwinter",
+      "title": "In the Bleak Midwinter",
+      "artist": "Christina Rossetti",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 40,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "christina-rossetti-in-the-bleak-midwinter"
+      ]
+    },
+    {
+      "key": "pd-artist-will-l-thompson::softly and tenderly",
+      "title": "Softly and Tenderly",
+      "artist": "Will L. Thompson",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 20,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "will-l-thompson-softly-and-tenderly"
+      ]
+    },
+    {
+      "key": "pd-artist-john-henry-hopkins::we three kings of orient are",
+      "title": "We Three Kings of Orient Are",
+      "artist": "John Henry Hopkins",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 10,
+      "lines": 40,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "john-henry-hopkins-we-three-kings"
+      ]
+    },
+    {
+      "key": "pd-artist-william-chatterton-dix::what child is this?",
+      "title": "What Child Is This?",
+      "artist": "William Chatterton Dix",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "william-chatterton-dix-what-child-is-this"
+      ]
+    },
+    {
+      "key": "pd-artist-john-mason-neale::good king wenceslas",
+      "title": "Good King Wenceslas",
+      "artist": "John Mason Neale",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 40,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "john-mason-neale-good-king-wenceslas"
+      ]
+    },
+    {
+      "key": "pd-artist-henry-wadsworth-longfellow::christmas bells",
+      "title": "Christmas Bells",
+      "artist": "Henry Wadsworth Longfellow",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 7,
+      "lines": 35,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "henry-wadsworth-longfellow-christmas-bells"
+      ]
+    },
+    {
+      "key": "pd-artist-john-howard-payne::home, sweet home",
+      "title": "Home, Sweet Home",
+      "artist": "John Howard Payne",
+      "provider": "Wikisource",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 24,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "john-howard-payne-home-sweet-home"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::all i need is a job",
+      "title": "All I Need Is a Job",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-all-i-need-is-a-job"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::are there any questions?",
+      "title": "Are There Any Questions?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 40,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-are-there-any-questions"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::baby, is it love?",
+      "title": "Baby, Is It Love?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 25,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-baby-is-it-love"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the derivative song (dy/dx)",
+      "title": "The Derivative Song (dy/dx)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 1,
+      "lines": 9,
+      "textProblems": [],
+      "textNotes": [
+        "single-stanza work: 1 stanza(s)"
+      ],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-derivative-song-dy-dx"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::dodging the draft at harvard",
+      "title": "Dodging the Draft at Harvard",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-dodging-the-draft-at-harvard"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::don't major in physics",
+      "title": "Don't Major in Physics",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 36,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-dont-major-in-physics"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::finch and dench",
+      "title": "Finch and Dench",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-finch-and-dench"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::fugue for scientists",
+      "title": "Fugue for Scientists",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 10,
+      "lines": 45,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-fugue-for-scientists"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::gsas alma mater",
+      "title": "GSAS Alma Mater",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 22,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-gsas-alma-mater"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::hail, chemistry",
+      "title": "Hail, Chemistry",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 8,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-hail-chemistry"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::high school hymn",
+      "title": "High School Hymn",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 2,
+      "lines": 12,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-high-school-hymn"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::a liter and a gram",
+      "title": "A Liter and a Gram",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 20,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-a-liter-and-a-gram"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::relativity",
+      "title": "Relativity",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 21,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-relativity"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the slide rule song",
+      "title": "The Slide Rule Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 15,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-slide-rule-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::deep doodoo",
+      "title": "Deep Doodoo",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 49,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-deep-doodoo"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::he's not the one",
+      "title": "He's Not the One",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 9,
+      "lines": 75,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-hes-not-the-one"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the ice cream tango",
+      "title": "The Ice Cream Tango",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 41,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-ice-cream-tango"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the love song of the physical anthropologist",
+      "title": "The Love Song of the Physical Anthropologist",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 23,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-love-song-of-the-physical-anthropologist"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::(we're gonna put) a man on the moon",
+      "title": "(We're Gonna Put) A Man on the Moon",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 5,
+      "lines": 26,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-were-gonna-put-a-man-on-the-moon"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the menu song",
+      "title": "The Menu Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 55,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-menu-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the mumble song",
+      "title": "The Mumble Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 19,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-mumble-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::no rice (it's gotta just happen)",
+      "title": "No Rice (It's Gotta Just Happen)",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 35,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-no-rice"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::polaroid photography song",
+      "title": "Polaroid Photography Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 11,
+      "lines": 29,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-polaroid-photography-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::political action song",
+      "title": "Political Action Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-political-action-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::post-thanksgiving hymn",
+      "title": "Post-Thanksgiving Hymn",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 21,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-post-thanksgiving-hymn"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::scenery",
+      "title": "Scenery",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-scenery"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::take me for a walk",
+      "title": "Take Me for a Walk",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 10,
+      "lines": 58,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-take-me-for-a-walk"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::thank him for me",
+      "title": "Thank Him for Me",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 7,
+      "lines": 36,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-thank-him-for-me"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::there's a delta for every epsilon",
+      "title": "There's a Delta for Every Epsilon",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 23,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-theres-a-delta-for-every-epsilon"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::without an s",
+      "title": "Without an S",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 32,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-without-an-s"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the professor's song",
+      "title": "The Professor's Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-professors-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::s = 1⁄2 gt2",
+      "title": "s = ½ gt²",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 8,
+      "lines": 46,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-s-equals-one-half-g-t-squared"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the sac song",
+      "title": "The SAC Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-sac-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::sociology",
+      "title": "Sociology",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 56,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-sociology"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::speed's song",
+      "title": "Speed's Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 16,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-speeds-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the subway song",
+      "title": "The Subway Song",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 1,
+      "lines": 8,
+      "textProblems": [],
+      "textNotes": [
+        "single-stanza work: 1 stanza(s)"
+      ],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-subway-song"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::te amo",
+      "title": "Te Amo",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 8,
+      "lines": 58,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-te-amo"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::unsong",
+      "title": "Unsong",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 7,
+      "lines": 45,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-unsong"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::we're talkin' algebra",
+      "title": "We're Talkin' Algebra",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 8,
+      "lines": 72,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-were-talkin-algebra"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::why not fight?",
+      "title": "Why Not Fight?",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 30,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-why-not-fight"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::i can't think why",
+      "title": "I Can't Think Why",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 3,
+      "lines": 27,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-i-cant-think-why"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::the night i appeared as macbeth",
+      "title": "The Night I Appeared as Macbeth",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 4,
+      "lines": 50,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-the-night-i-appeared-as-macbeth"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::trees",
+      "title": "Trees",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 1,
+      "lines": 15,
+      "textProblems": [],
+      "textNotes": [
+        "single-stanza work: 1 stanza(s)"
+      ],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-trees"
+      ]
+    },
+    {
+      "key": "mb-artist-359363a8-1dc7-40c9-9337-f5aa507000b6::tango de la menegilda",
+      "title": "Tango de la Menegilda",
+      "artist": "Tom Lehrer",
+      "provider": "Tom Lehrer",
+      "rights": "public-domain",
+      "fullPages": 1,
+      "totalSongPages": 1,
+      "stanzas": 6,
+      "lines": 51,
+      "textProblems": [],
+      "textNotes": [],
+      "provenanceProblems": [],
+      "pageSlugs": [
+        "tom-lehrer-tango-de-la-menegilda"
+      ]
+    }
+  ]
+}

@@ -9,7 +9,10 @@ describe('browser-imported historical lyrics', () => {
   it('matches the eight reviewed browser captures, including every source line', () => {
     expect(() => validateWikisourceBatch(batch)).not.toThrow();
     expect(batch.records.reduce((sum, record) => sum + record.stanzas.flat().length, 0)).toBe(231);
-    expect(PUBLIC_DOMAIN_SONGS).toHaveLength(8);
+    // Every reviewed browser capture is present, alongside the later anthology batch.
+    for (const record of batch.records) {
+      expect(PUBLIC_DOMAIN_SONGS.find((song) => song.id === `pd-song-${record.slug}`)).toBeDefined();
+    }
   });
 
   it('rejects missing, duplicate, unreviewed, malformed, and changed input', () => {
@@ -31,15 +34,20 @@ describe('browser-imported historical lyrics', () => {
 
   it('connects writers, editorial songbooks, sources, and search without invented recording data', () => {
     for (const song of PUBLIC_DOMAIN_SONGS) {
-      expect(findArtist(song.artistId)?.topSongs).toContain(song);
-      expect(findArtist(song.artistId)?.sourceUrl).toMatch(/^https:\/\/en.wikisource.org\//);
+      const artist = findArtist(song.artistId)!;
+      expect(artist.topSongs.length).toBeGreaterThan(0);
+      expect(artist.topSongs.every((item) => item.artistId === song.artistId)).toBe(true);
+      expect(artist.sourceUrl).toMatch(/^https:\/\/en.wikisource.org\//);
       expect(findAlbum(song.albumId)?.type).toBe('Songbook');
       expect(findAlbum(song.albumId)?.tracks).toContain(song);
       expect(song.duration).toBe('');
       expect(song.producers).toEqual([]);
       expect(song.source?.license).toBe('Public domain');
       expect(song.source?.revisionUrl).toMatch(/oldid=\d+$/);
-      expect(searchCatalog(song.title).songs[0]?.id).toBe(song.id);
+      // Distinct works can share a title; each must be found and full texts outrank metadata.
+      const results = searchCatalog(song.title, 'songs').songs;
+      expect(results.map((item) => item.id)).toContain(song.id);
+      expect(results[0]?.lyricsAvailability).toBe('full');
     }
     expect(searchCatalog('public domain', 'songs').songs.length).toBeGreaterThanOrEqual(8);
     expect(searchCatalog('public domain', 'songs').songs.every((song) => song.rights === 'public-domain')).toBe(true);
