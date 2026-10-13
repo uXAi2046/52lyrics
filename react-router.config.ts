@@ -17,6 +17,7 @@ export default {
     paths: [
       '/',
       '/discover',
+      '/lyrics',
       '/guides',
       ...GUIDES.map((guide) => guidePath(guide.slug)),
       '/search',
