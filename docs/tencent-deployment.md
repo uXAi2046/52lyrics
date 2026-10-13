@@ -2,6 +2,14 @@
 
 目标地址：`https://www.52lyrics.com`，服务器：`43.135.135.12`。
 
+2026-10-13 已发布 `/lyrics` 预渲染修复版本：构建并发布提交 `f6287e6f28247b47326da390f07bf46fb98add40`（Prerender the /lyrics index page），运行目录 `/srv/52lyrics/releases/git-f6287e6f2824/`，`current` 指针与 `52lyrics-web` 容器挂载均已同步；上一版 `/srv/52lyrics/releases/git-9f4504cc92c3/` 保留在停止状态的 `52lyrics-web-rollback-git-f6287e6f2824` 容器中。修复内容是把 `/lyrics` 补进 `react-router.config.ts` 的 `prerender.paths` —— 该路由此前只登记在 `scripts/generate-static.ts` 里，因此进了 sitemap 却没有预渲染产物。候选构建通过类型检查、Lint、73 项测试与产物审计：17,500 个产物文件（比上一版恰好多 1 个，即 `lyrics/index.html`）、约 608 MiB、16,468 个详情页与 958 张图片校验和。验收结果：公网 `/lyrics` 由 3,954 字节的 SPA 兜底页变为 64,819 字节的预渲染页面，标题 `Complete lyrics — read every full text on 52lyrics`、canonical `https://www.52lyrics.com/lyrics` 均正确；首页、`/discover`、`/artists`、歌词页与导览页全部 200；sitemap 仍为 3,370 条，现已与预渲染产物一一对应。临时上传公钥在验收后从 `/root/.ssh/authorized_keys` 删除，本地临时私钥已移除。
+
+2026-10-13 已发布公共领域选集版本：从服务器 Git 仓库构建并发布提交 `9f4504cc92c3650152d42bb4d4d23f5d386743ed`，运行目录 `/srv/52lyrics/releases/git-9f4504cc92c3/`，`current` 指针与 `52lyrics-web` 容器挂载均已同步；上一版 `/srv/52lyrics/releases/git-b1b7a2f93cf7/` 保留在停止状态的 `52lyrics-web-rollback-git-9f4504cc92c3` 容器中。候选构建通过类型检查、Lint、73 项测试、生产构建与产物审计：16,468 个详情页、958 张图片校验和、17,499 个产物文件、约 608 MiB；`index.html` SHA-256 `c0c439e507e62911fa7d9c7cd751911a94e145a3c4237c876af3d3392644f55a`。发布后公网检查：首页出现 `/lyrics` 导航入口，sitemap 3,370 条 URL，`/discover`、`/artists`、`/guides`、导览页与抽查歌词页均返回 200，`/top-charts` 返回 308 永久跳转。
+
+本次用到的一个前提修正：服务器上原本没有安装 pnpm，且 Node 自带的 corepack 缓存已损坏（指向不存在的 `pnpm/12.11.2/bin/pnpm.cjs`），候选构建脚本会因此走到 `corepack pnpm` 分支失败。已在服务器执行 `npm install -g pnpm@10.30.3`（装到 `/root/.nvm/versions/node/v22.22.0/bin`）。另注意服务器 Node 由 nvm 提供，只在登录 shell 的 PATH 中可见，非交互 SSH 需要 `bash -lc "..."` 包裹。构建总耗时约 17 分钟；期间内存吃紧（可用约 1.3 GiB，swap 峰值约 1.1 GiB），同机还运行 litellm 容器。
+
+已知遗留：本次新增的 `/lyrics` 索引页被写入 sitemap，但未登记进 `react-router.config.ts` 的 `prerender.paths`，因此该 URL 实际返回 SPA 兜底页（约 3.9 KiB）并由客户端渲染，其余 3,369 条 sitemap URL 均有预渲染产物。临时上传公钥在公网验收后已从 `/root/.ssh/authorized_keys` 删除，本地临时私钥已移除。
+
 2026-10-09 已首次从服务器上的 Git 仓库构建并发布提交 `b1b7a2f93cf78c8e7bfd1eba12994c09a6dc23f6`。候选构建通过类型检查、Lint、69 项测试和产物审计：15,470 个详情页、958 张图片、16,499 个产物文件；静态目录约 586 MiB。临时候选容器检查通过后，生产容器已挂载 `/srv/52lyrics/releases/git-b1b7a2f93cf7/`，`current` 指针同步；旧版容器保留为 `52lyrics-web-rollback-git-b1b7a2f93cf7`。本机 HTTPS 首页和新导览页与候选文件一致，公网浏览器检查首页显示 1,020 位艺人/作者入口、新导览和旧有完整歌词页正常；sitemap 与 robots 均返回 200。其他容器继续运行。发布时首次 HTTPS 探测发生一次连接重置，自动重试后通过。
 
 2026-10-01 已发布千位歌手版本：运行目录为 `/srv/52lyrics/releases/20261001-1000artists/`，当时 `current` 指针与 `52lyrics-web` 容器均指向此版本。站内有 1,000 位具备完整来源发行资料的歌手，连同历史词作者等共 1,010 个艺人/作者页面；1,121 个专辑/阅读歌本、13,217 个歌曲页面、953 张许可与署名核验通过的图片，108 首既有完整歌词作品保持不变。上一版 `/srv/52lyrics/releases/20260930-guides/` 保留在停止状态的 `52lyrics-web-rollback-20261001-1000artists` 中。
@@ -37,7 +45,7 @@
 | 内容 | 位置 |
 | --- | --- |
 | 本地构建产物 | `build/client/` |
-| 当前服务器版本目录 | `/srv/52lyrics/releases/git-b1b7a2f93cf7/` |
+| 当前服务器版本目录 | `/srv/52lyrics/releases/git-f6287e6f2824/` |
 | 当前版本指针 | `/srv/52lyrics/current` |
 | Caddy 配置 | `/srv/52lyrics/caddy/Caddyfile` |
 | HTTPS 证书及续期状态 | `/srv/52lyrics/caddy/data/`（不要删除或公开） |
@@ -110,10 +118,10 @@ docker restart 52lyrics-web
 
 ```bash
 docker stop 52lyrics-web
-docker rename 52lyrics-web 52lyrics-web-failed-git-b1b7a2f93cf7
-docker rename 52lyrics-web-rollback-git-b1b7a2f93cf7 52lyrics-web
+docker rename 52lyrics-web 52lyrics-web-failed-git-f6287e6f2824
+docker rename 52lyrics-web-rollback-git-f6287e6f2824 52lyrics-web
 docker start 52lyrics-web
-ln -sfn /srv/52lyrics/releases/20261001-1000artists /srv/52lyrics/current
+ln -sfn /srv/52lyrics/releases/git-9f4504cc92c3 /srv/52lyrics/current
 ```
 
 回滚后检查 HTTPS 首页及静态资源，并保留失败版本以便排查。
