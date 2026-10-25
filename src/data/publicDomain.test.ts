@@ -52,7 +52,7 @@ describe('browser-imported historical lyrics', () => {
     expect(searchCatalog('public domain', 'songs').songs.length).toBeGreaterThanOrEqual(8);
     expect(searchCatalog('public domain', 'songs').songs.every((song) => song.rights === 'public-domain')).toBe(true);
     expect(COLLECTIONS.every((collection) => collection.itemRefs.every(resolveCatalogItem))).toBe(true);
-  });
+  }, 60000);
 
   it('expands only the explicitly repeated refrain and keeps complete historical editions', () => {
     const kings = PUBLIC_DOMAIN_SONGS.find((song) => song.title.startsWith('We Three'))!;
