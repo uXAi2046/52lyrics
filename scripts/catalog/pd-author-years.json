@@ -438,5 +438,177 @@
   "A. Seymour Brown": {
     "deathYear": 1947,
     "source": "wikidata-Q41432890"
+  },
+  "Thomas Aquinas": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Godescalcus": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Fulbert of Chartres": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Marbodius of Rennes": {
+    "deathYear": 1123,
+    "source": "wikidata-Q654307"
+  },
+  "Peter Damian": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Adam of St. Victor": {
+    "deathYear": 1192,
+    "source": "wikidata-Q175053"
+  },
+  "Theodulf": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Adam of Saint Victor": {
+    "deathYear": 1192,
+    "source": "wikidata-Q175053"
+  },
+  "Bernard of Cluny": {
+    "deathYear": 1200,
+    "source": "wikidata-Q826271"
+  },
+  "Bede": {
+    "deathYear": 735,
+    "source": "wikidata-Q154938"
+  },
+  "Odo of Cluny": {
+    "deathYear": 942,
+    "source": "wikidata-Q454553"
+  },
+  "Venantius Fortunatus": {
+    "deathYear": 609,
+    "source": "wikidata-Q44934"
+  },
+  "Notker": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Hrabanus Maurus": {
+    "deathYear": 856,
+    "source": "wikidata-Q160441"
+  },
+  "Cecilia Mary Caddell": {
+    "deathYear": 1877,
+    "source": "wikidata-Q18575959"
+  },
+  "Edward Caswall": {
+    "deathYear": 1878,
+    "source": "wikidata-Q5342229"
+  },
+  "Wipo of Burgundy": {
+    "deathYear": 1048,
+    "source": "wikidata-Q537218"
+  },
+  "Jean Tisserand": {
+    "deathYear": 1497,
+    "source": "wikidata-Q3174807"
+  },
+  "Henry Formby": {
+    "deathYear": 1884,
+    "source": "wikidata-Q15453047"
+  },
+  "Jean-Baptiste de Santeul": {
+    "deathYear": 1697,
+    "source": "wikidata-Q1243332"
+  },
+  "Sister M. J.": {
+    "deathYear": 1888,
+    "source": "wikidata-Q54870400"
+  },
+  "John Lingard": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Frederick W. Faber": {
+    "deathYear": 1863,
+    "source": "wikidata-Q1286149"
+  },
+  "Prudentius": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Jane Eliza Leeson": {
+    "deathYear": 1881,
+    "source": "wikidata-Q4961556"
+  },
+  "Father Edgar": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Cecilia M. Caddell": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Jacopone da Todi": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Rabanus Maurus": {
+    "deathYear": 856,
+    "source": "wikidata-Q160441"
+  },
+  "Achille Fréchette": {
+    "deathYear": 1927,
+    "source": "wikidata-Q108436756"
+  },
+  "Gustave Nadaud": {
+    "deathYear": 1893,
+    "source": "wikidata-Q3121274"
+  },
+  "Louis Fréchette": {
+    "deathYear": 1908,
+    "source": "wikidata-Q580971"
+  },
+  "Octave Crémazie": {
+    "deathYear": 1879,
+    "source": "wikidata-Q685250"
+  },
+  "William Chapman": {
+    "deathYear": 1917,
+    "source": "wikidata-Q3568498"
+  },
+  "Henriette Chauveau": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Adolphe-Basile Routhier": {
+    "deathYear": 1920,
+    "source": "wikidata-Q2824752"
+  },
+  "George-Étienne Cartier": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "François-Réal Angers": {
+    "deathYear": 1860,
+    "source": "wikidata-Q3083652"
+  },
+  "Pierre Falcon": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Antoine Gérin-Lajoie": {
+    "deathYear": 1882,
+    "source": "wikidata-Q2854044"
+  },
+  "unknown author": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Thomas Nashe": {
+    "deathYear": 1601,
+    "source": "wikidata-Q443042"
+  },
+  "Aphra Behn": {
+    "deathYear": 1689,
+    "source": "wikidata-Q231886"
   }
 }

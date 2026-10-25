@@ -15,6 +15,13 @@ const bookTitle = (id) => ({
   'scottish-minstrel-1850': 'The Scottish Minstrel, First Series (1850)',
   'canadian-soldiers-1918': "The Canadian Soldiers' Song Book (1918)",
   'irish-melodies-1821': 'Irish Melodies (1821)',
+  'burns-poetical-1887': 'The Poetical Works of Robert Burns (1887)',
+  'blake-songs-1826': 'Songs of Innocence and of Experience (1826)',
+  'scottish-minstrel-second-1851': 'The Scottish Minstrel, Second Series (1851)',
+  'mediaeval-hymns-1867': 'Mediaeval Hymns and Sequences (1867)',
+  'catholic-hymns-1860': 'Catholic Hymns (1860)',
+  'songs-french-canada-1909': 'Songs of French Canada (1909)',
+  'national-ballad-song-1897': 'National Ballad and Song (1897)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>
