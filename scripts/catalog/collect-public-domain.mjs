@@ -243,7 +243,27 @@ const previous = await readFile(outputPath, 'utf8').then(JSON.parse).catch(() =>
 const seenWorks = new Set((previous?.records ?? []).filter((record) => record.status === 'approved').map((record) => record.workKey));
 if (previous) console.log(`resuming: ${previous.records.length} existing records, ${seenWorks.size} approved works`);
 
-const records = [];
+// Approved, held and duplicate decisions are terminal: every later run would
+// demote them to "duplicate" because the catalog now contains the work.
+// They are carried over verbatim, keyed by source page, and only pages whose
+// earlier records are all needs-review are collected again.
+const TERMINAL_STATUSES = new Set(['approved', 'hold', 'duplicate']);
+const pageKeyOf = (record) => `${record.bookId}::${record.pageTitle}`;
+const headByPage = new Map();
+for (const record of previous?.records ?? []) {
+  const pageKey = pageKeyOf(record);
+  const existing = headByPage.get(pageKey);
+  headByPage.set(pageKey, existing ? [...existing, record] : [record]);
+}
+const preservedByPage = new Map();
+const recollectPages = new Set();
+for (const [pageKey, pageRecords] of headByPage) {
+  const terminal = pageRecords.find((record) => TERMINAL_STATUSES.has(record.status));
+  if (terminal) preservedByPage.set(pageKey, terminal);
+  else recollectPages.add(pageKey);
+}
+
+const records = [...preservedByPage.values()];
 const failures = [];
 const bookSummaries = [];
 
@@ -282,6 +302,16 @@ for (const book of config.books) {
     try {
       const revid = revids.get(pageTitle);
       if (!revid) throw new Error('no revision found');
+
+      const carriedPage = `${book.id}::${pageTitle}`;
+      if (preservedByPage.has(carriedPage)) {
+        bookRecord.collected += 1;
+        const status = preservedByPage.get(carriedPage).status;
+        if (status === 'approved') bookRecord.approved += 1;
+        else if (status === 'hold') bookRecord.holds += 1;
+        else if (status === 'duplicate') bookRecord.duplicates += 1;
+        continue;
+      }
 
       const parsed = await api({ action: 'parse', oldid: String(revid), prop: 'text' });
       const html = parsed.parse.text['*'];
@@ -365,7 +395,13 @@ const output = {
 await mkdir(resolve('src/data/imported'), { recursive: true });
 await atomicJson(outputPath, output);
 
-const totals = { collected: 0, approved: 0, needsReview: 0, holds: 0, duplicates: 0, failed: 0 };
-for (const record of records) totals[record.status === 'needs-review' ? 'needsReview' : record.status] += 1;
+const totals = { collected: records.length, approved: 0, needsReview: 0, holds: 0, duplicates: 0, failed: 0 };
+for (const record of records) {
+  if (record.status === 'needs-review') totals.needsReview += 1;
+  else if (record.status === 'approved') totals.approved += 1;
+  else if (record.status === 'hold') totals.holds += 1;
+  else if (record.status === 'duplicate') totals.duplicates += 1;
+  else totals.failed += 1;
+}
 console.log('TOTALS', JSON.stringify(totals));
 console.log(`wrote ${outputPath}`);

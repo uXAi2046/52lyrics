@@ -25802,6 +25802,442 @@
       "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1970633+wd%3AQ16842912+wd%3AQ539502+wd%3AQ17437642+wd%3AQ1538284+wd%3AQ5178572+wd%3AQ1501641+wd%3AQ93850+wd%3AQ28530098+wd%3AQ1540822+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
       "sourceSha256": "c9fb3edf28c385e5186d55276fa8b57886335c8c323be9863dc72f3746033cfb",
       "retrievedAt": "2026-10-07T22:01:50.879Z"
+    },
+    {
+      "wikidataId": "Q1192255",
+      "mbid": "e9ce3f55-b35c-4f8d-8304-be24f381587e",
+      "name": "Powderfinger",
+      "description": "Australian musical group; rock band",
+      "genres": [
+        {
+          "id": "Q11366",
+          "name": "alternative rock"
+        },
+        {
+          "id": "Q83270",
+          "name": "hard rock"
+        },
+        {
+          "id": "Q11399",
+          "name": "rock music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1192255",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q1593309",
+      "mbid": "02295e8b-8a73-493f-b26c-efac82b13a15",
+      "name": "Hedley",
+      "description": "Canadian pop rock band",
+      "genres": [
+        {
+          "id": "Q11366",
+          "name": "alternative rock"
+        },
+        {
+          "id": "Q10926",
+          "name": "emo"
+        },
+        {
+          "id": "Q37073",
+          "name": "pop music"
+        },
+        {
+          "id": "Q484641",
+          "name": "pop rock"
+        },
+        {
+          "id": "Q487914",
+          "name": "pop-punk"
+        },
+        {
+          "id": "Q3071",
+          "name": "punk rock"
+        },
+        {
+          "id": "Q9794",
+          "name": "reggae"
+        },
+        {
+          "id": "Q11399",
+          "name": "rock music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1593309",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q1209252",
+      "mbid": "530846f0-4098-4d33-bd8a-8611f823bf51",
+      "name": "The Clancy Brothers",
+      "description": "Irish folk band",
+      "genres": [
+        {
+          "id": "Q854451",
+          "name": "Celtic music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1209252",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q105490126",
+      "mbid": "14147c93-551d-4814-b4d2-308848abdce6",
+      "name": "Masked Wolf",
+      "description": "Australian rapper (born 1991)",
+      "genres": [
+        {
+          "id": "Q11401",
+          "name": "hip-hop"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q105490126",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q1618844",
+      "mbid": "16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac",
+      "name": "Hilltop Hoods",
+      "description": "Australian hip-hop group",
+      "genres": [
+        {
+          "id": "Q783243",
+          "name": "Australian hip-hop"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1618844",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q720884",
+      "mbid": "2008d65c-31ee-4382-8960-5188523568d5",
+      "name": "Japandroids",
+      "description": "Canadian musical group; rock band",
+      "genres": [
+        {
+          "id": "Q183504",
+          "name": "indie rock"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q720884",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q304130",
+      "mbid": "35a6a353-b186-4c13-a264-d18d5e2ce853",
+      "name": "Tokyo Police Club",
+      "description": "Canadian musical group",
+      "genres": [
+        {
+          "id": "Q598929",
+          "name": "post-punk"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q304130",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q2668601",
+      "mbid": "3daee4b1-76d8-4c31-885d-fad1117f1369",
+      "name": "Una Healy",
+      "description": "Irish singer, songwriter and musician",
+      "genres": [
+        {
+          "id": "Q37073",
+          "name": "pop music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q2668601",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q2624909",
+      "mbid": "4a90622e-fc29-4c60-845b-d1752cd286cd",
+      "name": "Abandon All Ships",
+      "description": "Canadian band",
+      "genres": [
+        {
+          "id": "Q10922",
+          "name": "hardcore punk"
+        },
+        {
+          "id": "Q377910",
+          "name": "post-hardcore"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q2624909",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q254840",
+      "mbid": "535401f6-2fd0-4f3b-a58a-5dba94f915f6",
+      "name": "Daniel Merriweather",
+      "description": "Australian musician",
+      "genres": [
+        {
+          "id": "Q221772",
+          "name": "acid jazz"
+        },
+        {
+          "id": "Q885561",
+          "name": "blue-eyed soul"
+        },
+        {
+          "id": "Q850412",
+          "name": "contemporary R&B"
+        },
+        {
+          "id": "Q164444",
+          "name": "funk"
+        },
+        {
+          "id": "Q11401",
+          "name": "hip-hop"
+        },
+        {
+          "id": "Q2256407",
+          "name": "hip-hop soul"
+        },
+        {
+          "id": "Q268253",
+          "name": "neo soul"
+        },
+        {
+          "id": "Q131272",
+          "name": "soul"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q254840",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1192255+wd%3AQ1593309+wd%3AQ1209252+wd%3AQ105490126+wd%3AQ1618844+wd%3AQ720884+wd%3AQ304130+wd%3AQ2668601+wd%3AQ2624909+wd%3AQ254840+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "258344774fbc41d9661d55995cac1067408e05d653a11c70a7db2b7eef223dc2",
+      "retrievedAt": "2026-10-24T15:38:45.067Z"
+    },
+    {
+      "wikidataId": "Q1752259",
+      "mbid": "5aeb21a3-4606-4a0d-8369-50c768d1e99a",
+      "name": "Stars",
+      "description": "Canadian indie rock band",
+      "genres": [
+        {
+          "id": "Q842324",
+          "name": "indie pop"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1752259",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q201099",
+      "mbid": "6689a626-4de7-41d5-9ec3-5a289472a9e2",
+      "name": "Xavier Rudd",
+      "description": "Australian singer and songwriter",
+      "genres": [
+        {
+          "id": "Q9759",
+          "name": "blues"
+        },
+        {
+          "id": "Q43343",
+          "name": "folk music"
+        },
+        {
+          "id": "Q9794",
+          "name": "reggae"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q201099",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q915366",
+      "mbid": "67a01cd0-3ea3-4038-8e7e-4d2e8b990786",
+      "name": "Horde",
+      "description": "unblack metal project",
+      "genres": [
+        {
+          "id": "Q970409",
+          "name": "unblack metal"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q915366",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q1113984",
+      "mbid": "6d152109-c447-446d-9a06-3621c920bebd",
+      "name": "Comeback Kid",
+      "description": "Canadian hardcore punk band",
+      "genres": [
+        {
+          "id": "Q10922",
+          "name": "hardcore punk"
+        },
+        {
+          "id": "Q542703",
+          "name": "melodic hardcore"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1113984",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q1349697",
+      "mbid": "6fcc5601-7c5b-4d53-b982-fdaa0aa45314",
+      "name": "NERVO",
+      "description": "Australian musical sibling duo",
+      "genres": [
+        {
+          "id": "Q211756",
+          "name": "dance-pop"
+        },
+        {
+          "id": "Q627906",
+          "name": "electro house"
+        },
+        {
+          "id": "Q851213",
+          "name": "electronic dance music"
+        },
+        {
+          "id": "Q20502",
+          "name": "house music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1349697",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q622051",
+      "mbid": "78761837-4b00-4935-b7be-601697900e66",
+      "name": "April Wine",
+      "description": "Canadian rock band",
+      "genres": [
+        {
+          "id": "Q83270",
+          "name": "hard rock"
+        },
+        {
+          "id": "Q11399",
+          "name": "rock music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q622051",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q1889916",
+      "mbid": "7fdebde4-3cb7-4739-86f7-17f4b84eae25",
+      "name": "Woods of Ypres",
+      "description": "Canadian metal band",
+      "genres": [
+        {
+          "id": "Q186170",
+          "name": "doom metal"
+        },
+        {
+          "id": "Q2997058",
+          "name": "melodic black metal"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q1889916",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q16323830",
+      "mbid": "9d4916df-1f64-4469-824c-926817c32bc2",
+      "name": "Sam Kim",
+      "description": "American singer-songwriter, producer, and guitarist",
+      "genres": [
+        {
+          "id": "Q131272",
+          "name": "soul"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q16323830",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q912678",
+      "mbid": "9ee2638f-c3a3-4532-bc08-54d397241c2a",
+      "name": "Karnivool",
+      "description": "Australian rock band",
+      "genres": [
+        {
+          "id": "Q20378",
+          "name": "alternative metal"
+        },
+        {
+          "id": "Q11366",
+          "name": "alternative rock"
+        },
+        {
+          "id": "Q484344",
+          "name": "progressive metal"
+        },
+        {
+          "id": "Q49451",
+          "name": "progressive rock"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q912678",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
+    },
+    {
+      "wikidataId": "Q2761963",
+      "mbid": "b04df404-eefa-4ae4-9f3e-ba220d9dce16",
+      "name": "Pnau",
+      "description": "Australian dance music trio",
+      "genres": [
+        {
+          "id": "Q851213",
+          "name": "electronic dance music"
+        },
+        {
+          "id": "Q9778",
+          "name": "electronic music"
+        }
+      ],
+      "sourceUrl": "https://www.wikidata.org/wiki/Q2761963",
+      "queryUrl": "https://query.wikidata.org/sparql?query=SELECT+%3Fartist+%3Fdescription+%3Fgenre+%3FgenreLabel+WHERE+%7B%0A++++++++VALUES+%3Fartist+%7B+wd%3AQ1752259+wd%3AQ201099+wd%3AQ915366+wd%3AQ1113984+wd%3AQ1349697+wd%3AQ622051+wd%3AQ1889916+wd%3AQ16323830+wd%3AQ912678+wd%3AQ2761963+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+schema%3Adescription+%3Fdescription.+FILTER%28LANG%28%3Fdescription%29+%3D+%22en%22%29+%7D%0A++++++++OPTIONAL+%7B+%3Fartist+wdt%3AP136+%3Fgenre.+%7D%0A++++++++SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22en%2Cmul%22.+%7D%0A++++++%7D+ORDER+BY+%3Fartist+%3Fgenre&format=json",
+      "sourceSha256": "eb78c2505f606c63c4f5308ae9a4333adf18cebcdcd652a3722148af067600b8",
+      "retrievedAt": "2026-10-24T15:43:17.664Z"
     }
   ]
 }

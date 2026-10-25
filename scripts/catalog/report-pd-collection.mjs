@@ -14,6 +14,7 @@ const bookTitle = (id) => ({
   'scottish-song-1843': 'The Book of Scottish Song (1843)',
   'scottish-minstrel-1850': 'The Scottish Minstrel, First Series (1850)',
   'canadian-soldiers-1918': "The Canadian Soldiers' Song Book (1918)",
+  'irish-melodies-1821': 'Irish Melodies (1821)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>

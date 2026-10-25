@@ -45,6 +45,21 @@
       "rightsNote": "The 1918 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "irish-melodies-1821",
+      "prefix": "Irish Melodies/",
+      "title": "Irish Melodies",
+      "year": 1821,
+      "editor": null,
+      "indexPage": "Irish Melodies",
+      "sourceUrl": "https://en.wikisource.org/wiki/Irish_Melodies",
+      "provider": "Wikisource",
+      "themes": ["Irish song", "Romantic ballad"],
+      "rights": "unconditional",
+      "rightsNote": "Every lyric in this collection was written by Thomas Moore (1779-1852) and first published between 1808 and 1821 (music arranged by John Stevenson, 1761-1833); both contributors died more than 170 years ago, so the text is in the public domain worldwide, and the edition carries a pre-1931 United States public-domain tag.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }
