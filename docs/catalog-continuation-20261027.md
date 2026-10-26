@@ -42,3 +42,21 @@ All three use the collector's `titlePath: "last"` and, for the cowboy book,
   exhausted (handful of 3–15 page songsters). Next lyric growth needs new source
   classes: more poet-composer collections, hymnals with per-hymn pages, or a source
   policy extension beyond en.wikisource.
+
+
+## Second round — 27 October (later the same day)
+
+Metadata extended to target 1150 (1,150 artists with releases, 1,237 editions, 14,849
+tracks, 1,076 photographs) and three poet-songwriter collections collected:
+
+| Book | Year | Rights mode | Pages | Approved |
+| --- | --- | --- | ---: | ---: |
+| A Shropshire Lad (A. E. Housman) | 1896 | author-death (d. 1936) | 147 | 62 |
+| The Man from Snowy River and Other Verses (Banjo Paterson) | 1895 | author-death (d. 1941) | 17 | 15 |
+| The Poetical Works of Thomas Hood | 1873 | unconditional (d. 1845) | 16 | 13 |
+
+Approved full-lyric works now total **1,686**. All checks, the canonical build
+(sitemap 4,914 URLs; 19,765 detail pages, 1,076 photo checksums verified), the server
+candidate workflow and the live verification (homepage SHA-256 `dd34c4e8…`,
+Housman/Paterson pages 200) passed. IndexNow resubmitted: 4,914 URLs accepted by
+Yandex. Commit `7e158d3a`; metadata checkpoint resumable at `--target=1180`.
