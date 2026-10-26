@@ -3,16 +3,16 @@
   "provider": "MusicBrainz",
   "license": "CC0-1.0",
   "licenseUrl": "https://musicbrainz.org/doc/About/Data_License",
-  "retrievedAt": "2026-10-25T04:45:51.567Z",
+  "retrievedAt": "2026-10-26T20:36:44.501Z",
   "curatedRetrievedAt": "2026-09-07T12:55:21.010Z",
   "baselineRetrievedAt": "2026-09-07T12:27:56.251Z",
   "expansion": {
-    "target": 1060,
-    "verifiedAt": "2026-10-25T05:19:11.136Z",
-    "artists": 1061,
-    "artistsWithReleases": 1060,
-    "albums": 1147,
-    "tracks": 13692,
+    "target": 1090,
+    "verifiedAt": "2026-10-26T20:51:35.748Z",
+    "artists": 1091,
+    "artistsWithReleases": 1090,
+    "albums": 1177,
+    "tracks": 14051,
     "discoveryCandidates": 1990,
     "discoveryRetrievedAt": "2026-09-08T14:08:11.929Z",
     "admittedArtistIds": [
@@ -1028,15 +1028,45 @@
       "813fbc62-134a-4f01-85ad-c78b1c7869c5",
       "882d41ca-194d-405a-bfc5-b698ccfd77b4",
       "8cfaf3df-e098-4722-b840-dbc84d7aee20",
-      "8df84e50-d6fc-42b8-afbe-7c502bf79dd8"
+      "8df84e50-d6fc-42b8-afbe-7c502bf79dd8",
+      "8f51eb15-9b4d-41cb-aa14-bec4f9234c2a",
+      "924fe8ad-53d6-469f-98b5-38beb6cd9c4d",
+      "a530492f-8806-4bd7-9c14-80c237eb92fe",
+      "a6a4960c-dafe-43ea-b431-7d2dddd8cc1e",
+      "aac8a458-8709-4d6b-964c-19fd9b2d7552",
+      "acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7",
+      "aed63829-e917-498b-bb7f-cf76459702dc",
+      "af575064-0f47-42d3-abb5-6d07ae292e55",
+      "af5958c6-59b0-4335-a245-ddd46c4a4d9e",
+      "af9e8d94-d471-4f91-82c7-250c22545162",
+      "b52211f1-49a2-4cd2-8535-dd1ba37ea90b",
+      "b5cf517f-e89a-43df-a50e-afac186d3e48",
+      "bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15",
+      "be45b47f-8d44-418f-a8b2-2a9734a3ec31",
+      "cb0b7933-a5bc-48dc-a36b-00315d12ca8c",
+      "ced4c589-d194-4c12-9a96-398086940367",
+      "d00c1b10-04f0-49eb-b9ff-315093c0b25f",
+      "d11ea6d4-3725-4027-b6cf-5397aef82561",
+      "d176915b-71d9-49ca-ba47-da52d46d0e4a",
+      "d915a89a-a4ec-4dc0-8ce6-c234581cb3e9",
+      "dc1492bc-2aab-4c59-92bc-2b030f781a05",
+      "e1cbcc15-5890-4b88-877d-1bb97e75ebcb",
+      "e86ab653-bec8-46f3-b4b6-a1a866919ef6",
+      "e984de0f-7744-4f87-ac42-bed48b920842",
+      "ede97bcb-181b-4a3a-a939-b2c544193b5f",
+      "fdb53441-e5e6-4657-9aad-8dab672e1cdc",
+      "01d8f486-874f-4914-a455-48446b7de51d",
+      "034d2431-0dec-4b41-887d-99d6ae01019c",
+      "098302e3-7240-4fc6-82da-ee5b92bf1037",
+      "0cef6684-17cd-40b2-83b5-216d819534d1"
     ],
-    "photographs": 1001,
-    "localAvatarFallbacks": 60,
-    "heldCandidateCount": 235,
+    "photographs": 1029,
+    "localAvatarFallbacks": 62,
+    "heldCandidateCount": 240,
     "artistProfiles": {
-      "profiles": 1061,
-      "descriptions": 1061,
-      "withGenres": 1012,
+      "profiles": 1091,
+      "descriptions": 1091,
+      "withGenres": 1040,
       "pending": 0
     }
   },
@@ -181283,6 +181313,4841 @@
       ],
       "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/8df84e50-d6fc-42b8-afbe-7c502bf79dd8?inc=aliases&fmt=json",
       "collectedAt": "2026-10-25T04:45:51.508Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "The Triffids",
+      "wikipedia": "The Triffids",
+      "wikidataId": "Q2094855",
+      "mbid": "8f51eb15-9b4d-41cb-aa14-bec4f9234c2a",
+      "mbids": [
+        "8f51eb15-9b4d-41cb-aa14-bec4f9234c2a"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q2094855",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "8f51eb15-9b4d-41cb-aa14-bec4f9234c2a",
+      "nameInSource": "The Triffids",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1978-05",
+      "end": "1989",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "a3e3cbc5-4853-4d22-9943-e5344368d241",
+          "title": "Dungeon Tape",
+          "firstReleaseDate": "1983",
+          "releaseId": "44e15796-5658-453b-84cd-e8a7b3e3fcef",
+          "editionTitle": "Dungeon Tape",
+          "editionDate": "1983",
+          "country": "AU",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "16aa86c3-56ae-4522-aa81-d79d6056f30a",
+              "recordingId": "b0800316-dfcc-44e8-9868-859561e5e3b5",
+              "title": "M.G.M.",
+              "position": 1,
+              "disc": 1,
+              "number": "A1",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "317d29c7-1aee-4aac-957a-2fd94d82b2d1",
+              "recordingId": "b29401b5-e39f-408f-87e4-40c746bb3387",
+              "title": "Too Hot to Move, Too Hot to Think",
+              "position": 2,
+              "disc": 1,
+              "number": "A2",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "f2fa5f5b-ec48-42ef-9295-820fbbc07c51",
+              "recordingId": "3a682e96-ff18-43fa-a7e4-156044e08080",
+              "title": "Man Who Can",
+              "position": 3,
+              "disc": 1,
+              "number": "A3",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "7323527a-2bbf-4461-8d54-02e4df22ed78",
+              "recordingId": "000ca2c0-2e86-45bb-8630-2fac79918adf",
+              "title": "Chew It Up",
+              "position": 4,
+              "disc": 1,
+              "number": "A4",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "513e388a-37a2-4ee5-9265-d21f6830f975",
+              "recordingId": "fe60b3a3-7103-44f6-a0c3-5fa55e4981c8",
+              "title": "Family Name",
+              "position": 5,
+              "disc": 1,
+              "number": "A5",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "0e7c584d-0000-46bf-9ffb-4fdae4e028fe",
+              "recordingId": "ce65ec0d-524c-414a-94b8-0dfcc0066654",
+              "title": "Nothing Good Is Going to Come of This",
+              "position": 6,
+              "disc": 1,
+              "number": "A6",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "9c02dbbe-3d63-431b-b244-fce62b613ada",
+              "recordingId": "f7476b9a-9624-40d2-aeed-b32f1b69b734",
+              "title": "Work for Nothing",
+              "position": 7,
+              "disc": 1,
+              "number": "A7",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "1557bc77-a47f-4568-bdfc-9f80cb627cbb",
+              "recordingId": "81f157b1-7d2e-497c-8486-55c4ec93308e",
+              "title": "Madeline",
+              "position": 8,
+              "disc": 1,
+              "number": "A8",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "fcb2247d-e5ad-40f8-957b-52ef6ffd7c6a",
+              "recordingId": "ad98ef3e-17ea-48c4-b8e4-83a4e0843e50",
+              "title": "Happy Boy",
+              "position": 9,
+              "disc": 1,
+              "number": "A9",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "c2eeada7-5972-4b34-a8af-3e9516492e74",
+              "recordingId": "1a1d4fcc-4546-4032-97b1-c06872712a32",
+              "title": "Twisted Brain",
+              "position": 10,
+              "disc": 1,
+              "number": "B1",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "19555e33-99cb-4fa4-be5e-acc4b1949fe1",
+              "recordingId": "b1583369-e23e-4daf-a65f-8732cafaf45e",
+              "title": "Dead Wind",
+              "position": 11,
+              "disc": 1,
+              "number": "B2",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "2a0b0c3b-7992-4c09-89b0-64a989d2472e",
+              "recordingId": "31026938-0a25-4350-b374-add96fc2283d",
+              "title": "Like a Cat on a Hot Tin Roof",
+              "position": 12,
+              "disc": 1,
+              "number": "B3",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "a5622eb6-9946-4cb4-9c54-17148c86bcac",
+              "recordingId": "15fee1b0-49ac-4a38-9007-4e5911394f41",
+              "title": "I'll Have It",
+              "position": 13,
+              "disc": 1,
+              "number": "B4",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "5e030e34-c914-4e73-b07b-74b7783235b2",
+              "recordingId": "7777268f-0131-46f0-b9b9-a27bf573e5ed",
+              "title": "Spanish Blue",
+              "position": 14,
+              "disc": 1,
+              "number": "B5",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "df0e5ee5-d10e-4e61-8b0e-326050016c85",
+              "recordingId": "ea015cbb-edb0-4688-9633-8711d0a71961",
+              "title": "You Can Keep It",
+              "position": 15,
+              "disc": 1,
+              "number": "B6",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            },
+            {
+              "id": "efd7a696-f9a8-46d0-8299-6deafb1b9dfb",
+              "recordingId": "830ca227-26db-41d6-8922-014fc2a17616",
+              "title": "Bad Timing",
+              "position": 16,
+              "disc": 1,
+              "number": "B7",
+              "lengthMs": null,
+              "artistCredit": "The Triffids"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/8f51eb15-9b4d-41cb-aa14-bec4f9234c2a?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:30:14.249Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "I Killed the Prom Queen",
+      "wikipedia": "I Killed the Prom Queen",
+      "wikidataId": "Q1655211",
+      "mbid": "924fe8ad-53d6-469f-98b5-38beb6cd9c4d",
+      "mbids": [
+        "924fe8ad-53d6-469f-98b5-38beb6cd9c4d"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1655211",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "924fe8ad-53d6-469f-98b5-38beb6cd9c4d",
+      "nameInSource": "I Killed the Prom Queen",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "2001",
+      "end": "2025",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "db7a5582-569d-3832-ad3f-d48133dd05c5",
+          "title": "When Goodbye Means Forever",
+          "firstReleaseDate": "2003-11",
+          "releaseId": "a6c7c79a-6483-408e-bf55-c335a1c49a36",
+          "editionTitle": "When Goodbye Means Forever",
+          "editionDate": "2003-11",
+          "country": "AU",
+          "barcode": "9324690011018",
+          "tracks": [
+            {
+              "id": "6c1eda38-fc71-3f7a-88ce-09e6fa0f4ea4",
+              "recordingId": "b48eb8d2-69e3-4bf6-b358-c679130cfd0c",
+              "title": "…Forever Will Come to an End",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 56000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "63fcb800-9670-30db-9e2b-674b99d5562c",
+              "recordingId": "65916099-4790-409d-b16c-29ad0aaace07",
+              "title": "When Goodbye Means Forever…",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 237000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "032e0714-7393-367c-9e72-00db5014dbb8",
+              "recordingId": "20ec1a2c-19c3-4cec-a369-f3408572331c",
+              "title": "To Kill Tomorrow",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 216000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "2d3a6a1e-529c-3308-82d2-cd4e1e388adf",
+              "recordingId": "f2813ce8-c50e-4f87-886c-c397c28af925",
+              "title": "Upon a Rivers Sky",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 258000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "3b38f34b-1219-301b-b76f-58d9a672cfa1",
+              "recordingId": "2c9284a8-81ca-405e-91af-427863e69383",
+              "title": "Pointed to My Heart",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 223000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "59d773b2-e808-35c9-ad6a-f670631d0a48",
+              "recordingId": "dc307b35-69a3-43f8-837d-91bf21399e33",
+              "title": "Death Certificate for a Beauty Queen",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 294000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "7c14515d-c896-3e4f-a7a3-c4c62d2e2ccd",
+              "recordingId": "5dd7e9da-7e8e-416d-9fb5-3a46b405dc18",
+              "title": "Roses, Post Cards and Machine Gun Kisses",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 265000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "4d93aa56-306e-3786-ac10-27c5b6363310",
+              "recordingId": "25f60fe6-f9ff-48d9-8c45-5075485e84dc",
+              "title": "Forgiveness Is Murder",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 255000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "9b17a862-2fae-3b45-857c-119ed1ca20df",
+              "recordingId": "d66d80f3-816f-4a55-8c12-64974d927f2c",
+              "title": "Portraits, Dreams and Memories",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 230000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "0dbb73b1-cf09-35fc-92ba-c09813ba84be",
+              "recordingId": "742c56ba-5c6d-4cdc-81ff-41c427c6c5e3",
+              "title": "Are You Playing Dead?",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 265000,
+              "artistCredit": "I Killed the Prom Queen"
+            },
+            {
+              "id": "cf2634db-217a-3fe7-9d30-64f94491731e",
+              "recordingId": "b5eb3bcb-458c-48c3-b4ef-d919b9d58491",
+              "title": "My Best Wishes",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 241000,
+              "artistCredit": "I Killed the Prom Queen"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/924fe8ad-53d6-469f-98b5-38beb6cd9c4d?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:30:27.118Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "The Cat Empire",
+      "wikipedia": "The Cat Empire",
+      "wikidataId": "Q1539053",
+      "mbid": "a530492f-8806-4bd7-9c14-80c237eb92fe",
+      "mbids": [
+        "a530492f-8806-4bd7-9c14-80c237eb92fe"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1539053",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "a530492f-8806-4bd7-9c14-80c237eb92fe",
+      "nameInSource": "The Cat Empire",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1999",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "a687cb55-852f-314a-8b2c-7336a6d82bec",
+          "title": "The Cat Empire",
+          "firstReleaseDate": "2003-10-27",
+          "releaseId": "84ae99a9-0cd3-4b13-ac6a-f05d41460912",
+          "editionTitle": "The Cat Empire",
+          "editionDate": "2003-10-27",
+          "country": "AU",
+          "barcode": "0724359574028",
+          "tracks": [
+            {
+              "id": "4419f4de-075f-3a92-8e20-b508c4632a6e",
+              "recordingId": "865014df-482d-49e9-96cc-ad7577cc4089",
+              "title": "How to Explain?",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 217800,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "ad62a179-a078-37c7-97a1-f53814029ab8",
+              "recordingId": "cc9a9da0-e9d9-4e72-a826-f1a53cbb9b36",
+              "title": "Days Like These",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 247800,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "50c14699-4d09-3dbc-bbdd-1723c146662c",
+              "recordingId": "4c38d8d6-fc77-4e7e-b076-f24d1bf0f456",
+              "title": "The Lost Song",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 195800,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "af7f366e-025b-31a3-82c2-456ce7180ce7",
+              "recordingId": "53cfdc5e-fd83-439c-beaf-a07994fc9619",
+              "title": "The Chariot",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 334360,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "53649a9f-13e8-3c3d-bfea-d8aa1e255bf0",
+              "recordingId": "2db473bb-6e70-4d1d-afe7-862c120097c3",
+              "title": "Hello",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 224133,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "baa17682-44a6-3375-a560-0e103384a48a",
+              "recordingId": "9d51da8a-1e7a-4bc7-ac47-1c6d565ba591",
+              "title": "One Four Five",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 204773,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "298bfa01-6155-34c8-93fb-e2209474685e",
+              "recordingId": "ca68eee6-ba53-4f3c-a1b4-f3e5c60fa9d8",
+              "title": "The Rhythm",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 204533,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "0d20cb99-8919-3a6f-9b55-206266665ace",
+              "recordingId": "844642e7-29ae-4f0e-8418-9fadc05612b3",
+              "title": "The Wine Song",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 442160,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "aad0adac-bda3-3657-9389-1e63eecedbc0",
+              "recordingId": "48b41232-1601-412f-ba39-7646d486c792",
+              "title": "Nothing",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 219773,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "d2c326d8-62fc-3224-aa21-da74e25dc860",
+              "recordingId": "1cfe4c9c-9475-441b-b2a9-966429f32d53",
+              "title": "Beanni",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 139026,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "c0e4270a-6bdc-3404-89b0-6c7968af885d",
+              "recordingId": "a4c4b5d1-343b-47aa-bde0-a3f15cf5e5fd",
+              "title": "The Crowd",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 313973,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "433d0d45-906a-3e1d-89c3-ae4e3b0a6dde",
+              "recordingId": "9b3e0f4d-2f7f-4928-811a-6e03cd06646a",
+              "title": "Manifesto",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 154093,
+              "artistCredit": "The Cat Empire"
+            },
+            {
+              "id": "c1a04889-6c0e-3059-83cd-8c3713e8472e",
+              "recordingId": "e5d12bf8-b7cc-40a5-8241-6a69a0abdb47",
+              "title": "All That Talking",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 414306,
+              "artistCredit": "The Cat Empire"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/a530492f-8806-4bd7-9c14-80c237eb92fe?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:30:39.067Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Alison Wonderland",
+      "wikipedia": "Alison Wonderland",
+      "wikidataId": "Q18720317",
+      "mbid": "a6a4960c-dafe-43ea-b431-7d2dddd8cc1e",
+      "mbids": [
+        "a6a4960c-dafe-43ea-b431-7d2dddd8cc1e"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q18720317",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "a6a4960c-dafe-43ea-b431-7d2dddd8cc1e",
+      "nameInSource": "Alison Wonderland",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1986-09-27",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "0531d5b1-a3bb-434e-a405-c722476b1ac0",
+          "title": "Run",
+          "firstReleaseDate": "2015-03-20",
+          "releaseId": "ad261e00-1620-4abb-aae0-4269def14c2b",
+          "editionTitle": "Run",
+          "editionDate": "2015",
+          "country": "US",
+          "barcode": "602547183972",
+          "tracks": [
+            {
+              "id": "a5ee033f-14a4-432e-bd14-ce2f1f2ec51f",
+              "recordingId": "184539fc-1b5e-457b-9888-202a3c33cf41",
+              "title": "Run",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 218133,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "49f2199f-3ff6-49ff-9054-fc18a6fe723f",
+              "recordingId": "b5df82db-812d-4fb3-9315-f376b17a8f40",
+              "title": "U Don’t Know",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 243480,
+              "artistCredit": "Alison Wonderland / Wayne Coyne"
+            },
+            {
+              "id": "4c02e6d4-54d0-45d2-b0f8-d1c4b4db891d",
+              "recordingId": "37561903-b672-4b4e-99e2-68120c4ca56a",
+              "title": "Take It to Reality",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 232186,
+              "artistCredit": "Alison Wonderland / SAFIA"
+            },
+            {
+              "id": "b274801e-5477-4737-aba3-33f1b42f6ed3",
+              "recordingId": "8b1a6591-9811-48ea-8750-52ec66ad2a5f",
+              "title": "Naked",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 197546,
+              "artistCredit": "Alison Wonderland / Slumberjack"
+            },
+            {
+              "id": "45b48d0d-4223-42fa-af6e-f7ca7f756889",
+              "recordingId": "5a287417-cbfb-4ddf-8819-a271ba618770",
+              "title": "Carry On",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 241573,
+              "artistCredit": "Alison Wonderland / Johnny Nelson / GANZ"
+            },
+            {
+              "id": "b931393d-0590-4cf4-b28a-7204ec12fb50",
+              "recordingId": "f50cc1fe-4262-4d1e-b2b9-4ff0978b0b92",
+              "title": "I Want U",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 209880,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "900e92ff-4d76-4e97-af7d-65d9ecc6db8f",
+              "recordingId": "e29490c2-213a-42a1-b6bc-8ff15591d0a5",
+              "title": "Games",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 215933,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "fd1bbdd6-fcad-4651-b4fb-f2e1d70d1bd0",
+              "recordingId": "94ef325e-92bf-4c02-8599-77a6a25aacda",
+              "title": "One More Hit",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 202760,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "d1e6dfa8-8f57-4d11-94da-56c33b2b85ee",
+              "recordingId": "75228ebc-2612-43ad-9756-8b76bc0e79d5",
+              "title": "Ignore",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 234306,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "70dd8438-cf7f-4900-928d-e7f2b0a92f1a",
+              "recordingId": "b48d3054-a873-4a7b-a701-67895cf8b581",
+              "title": "Back It Up",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 133586,
+              "artistCredit": "Alison Wonderland / AWE"
+            },
+            {
+              "id": "5704b0ea-618c-4c86-8eda-54bde27673c8",
+              "recordingId": "631b7130-f846-4db9-998a-f421b986d5d0",
+              "title": "Cold",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 212400,
+              "artistCredit": "Alison Wonderland"
+            },
+            {
+              "id": "280e8c1f-4973-4f32-a873-83ea1707a7a5",
+              "recordingId": "38b90529-8b3c-4132-a1be-c1afc2430f8f",
+              "title": "Already Gone",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 241973,
+              "artistCredit": "Alison Wonderland / Brave / Lido"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/a6a4960c-dafe-43ea-b431-7d2dddd8cc1e?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:30:47.108Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "The Rumjacks",
+      "wikipedia": "The Rumjacks",
+      "wikidataId": "Q16159166",
+      "mbid": "aac8a458-8709-4d6b-964c-19fd9b2d7552",
+      "mbids": [
+        "aac8a458-8709-4d6b-964c-19fd9b2d7552"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q16159166",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "aac8a458-8709-4d6b-964c-19fd9b2d7552",
+      "nameInSource": "The Rumjacks",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "2008",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "41a9aba8-5f5f-46b1-8680-e208cb9ac6c4",
+          "title": "Gangs of New Holland",
+          "firstReleaseDate": "2010",
+          "releaseId": "cc6901b9-350f-4995-975b-56fd672fd6e8",
+          "editionTitle": "Gangs of New Holland",
+          "editionDate": "2010",
+          "country": null,
+          "barcode": "9324690133673",
+          "tracks": [
+            {
+              "id": "faadd5fe-8a81-3279-90da-4770d7875562",
+              "recordingId": "008e98e2-0693-49c6-847a-dfc4478960d0",
+              "title": "Big Man Down",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 198545,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "04136dd3-9919-34bb-9681-475808beedf4",
+              "recordingId": "d3e6e56b-7681-43ac-bc81-dc24bc72b43c",
+              "title": "Uncle Tommy",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 155562,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "5a58ddb2-a4af-3133-942a-b47d7c28e5b1",
+              "recordingId": "50dec682-77fd-4aa3-85ce-5e9152160988",
+              "title": "An Irish Pub Song",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 202757,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "9fd1a6d0-5f7e-343b-a089-07950860bfd0",
+              "recordingId": "3fb2742e-defa-4b47-ad79-2817125af603",
+              "title": "Jolly Executioner",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 161136,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "cce085c5-2e82-3c89-898a-cdce5096af26",
+              "recordingId": "728ea767-dcfc-4c70-a511-9cfb5b30beee",
+              "title": "My Time Again",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 235332,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "46d3968b-0234-3cdd-8392-d37c7650d67d",
+              "recordingId": "270bd89a-dc79-44c3-844d-689c396fd806",
+              "title": "McLaughlin's Rant",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 166228,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "b58f2338-ed8e-351f-a0f8-133bb3b1cef5",
+              "recordingId": "31dd1f43-0322-4316-ade4-74657e6cacc6",
+              "title": "The Black Matilda",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 186668,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "01b1eb4c-9203-3d0a-8cf4-7e6c174c4be5",
+              "recordingId": "83774698-768d-4eda-b2f2-66e0d6b0592e",
+              "title": "The Terrible Sea",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 80432,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "ed081c4b-2b44-33a3-8b20-cbebe96dc537",
+              "recordingId": "00dbc1bf-a46d-43c2-89c0-e70c1c5b86a6",
+              "title": "Green Ginger Wine",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 220914,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "6871af03-2c0d-3346-9599-ad2c857ae370",
+              "recordingId": "3d20ef29-d1da-4b2e-906e-75d4fd89183d",
+              "title": "McAlpines Fusiliers",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 167936,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "615e59a1-824b-315d-a6a0-151bf924ddb5",
+              "recordingId": "738c9bab-de4d-4999-81fc-aced47ead5d0",
+              "title": "Roll Away Alone",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 163997,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "7830d916-c639-3f0f-9cbe-cf634d653f16",
+              "recordingId": "44f08f8a-c314-45d5-b8df-91a4f366fb1c",
+              "title": "Pinchgut",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 192816,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "92ac81e1-f303-378d-9a4f-8a06671f162f",
+              "recordingId": "ff96213c-68c8-47b5-812b-995c8016f872",
+              "title": "Spit in the Street",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 151898,
+              "artistCredit": "The Rumjacks"
+            },
+            {
+              "id": "6d95bcf7-70c7-3458-9b3d-9649c46d3c38",
+              "recordingId": "4fbb477b-a793-430e-9479-5ffdb794da5d",
+              "title": "Bar the Door Casey",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 189467,
+              "artistCredit": "The Rumjacks"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/aac8a458-8709-4d6b-964c-19fd9b2d7552?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:30:57.096Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Paul Brady",
+      "wikipedia": "Paul Brady",
+      "wikidataId": "Q648789",
+      "mbid": "acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7",
+      "mbids": [
+        "acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q648789",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7",
+      "nameInSource": "Paul Brady",
+      "entityType": "Person",
+      "area": "United Kingdom",
+      "begin": "1947-05-19",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "373f2e20-0a9b-3f15-94d6-8b160fcb3577",
+          "title": "Welcome Here Kind Stranger",
+          "firstReleaseDate": "1978",
+          "releaseId": "2ee3ffab-aaa1-426e-9152-b0c3be1796d5",
+          "editionTitle": "Welcome Here Kind Stranger",
+          "editionDate": "1978",
+          "country": "IE",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "9a4156b4-b99d-3cc1-8f15-e24ce8629812",
+              "recordingId": "05a3b572-33e0-4ba2-adf2-5a8d95debde3",
+              "title": "Don’t Come Again",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 217000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "3f4b3e80-2466-3ae7-89c6-bbd7ea1af9ec",
+              "recordingId": "d6389d74-03d3-48ad-ad64-952aeaee8600",
+              "title": "I Am a Youth That’s Inclined to Ramble",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 379000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "4fe50404-d2fb-3205-b4e1-358dc2a2d191",
+              "recordingId": "32b207ad-e933-463a-9bcf-63fcad7bd008",
+              "title": "Jackson and Jane",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 268000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "a50ef4d2-4a92-3616-a8af-c17de00b34a6",
+              "recordingId": "f9833ee2-c1a1-4758-a1aa-74252cc0fddc",
+              "title": "The Lakes of Pontchartrain",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 407000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "39ccc428-c523-30c6-873c-7abb7bd95389",
+              "recordingId": "77988796-a2d1-4516-ba2d-9a303a379aad",
+              "title": "The Creel / Out the Door and Over the Wall",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 487000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "2bfc77e7-3764-30e9-93f1-3072a407d2a8",
+              "recordingId": "9440dd0c-aa4d-4a65-88b3-04023f9f6fd2",
+              "title": "Young Edmund in the Lowlands Low",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 353000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "28236740-4a15-31a6-bdd9-7e71afe9007e",
+              "recordingId": "8a2dee83-c1ba-45f2-9051-7524caac47ff",
+              "title": "The Boy on the Hilltop / Johnny Goin’ to Céilidh",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 133000,
+              "artistCredit": "Paul Brady"
+            },
+            {
+              "id": "ff0b8982-3834-3c0d-8200-10c58139991c",
+              "recordingId": "e2842bd1-a1cf-4f51-81f0-ff4c001f7987",
+              "title": "Paddy’s Green Shamrock Shore",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 367000,
+              "artistCredit": "Paul Brady"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:31:40.658Z",
+      "rejectedEditions": [
+        {
+          "releaseId": "ab1b122b-7dd1-4fee-a31b-9200e410051a",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "0e4cd298-30dc-427e-b4ca-03b6ec61241a",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "dc96fffe-6679-42a5-8673-4ac3249a04e8",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "8cf70e92-f54d-4214-9c8c-a179f1b43a19",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '3d546ba7-aac8-474d-99ea-535a7ef7733e'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "f620484c-88c2-4c6d-bb42-f2c75e5fa765",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '3d546ba7-aac8-474d-99ea-535a7ef7733e'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "fd815f4f-d3ee-4464-994b-034fad8bc22c",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ 'e29b5246-94f8-43ba-8384-2af3467c421e'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "fcd5acb6-c752-46ee-ac6b-4359942e33aa",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ 'e29b5246-94f8-43ba-8384-2af3467c421e'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "c04b78ae-06a2-4f75-9596-0184727ecb7e",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ 'e29b5246-94f8-43ba-8384-2af3467c421e'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "e54c6a0e-fed9-41e8-82c0-c19f94fbab9a",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "7fb2bbdb-0815-4430-94e2-4701863567d2",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        },
+        {
+          "releaseId": "07397fd2-ea41-496a-80e3-a0b5b1591538",
+          "reason": "Wrong primary release artist\n+ actual - expected\n\n+ '96a1b350-d90a-4c93-8949-d61b3ae689bb'\n- 'acaf8e9d-3b29-4bcc-9f8a-761e6d2deca7'\n"
+        }
+      ]
+    },
+    {
+      "name": "Inhaler",
+      "wikipedia": "Inhaler (band)",
+      "wikidataId": "Q82783772",
+      "mbid": "aed63829-e917-498b-bb7f-cf76459702dc",
+      "mbids": [
+        "aed63829-e917-498b-bb7f-cf76459702dc"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q82783772",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "aed63829-e917-498b-bb7f-cf76459702dc",
+      "nameInSource": "Inhaler",
+      "entityType": "Group",
+      "area": "Ireland",
+      "begin": "2016",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "dd166508-64a0-4e13-8ba4-9ad35ecaaaeb",
+          "title": "It Won’t Always Be Like This",
+          "firstReleaseDate": "2021-07-09",
+          "releaseId": "126f7a0c-c26b-47d5-9d8d-43df360049c4",
+          "editionTitle": "It Won’t Always Be Like This",
+          "editionDate": "2021-07-09",
+          "country": "XW",
+          "barcode": "00602435796253",
+          "tracks": [
+            {
+              "id": "f8daefce-2150-481d-a62d-19bdc8926b10",
+              "recordingId": "93702eef-6fde-4afe-8f06-c8c31c987e15",
+              "title": "It Won’t Always Be Like This",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 244907,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "a1e4cfa3-0661-45bb-b092-fd849c743f2e",
+              "recordingId": "999bcfc7-9804-400f-8a3d-9f3f050fd80f",
+              "title": "My Honest Face",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 272667,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "6d5c3ffe-e372-4808-ba66-1ec80efdd5e9",
+              "recordingId": "584a42bc-7d66-4fef-9eca-a3cbf201599e",
+              "title": "Slide Out the Window",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 275853,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "995b2c59-1bbd-41a1-8eea-032a53ff15e9",
+              "recordingId": "e8847c83-5cc1-4237-9e7b-4d6e800efcc9",
+              "title": "Cheer Up Baby",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 233907,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "b8e4ce31-0ba5-4c0c-ad8b-1ade5ee0fd21",
+              "recordingId": "02fe2e37-4bba-4029-adbf-eba9ce4d88e3",
+              "title": "A Night on the Floor",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 242533,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "68b44748-9faf-4c9b-81e7-c98f0c0ea741",
+              "recordingId": "ad0a4261-4bab-4b78-a777-b0a22e5bfff6",
+              "title": "My King Will Be Kind",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 292853,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "bfdb9790-aa44-4750-b444-c1b7b907f69f",
+              "recordingId": "3f8133f8-9f80-4d05-a908-aa7c99a6da6f",
+              "title": "When It Breaks",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 222747,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "8e3d0d40-c211-4cde-bc44-77b17e2d67e0",
+              "recordingId": "547907f1-7fec-47b4-a15c-606790ca77bd",
+              "title": "Who’s Your Money On? (Plastic House)",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 382800,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "9f75caea-7caf-42c4-8919-e5ec85153e62",
+              "recordingId": "c2f7d4b9-9ac0-4b61-9209-35ea0496ed0d",
+              "title": "Totally",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 236147,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "e2f88268-c27c-4731-bd91-9e5fe5583b37",
+              "recordingId": "0e0b842c-e696-4f26-b154-659054d1ac62",
+              "title": "Strange Time to Be Alive",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 64547,
+              "artistCredit": "Inhaler"
+            },
+            {
+              "id": "4a0a54b8-27b7-4d7d-afde-42be8653e954",
+              "recordingId": "e0546c6e-be8f-4c60-9567-f78ad4cb339f",
+              "title": "In My Sleep",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 251880,
+              "artistCredit": "Inhaler"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/aed63829-e917-498b-bb7f-cf76459702dc?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:31:50.966Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Ex Deo",
+      "wikipedia": "Ex Deo",
+      "wikidataId": "Q1236967",
+      "mbid": "af575064-0f47-42d3-abb5-6d07ae292e55",
+      "mbids": [
+        "af575064-0f47-42d3-abb5-6d07ae292e55"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1236967",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "af575064-0f47-42d3-abb5-6d07ae292e55",
+      "nameInSource": "Ex Deo",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "2008",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "ee14672b-b1b3-46d0-9dd3-2cda77319c1e",
+          "title": "Romulus",
+          "firstReleaseDate": "2009-06-19",
+          "releaseId": "7041eb82-8ea1-4fff-b30f-7237314a0607",
+          "editionTitle": "Romulus",
+          "editionDate": "2009",
+          "country": "RU",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "f69ada25-6850-409a-a63e-9e541d9390f5",
+              "recordingId": "a9b25f68-9aad-4dd1-8e9a-44fe85471124",
+              "title": "Romulus",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 317000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "c82efee9-555d-479d-8ee8-46a809aba72a",
+              "recordingId": "5ba1d6e2-3159-4206-8674-8ee57eda6c2e",
+              "title": "Storm the Gates of Alesia",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 391000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "b3824d99-c009-4821-b8b2-341e2d498a55",
+              "recordingId": "36c8695c-910f-4f56-97ea-a045c8b230f9",
+              "title": "Cry Havoc",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 421000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "4dfcd610-8087-41f4-9509-35cb3af394c1",
+              "recordingId": "ff2f9da2-fea3-4236-83b1-165b50826475",
+              "title": "In Her Dark Embrace",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 295000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "f73bc1e1-7505-41a5-92d0-6f4f5594544d",
+              "recordingId": "5d9a9e3c-427f-40ef-920f-109c6beeba13",
+              "title": "Invictus",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 288000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "d5d7f1b3-8a66-42e2-ad7d-c42e60169d9f",
+              "recordingId": "7673239e-ac28-47b6-936f-ba9f06a0cae0",
+              "title": "The Final War (Battle of Actium)",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 301000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "e035476d-4dad-4525-9ee1-48369619b193",
+              "recordingId": "24eaa8fc-6703-4338-90b0-fd2efda31ce8",
+              "title": "Legio XIII",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 353000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "6ed2862e-a34c-4efe-aecf-61e2ebb62036",
+              "recordingId": "cf477137-3b96-4407-8e3c-45232b973dae",
+              "title": "Blood, Courage and The Gods That Walk The Earth",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 362000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "a1931495-a8a8-4d7e-b23e-a23bb86cc493",
+              "recordingId": "4fe4cac4-1d9c-4388-9398-b8c9e29d2723",
+              "title": "Cruor Nostri Abbas",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 330000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "37d92e71-cdaa-4684-a2b6-39545ea5053b",
+              "recordingId": "70f2d325-bcdd-4641-b94c-a0475bb34f28",
+              "title": "Surrender the Sun",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 407000,
+              "artistCredit": "Ex Deo"
+            },
+            {
+              "id": "a247d28f-f477-4dd8-8f17-454e4b7735d1",
+              "recordingId": "ecc59924-89d2-414b-9326-302b96949f82",
+              "title": "The Pantheon (Jupiter's Reign)",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 237000,
+              "artistCredit": "Ex Deo"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/af575064-0f47-42d3-abb5-6d07ae292e55?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:32:03.275Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Yothu Yindi",
+      "wikipedia": "Yothu Yindi",
+      "wikidataId": "Q1590496",
+      "mbid": "af5958c6-59b0-4335-a245-ddd46c4a4d9e",
+      "mbids": [
+        "af5958c6-59b0-4335-a245-ddd46c4a4d9e"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1590496",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "af5958c6-59b0-4335-a245-ddd46c4a4d9e",
+      "nameInSource": "Yothu Yindi",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1986",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "67a42d7c-916a-3793-9e96-db2b88dac922",
+          "title": "Tribal Voice",
+          "firstReleaseDate": "1991",
+          "releaseId": "5d2f86f0-fd3c-4193-bbb6-eddba8a469cd",
+          "editionTitle": "Tribal Voice",
+          "editionDate": "1991",
+          "country": "AU",
+          "barcode": "720616128829",
+          "tracks": [
+            {
+              "id": "cb205e09-e4cf-35d2-a14f-a30613f2230c",
+              "recordingId": "08f17a00-2ec8-4c8f-af58-e17292d2284e",
+              "title": "Gapu",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 164666,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "198e29af-9f99-344c-8f2b-dc32adc29a95",
+              "recordingId": "ac86e117-4e6d-4f7a-a819-4f933df9933c",
+              "title": "Treaty",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 218333,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "d7f17d39-c8cf-3207-bc52-0248de3770a8",
+              "recordingId": "199c6731-d3ae-4e1d-8c44-d2d6a361d4f6",
+              "title": "My Kind of Life",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 272666,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "6d67b974-cdba-3cff-a4ce-e6f9a2480d40",
+              "recordingId": "fbf431a5-6611-41c5-ab69-a145a4eadbfe",
+              "title": "Maralitja (Crocodile Man)",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 245160,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "e804bb48-85e5-3a3a-8824-8ccc53d08df4",
+              "recordingId": "9d3400ad-1f16-471f-b397-066158979ba7",
+              "title": "Dhum Dhum (Bush Wallaby)",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 67000,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "7664a34e-81f2-349c-8082-bed645fe8d70",
+              "recordingId": "455c5de6-21dc-49b3-8dee-b797759fb53f",
+              "title": "Tribal Voice",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 256000,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "ebee750e-466e-3dca-acac-e421083f2f24",
+              "recordingId": "998a6e9b-7f21-4f3c-9479-def5a7280b09",
+              "title": "Dharpa (Tree)",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 245840,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "18d58503-2e68-31e7-812d-4920acc35dc3",
+              "recordingId": "78a9b881-7579-4570-bb81-972002e95491",
+              "title": "Yinydjapana (Dolphin)",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 86000,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "e9bc4380-d2ed-3d9f-8e52-381a6c300095",
+              "recordingId": "ad433c86-a793-4768-ad7a-90a7c73d1ec2",
+              "title": "Matjala (Driftwood)",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 325493,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "bd4eb3f7-df04-3d3c-8864-2eae693b00e9",
+              "recordingId": "6a1d6c3a-a67f-4f4b-beb2-8d0e3ce632c2",
+              "title": "Hope",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 217333,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "61015edc-6dc5-39bd-b9ad-3eaaf45c30dc",
+              "recordingId": "c52e4fdc-29d5-464a-b423-09e77abc6ac3",
+              "title": "Gapirri (Stingray)",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 143666,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "4df6e765-7e86-3106-b2fd-4ff9e198a687",
+              "recordingId": "a073b698-aa4d-4260-95e1-9b6561e01d53",
+              "title": "Beyarrmak (Comic)",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 116000,
+              "artistCredit": "Yothu Yindi"
+            },
+            {
+              "id": "f58cac12-4923-382a-b7d1-18008b403ee1",
+              "recordingId": "743b892d-0eb4-460d-9603-4cad7cda361b",
+              "title": "Treaty (radio mix)",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 247066,
+              "artistCredit": "Yothu Yindi"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/af5958c6-59b0-4335-a245-ddd46c4a4d9e?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:32:14.139Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Austra",
+      "wikipedia": "Austra (band)",
+      "wikidataId": "Q781201",
+      "mbid": "af9e8d94-d471-4f91-82c7-250c22545162",
+      "mbids": [
+        "af9e8d94-d471-4f91-82c7-250c22545162"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q781201",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "af9e8d94-d471-4f91-82c7-250c22545162",
+      "nameInSource": "Austra",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "2009",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "4ddef6f3-bce0-4227-8c58-c7675c55fea1",
+          "title": "Feel It Break",
+          "firstReleaseDate": "2011-05-13",
+          "releaseId": "a35b52ae-576b-48a8-a804-6eb37ec81c8c",
+          "editionTitle": "Feel It Break",
+          "editionDate": "2011",
+          "country": "XW",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "12673708-62c1-442c-8d6c-b8c5815815cc",
+              "recordingId": "5bbcb558-f60e-4550-b28c-f7642dd6a009",
+              "title": "Darken Her Horse",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 321000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "5bffd925-c256-4ce8-80aa-7925b6f56b48",
+              "recordingId": "849a2562-2fa3-4e59-af30-4f5880030d45",
+              "title": "Lose It",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 269000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "633de017-33d6-4248-955f-f90247ee8f12",
+              "recordingId": "44f56cb6-8afa-4439-9a99-afd25e7751da",
+              "title": "The Future",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 243000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "b11c5c01-531b-43dc-8569-9c999f5b82cb",
+              "recordingId": "40912d6a-66d4-45dc-b6b5-713641fd69a0",
+              "title": "Beat and the Pulse",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 296000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "9577bce5-5c48-4667-8783-f12bbccc501f",
+              "recordingId": "c474c577-ccf9-4e83-b295-bbaccd7d094f",
+              "title": "Spellwork",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 310000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "a8f45229-05c0-4b4d-8012-15683edced54",
+              "recordingId": "fa270947-0056-4311-9f4b-4a85b33a852c",
+              "title": "The Choke",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 252000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "bcf1f1f0-96e4-4ea6-bae5-8f51dbbc4ba0",
+              "recordingId": "59b47853-1fd9-48e6-89b8-ce4b07bbfdfb",
+              "title": "Hate Crime",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 242000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "d390131c-1701-4d75-9839-fbd233bc11e0",
+              "recordingId": "e68b4677-70d0-43ad-aa0c-f9a43633cb44",
+              "title": "The Villain",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 246000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "8e832855-b4e5-469a-99e2-e9c98b642a34",
+              "recordingId": "da046390-25ce-4421-a062-9cea99001f79",
+              "title": "Shoot the Water",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 203000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "2b950955-241e-44e8-be76-0c4c6f1bff2a",
+              "recordingId": "38cd9e30-d196-4335-b4fc-3b36addcbf96",
+              "title": "The Noise",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 212000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "50ffb8e0-b0ff-4798-82f1-ea0ccae655f6",
+              "recordingId": "3d6e78ef-d202-4141-839c-76d8264d6410",
+              "title": "The Beast",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 243000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "f498b562-66e2-4aa1-9ec8-ba4f0d77aec4",
+              "recordingId": "2cf5bbd9-4bcb-4b22-b39f-4d6b9b04d34b",
+              "title": "Identity",
+              "position": 1,
+              "disc": 2,
+              "number": "1",
+              "lengthMs": 303000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "e9915b6d-e383-47b3-92fd-a84e8c408a9e",
+              "recordingId": "5644d900-cd68-4cdb-9922-d1c6d3543631",
+              "title": "Young and Gay",
+              "position": 2,
+              "disc": 2,
+              "number": "2",
+              "lengthMs": 209000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "15fc57ee-238c-49fc-8062-0cf83124cb73",
+              "recordingId": "341bc509-4622-4e91-9385-dea0fb28d1b8",
+              "title": "Energy",
+              "position": 3,
+              "disc": 2,
+              "number": "3",
+              "lengthMs": 237000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "a669fc63-1e4e-420d-af38-30b8c5449893",
+              "recordingId": "7a1bc292-1be8-46b2-bf13-e18764e1d5cf",
+              "title": "Believe Me",
+              "position": 4,
+              "disc": 2,
+              "number": "4",
+              "lengthMs": 207000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "a38c502a-48f2-4a02-ac07-4caec958b8ce",
+              "recordingId": "2a09e5bc-ce41-4dce-8acb-3aec4772fcc0",
+              "title": "Trip",
+              "position": 5,
+              "disc": 2,
+              "number": "5",
+              "lengthMs": 195000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "4c66572d-69f2-4c77-9ef9-f3ee8c03228c",
+              "recordingId": "86c02a0a-2f4a-48e3-ac8a-e5f13cd68346",
+              "title": "Pianix",
+              "position": 6,
+              "disc": 2,
+              "number": "6",
+              "lengthMs": 150000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "92049bd8-3a6d-452c-b48a-4958cd4d64d6",
+              "recordingId": "3da83440-2944-48f7-915c-d45f488ba14d",
+              "title": "Woodstock",
+              "position": 7,
+              "disc": 2,
+              "number": "7",
+              "lengthMs": 201000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "9f533c4a-caaf-4b85-a3f1-b6345b0d4b66",
+              "recordingId": "a6b71072-9f1e-4a6d-b347-be2cf7db5748",
+              "title": "Crying",
+              "position": 8,
+              "disc": 2,
+              "number": "8",
+              "lengthMs": 165000,
+              "artistCredit": "Austra"
+            },
+            {
+              "id": "208ebebc-dcda-4626-b25f-4fbcd4595840",
+              "recordingId": "3ad8c982-a7fc-4eb5-8479-6bc57689d727",
+              "title": "Beat and the Pulse (M. Shawn Crahan Motion Remix)",
+              "position": 9,
+              "disc": 2,
+              "number": "9",
+              "lengthMs": 429000,
+              "artistCredit": "Austra"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/af9e8d94-d471-4f91-82c7-250c22545162?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:32:29.484Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Cowboy Junkies",
+      "wikipedia": "Cowboy Junkies",
+      "wikidataId": "Q1138174",
+      "mbid": "b52211f1-49a2-4cd2-8535-dd1ba37ea90b",
+      "mbids": [
+        "b52211f1-49a2-4cd2-8535-dd1ba37ea90b"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1138174",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "b52211f1-49a2-4cd2-8535-dd1ba37ea90b",
+      "nameInSource": "Cowboy Junkies",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "1985",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "bf192206-bc1c-3a98-91fc-67a4aa64e570",
+          "title": "Whites Off Earth Now!!",
+          "firstReleaseDate": "1986",
+          "releaseId": "f9321515-b1e2-44d0-bc7a-437cdc5cc0a7",
+          "editionTitle": "Whites Off Earth Now!!",
+          "editionDate": "1986",
+          "country": "US",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "8eac6f37-c505-34d4-a65d-6087203da892",
+              "recordingId": "8ac08430-8bd8-45c6-b077-5645cac40501",
+              "title": "Shining Moon",
+              "position": 1,
+              "disc": 1,
+              "number": "A1",
+              "lengthMs": 245906,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "6c2792c5-9a5e-39c2-8264-4d2fabdde62e",
+              "recordingId": "1013ce43-5eb5-4ca8-b3ed-ceff09fe5ee1",
+              "title": "State Trooper",
+              "position": 2,
+              "disc": 1,
+              "number": "A2",
+              "lengthMs": 270226,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "8cb4114b-2b52-3ca4-b6fb-3c3c2eef0284",
+              "recordingId": "fdfd22d2-23f7-44a3-b1cf-e08f2468a087",
+              "title": "Me and the Devil",
+              "position": 3,
+              "disc": 1,
+              "number": "A3",
+              "lengthMs": 266533,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "2c0f4c43-226a-3cd9-ae88-7e09bd22ea3a",
+              "recordingId": "f9a5f011-5c8f-4ec7-a206-92f6b674c21f",
+              "title": "Decoration Day",
+              "position": 4,
+              "disc": 1,
+              "number": "A4",
+              "lengthMs": 238173,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "634eb71e-ec88-3204-b358-9362c04692da",
+              "recordingId": "dee9970b-b2d3-4a0c-87d1-b7c25f5f3ac4",
+              "title": "Baby Please Don't Go",
+              "position": 5,
+              "disc": 1,
+              "number": "A5",
+              "lengthMs": 304693,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "5d3963d7-c072-3dfc-a932-d7329096d190",
+              "recordingId": "2abac635-b540-42d8-994e-5067227af878",
+              "title": "I'll Never Get Out of These Blues Alive",
+              "position": 6,
+              "disc": 1,
+              "number": "B1",
+              "lengthMs": 390706,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "58798796-7fce-36e6-ab1d-34c006b2dbd4",
+              "recordingId": "2c603980-d9ff-4ff6-8f1b-565c99914d74",
+              "title": "Take Me",
+              "position": 7,
+              "disc": 1,
+              "number": "B2",
+              "lengthMs": 147933,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "c575dc5b-b8f4-384f-a574-318d78aca121",
+              "recordingId": "76b81ec3-7f53-4228-9d6f-bd8f6b21bf8c",
+              "title": "Forgive Me",
+              "position": 8,
+              "disc": 1,
+              "number": "B3",
+              "lengthMs": 328333,
+              "artistCredit": "Cowboy Junkies"
+            },
+            {
+              "id": "933691b1-2779-3597-872d-633919459141",
+              "recordingId": "ec6a4017-f4c4-48f6-a3d8-cb1be9cd040b",
+              "title": "Crossroads",
+              "position": 9,
+              "disc": 1,
+              "number": "B4",
+              "lengthMs": 375293,
+              "artistCredit": "Cowboy Junkies"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/b52211f1-49a2-4cd2-8535-dd1ba37ea90b?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:32:47.322Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Julia Stone",
+      "wikipedia": "Julia Stone",
+      "wikidataId": "Q3189064",
+      "mbid": "b5cf517f-e89a-43df-a50e-afac186d3e48",
+      "mbids": [
+        "b5cf517f-e89a-43df-a50e-afac186d3e48"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q3189064",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "b5cf517f-e89a-43df-a50e-afac186d3e48",
+      "nameInSource": "Julia Stone",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1984-04-13",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "3cc210f1-a728-4be9-ba91-1f5cbcd64b65",
+          "title": "The Memory Machine",
+          "firstReleaseDate": "2010-09-01",
+          "releaseId": "4794b3cc-3c62-4bcc-bba9-fd02ff34d37d",
+          "editionTitle": "The Memory Machine",
+          "editionDate": "2010",
+          "country": "GB",
+          "barcode": "5051083057066",
+          "tracks": [
+            {
+              "id": "40242f58-300a-44fc-afc6-78e871cee721",
+              "recordingId": "cfee25f2-f83b-44b7-89fd-c7be069be07e",
+              "title": "This Love",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 211693,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "cd51c143-0040-4d87-8763-d4c7772faa4d",
+              "recordingId": "3eb2c5c2-5651-4cde-83a7-4017d354aab9",
+              "title": "My Baby",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 260800,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "c591659e-5d57-487e-b6e7-6b2d457c0bcf",
+              "recordingId": "e4a21d0e-1df9-4bf2-87c2-ed88ffb843da",
+              "title": "Winter on the Weekend",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 280906,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "38ed3180-0e58-46b2-9379-d53376f5973d",
+              "recordingId": "ef64db85-185e-4c23-99dd-497007ee6a11",
+              "title": "The Memory Machine",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 168786,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "9df6ec29-a6d5-4a95-b1c0-02ee60ba6ddc",
+              "recordingId": "112f462e-81cc-466b-8dd2-2026c2ab8413",
+              "title": "Catastrophe!",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 223173,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "ec9f6978-5042-45cf-9883-0c2e0f776077",
+              "recordingId": "550a4fe0-5126-4698-98bf-19ece95e7236",
+              "title": "Maybe",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 270146,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "8f997839-e8a1-47a3-b848-e385092b8b64",
+              "recordingId": "d59fe009-012e-4402-9fea-33ca45a0548d",
+              "title": "Lights Inside This Dream",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 256506,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "7ef3fca0-5ba0-4fee-8b17-acb70ac64caf",
+              "recordingId": "a4b184ad-8556-4efd-a08a-563a2d930e06",
+              "title": "What's Wrong With Me?",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 277533,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "43077e0d-2383-4e90-8e9a-9539ab9f86c6",
+              "recordingId": "9bd722f2-e62d-410f-8489-61d143e81ea4",
+              "title": "Horse With the Wings",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 280386,
+              "artistCredit": "Julia Stone"
+            },
+            {
+              "id": "422649a1-36c2-45b5-acc1-5b1ae147134a",
+              "recordingId": "04ac3d1c-f9e7-4527-a442-1940bd7a78ad",
+              "title": "Where Does the Love Go?",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 303400,
+              "artistCredit": "Julia Stone"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/b5cf517f-e89a-43df-a50e-afac186d3e48?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:32:56.583Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "The Strypes",
+      "wikipedia": "The Strypes",
+      "wikidataId": "Q7767092",
+      "mbid": "bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15",
+      "mbids": [
+        "bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q7767092",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15",
+      "nameInSource": "The Strypes",
+      "entityType": "Group",
+      "area": "Ireland",
+      "begin": "2010-11-01",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "b0710537-b50d-46b7-ac3a-27bdcbabda29",
+          "title": "Snapshot",
+          "firstReleaseDate": "2013-09-09",
+          "releaseId": "88e56938-f2e2-4124-825c-70c50aa040fb",
+          "editionTitle": "Snapshot (Deluxe Version)",
+          "editionDate": "2013-09-09",
+          "country": null,
+          "barcode": "602537512874",
+          "tracks": [
+            {
+              "id": "deb23e38-1c2c-4a05-9063-126e9f04b1f7",
+              "recordingId": "ee637e7f-7f2b-4f6d-a2ce-cd7b1e645924",
+              "title": "Mystery Man",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 163000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "aa37f25c-1d06-462d-a9bb-fc791ed74077",
+              "recordingId": "51bb0719-3119-4dd9-ad52-65f99f50dcb6",
+              "title": "Blue Collar Jane",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 170000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "ccb23f16-7a2f-4b70-821e-e68dcb9ab333",
+              "recordingId": "fd1a3be4-fb77-45c9-9136-1f090f6226dd",
+              "title": "What the People Don’t See",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 176000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "2e4e4031-879a-4e33-9e73-f54d084e9362",
+              "recordingId": "1da4f87f-c71c-4e46-a371-752952e508e4",
+              "title": "She’s So Fine",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 139000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "67f2f4ae-7b4f-4525-a98c-07e6b9afbf74",
+              "recordingId": "1f4f109e-6b43-4a88-9a15-6840273c78f6",
+              "title": "I Can Tell",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 222000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "a846223e-9e8d-405a-b3f1-3a637c1834bf",
+              "recordingId": "d0cfd375-df64-42aa-9d9c-436f69eae489",
+              "title": "Angel Eyes",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 250000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "d57c3d50-e6fc-4be5-8d58-b4fe015aa70e",
+              "recordingId": "93ae4ce7-dbc7-47a2-b03c-4fd5463d208f",
+              "title": "Perfect Storm",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 143000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "4fa0e367-2379-4920-9863-9e8023cc563d",
+              "recordingId": "d3b0fb2b-10c8-4aff-9cc5-0319a0dd638c",
+              "title": "You Can’t Judge a Book by the Cover",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 136000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "4e4b9977-379f-474d-a9c4-8441e00ccf40",
+              "recordingId": "156bf419-78cd-4905-81e3-dd6faf484820",
+              "title": "What a Shame",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 149000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "2c9a4ed1-7c9e-49a2-b140-582ab8001a05",
+              "recordingId": "6e3cc7e4-aa3c-445c-aaf0-867e88c590c1",
+              "title": "Hometown Girls",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 185000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "3ac7f93c-58f7-4e7a-9060-4c04336a5fa5",
+              "recordingId": "d40ac3df-57ef-420f-be9c-9be0962ef4fa",
+              "title": "Heart of the City",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 198000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "ecdcfc4f-f1e3-4acd-8112-a0d8d52abb9a",
+              "recordingId": "3a6e4ef9-3fce-4a64-80a9-0d80cac136bc",
+              "title": "Rollin’ and Tumblin’",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 243000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "115d4717-5849-41b9-9636-956b4441a950",
+              "recordingId": "55416c63-d0b3-45f3-815e-af0ca7be408b",
+              "title": "Beautiful Delilah",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 121000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "c805a7b0-0da4-4c8a-b558-fcb86f8b204d",
+              "recordingId": "5b6d22cb-c19e-4895-b51d-f63328982f4e",
+              "title": "C C Rider (live at King Tuts, Glasgow)",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 232000,
+              "artistCredit": "The Strypes"
+            },
+            {
+              "id": "63a009cf-a438-480b-8652-27162505bf9d",
+              "recordingId": "663588a1-2488-4e82-b464-9b718c1f4e7c",
+              "title": "I Can Tell (live at King Tuts, Glasgow)",
+              "position": 15,
+              "disc": 1,
+              "number": "15",
+              "lengthMs": 226000,
+              "artistCredit": "The Strypes"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/bb47c3a3-eb2c-431f-8d29-8c3e4ee86e15?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:33:15.453Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Jon English",
+      "wikipedia": "Jon English",
+      "wikidataId": "Q4357464",
+      "mbid": "be45b47f-8d44-418f-a8b2-2a9734a3ec31",
+      "mbids": [
+        "be45b47f-8d44-418f-a8b2-2a9734a3ec31"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q4357464",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "be45b47f-8d44-418f-a8b2-2a9734a3ec31",
+      "nameInSource": "Jon English",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1949-03-26",
+      "end": "2016-03-09",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "21cec82c-a519-42b5-80ed-e2fa698596cf",
+          "title": "Wine Dark Sea",
+          "firstReleaseDate": "1973",
+          "releaseId": "d5d3360c-6e79-4d6a-93fa-0950e11ead06",
+          "editionTitle": "Wine Dark Sea",
+          "editionDate": "1973",
+          "country": "NZ",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "c42b10c8-28af-4b3a-b929-06f6f70d5986",
+              "recordingId": "5e696de2-ede0-4a88-b813-1f5a739f2be7",
+              "title": "Summer Song",
+              "position": 1,
+              "disc": 1,
+              "number": "A1",
+              "lengthMs": 276000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "c03aa3d8-9eab-4914-a5c9-272eceaf46d8",
+              "recordingId": "cedce1c2-481f-43dc-b0a7-5a7d18da7860",
+              "title": "Sweet Lady Mary",
+              "position": 2,
+              "disc": 1,
+              "number": "A2",
+              "lengthMs": 323000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "f2bd5fbe-bea4-4676-b28d-4e9e72404b13",
+              "recordingId": "8c78e249-6a19-4c54-98ba-522e78d56765",
+              "title": "Wine Dark Sea",
+              "position": 3,
+              "disc": 1,
+              "number": "A3",
+              "lengthMs": 209000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "1fb10116-eb40-44d6-8e53-69f8712a39bc",
+              "recordingId": "e2fbd572-3d4b-4581-b80c-561dfbe2c731",
+              "title": "Horsehair and Plastic",
+              "position": 4,
+              "disc": 1,
+              "number": "A4",
+              "lengthMs": 159000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "a29e1b9d-9ed8-4259-8002-dab376cef30b",
+              "recordingId": "9f02f64d-36ff-475b-b19d-a30eed574c32",
+              "title": "Close Every Door",
+              "position": 5,
+              "disc": 1,
+              "number": "A5",
+              "lengthMs": 166000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "fa02811b-30be-4e67-bd70-6bd05900da1c",
+              "recordingId": "89ed37c2-7be3-431b-b885-68b6ef643c9d",
+              "title": "Monopoly",
+              "position": 6,
+              "disc": 1,
+              "number": "A6",
+              "lengthMs": 234000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "6659c38f-0c13-436d-bf5c-d3e9c7bc7fa6",
+              "recordingId": "8bbb9e7f-46db-46f6-b9a6-dfd2c1093ff4",
+              "title": "Handbags and Gladrags",
+              "position": 7,
+              "disc": 1,
+              "number": "B1",
+              "lengthMs": 354000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "12edc380-ad21-4e6e-aeb4-fe0f1454000a",
+              "recordingId": "a3871bde-f91d-464e-98d9-d3ec021ff79c",
+              "title": "Prelude / Tomorrow",
+              "position": 8,
+              "disc": 1,
+              "number": "B2",
+              "lengthMs": 379000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "eaa8376e-980e-40b9-ad5c-815ae9030d51",
+              "recordingId": "351d7e76-e29f-428b-88bf-46b4926b410e",
+              "title": "Brand New Day",
+              "position": 9,
+              "disc": 1,
+              "number": "B3",
+              "lengthMs": 328000,
+              "artistCredit": "Jon English"
+            },
+            {
+              "id": "e7bcfb92-8d7c-4110-9ef6-d76a3c4accbd",
+              "recordingId": "4d532ddd-0324-4dce-b3f5-491a827ebb17",
+              "title": "Share the End",
+              "position": 10,
+              "disc": 1,
+              "number": "B4",
+              "lengthMs": 298000,
+              "artistCredit": "Jon English"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/be45b47f-8d44-418f-a8b2-2a9734a3ec31?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:33:32.511Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Gin Wigmore",
+      "wikipedia": "Gin Wigmore",
+      "wikidataId": "Q441908",
+      "mbid": "cb0b7933-a5bc-48dc-a36b-00315d12ca8c",
+      "mbids": [
+        "cb0b7933-a5bc-48dc-a36b-00315d12ca8c"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q441908",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "cb0b7933-a5bc-48dc-a36b-00315d12ca8c",
+      "nameInSource": "Gin Wigmore",
+      "entityType": "Person",
+      "area": "New Zealand",
+      "begin": "1986-06-06",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "edc14c6b-c928-4a2a-8158-b16aeade137e",
+          "title": "Holy Smoke",
+          "firstReleaseDate": "2009-01-01",
+          "releaseId": "c6c9d48e-2194-4169-aefc-694be6a720c1",
+          "editionTitle": "Holy Smoke",
+          "editionDate": "2009",
+          "country": "CA",
+          "barcode": "602527144955",
+          "tracks": [
+            {
+              "id": "775e06f3-a92c-45c8-862e-5aa1ca87af51",
+              "recordingId": "f042cfe0-5ab7-4f02-9453-83c265e876f8",
+              "title": "Oh My",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 257200,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "2f5e31d9-e66e-48d0-9925-e447421a50cd",
+              "recordingId": "dbb792ea-3fa6-419e-b5da-8d282d4f0f6d",
+              "title": "Hey Ho",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 244866,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "c21609de-a76c-4906-8873-5118dc113191",
+              "recordingId": "706c4930-2826-48b7-8cf6-16f8552e8d79",
+              "title": "New Revolution",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 262000,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "7062231c-f614-4fff-a170-90602daf0757",
+              "recordingId": "d8b4afa8-e91f-41b1-ac1c-25bfa14e263d",
+              "title": "Don’t Stop",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 208226,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "bf411eac-663d-4c61-9564-66ccb52047c7",
+              "recordingId": "c2d8f524-122a-40cc-92a7-96e424a62c05",
+              "title": "I Do",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 248186,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "3df2c4bb-3a2d-4e2d-83a0-06f35835f562",
+              "recordingId": "d66401b9-bb56-4e67-a5cb-258c31099fc6",
+              "title": "Too Late for Lovers",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 228000,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "a83f87c7-79db-4926-9be1-d70c23b0180a",
+              "recordingId": "81d02d5b-dfd9-4e88-acdf-224872778972",
+              "title": "Mr. Freakshow",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 231986,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "3fd39149-95ea-4660-8f68-556d74aa15f4",
+              "recordingId": "b598f37e-44ec-4d54-8710-a460be4fac9c",
+              "title": "One Last Look",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 157280,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "81daa384-9cb7-40d1-a3e0-118ca38e579b",
+              "recordingId": "e653ba45-74c3-49d1-9b12-813265b771db",
+              "title": "Golden Ship",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 235320,
+              "artistCredit": "Gin Wigmore"
+            },
+            {
+              "id": "a4368db4-70da-4d71-945d-6701ed7f1fc6",
+              "recordingId": "e064d1fa-8895-4794-b252-60b9deef2816",
+              "title": "Dying Day",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 194000,
+              "artistCredit": "Gin Wigmore"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/cb0b7933-a5bc-48dc-a36b-00315d12ca8c?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:33:48.919Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Into Eternity",
+      "wikipedia": "Into Eternity (band)",
+      "wikidataId": "Q1671518",
+      "mbid": "ced4c589-d194-4c12-9a96-398086940367",
+      "mbids": [
+        "ced4c589-d194-4c12-9a96-398086940367"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1671518",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "ced4c589-d194-4c12-9a96-398086940367",
+      "nameInSource": "Into Eternity",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "1997",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "994e7dce-857f-33ee-99ca-61e1bb00d88f",
+          "title": "Into Eternity",
+          "firstReleaseDate": "1999",
+          "releaseId": "71249e4c-cabe-4843-b6a1-77f692ac4880",
+          "editionTitle": "Into Eternity",
+          "editionDate": "1999",
+          "country": "CA",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "2c887b54-3f32-340c-94ff-20f89f292aa3",
+              "recordingId": "b478752d-e574-4608-8a65-a98f5da7817e",
+              "title": "Torn",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 333000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "7e3cd6ed-cec8-3a4a-ad47-5327db1cc1d7",
+              "recordingId": "6cf13762-1954-4f24-bdee-c6d136bc2937",
+              "title": "Sorrow",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 229000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "402de49e-2f56-368f-bbc2-3341cd486378",
+              "recordingId": "3d0bd1f5-1a60-44a1-9506-dd7523fc8fd8",
+              "title": "Left Behind",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 195000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "f39fbe19-cccc-3bf5-896c-445913a2512c",
+              "recordingId": "be1d094e-9fb4-4e41-8f78-1ec507cdaa1c",
+              "title": "The Modern Day",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 294000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "048ab86a-7106-32fe-927e-4cd10eb7e539",
+              "recordingId": "36092090-1f8d-47f4-970d-f2a50c8f50fb",
+              "title": "A Frozen Escape",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 232000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "2e881161-e9aa-312b-95fc-a3e6ddeaa3b6",
+              "recordingId": "83c4a903-c94a-496f-8c0c-ee9a2bffb914",
+              "title": "Behind the Disguise",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 255000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "7a5473a7-d7f1-3b30-b882-adc153b7e99a",
+              "recordingId": "9e16488c-06f2-4ceb-96a0-a3c893917718",
+              "title": "Holding Onto Emptiness",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 292000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "ea7f7ba9-1e37-396a-b55a-dc605ed38644",
+              "recordingId": "feb45761-bb84-4b85-98ef-b4b9d567984f",
+              "title": "Into Eternity",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 248000,
+              "artistCredit": "Into Eternity"
+            },
+            {
+              "id": "80aba5ea-8736-3950-ab29-1fb95435c177",
+              "recordingId": "74b694ef-3d5a-4b9a-b363-fa336ca1c1ad",
+              "title": "Speak of the Dead",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 237000,
+              "artistCredit": "Into Eternity"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/ced4c589-d194-4c12-9a96-398086940367?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:33:58.983Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Lisa Mitchell",
+      "wikipedia": "Lisa Mitchell",
+      "wikidataId": "Q460496",
+      "mbid": "d00c1b10-04f0-49eb-b9ff-315093c0b25f",
+      "mbids": [
+        "d00c1b10-04f0-49eb-b9ff-315093c0b25f"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q460496",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "d00c1b10-04f0-49eb-b9ff-315093c0b25f",
+      "nameInSource": "Lisa Mitchell",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1990-03-22",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "9285e096-85a0-4e17-84c0-3f3c5a893128",
+          "title": "Wonder",
+          "firstReleaseDate": "2009-07-14",
+          "releaseId": "56291df6-c9c5-471c-9871-c6d7b970d1c4",
+          "editionTitle": "Wonder",
+          "editionDate": "2009-07-14",
+          "country": "AU",
+          "barcode": "9340650004494",
+          "tracks": [
+            {
+              "id": "aa7d62dc-5596-315c-bbc2-7568d152d8d9",
+              "recordingId": "9c1dd89f-467f-4287-b32b-96447d19eb57",
+              "title": "Oh What a Beautiful Morning",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 46453,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "78e5b7e7-b233-3d0d-b2d0-080dfdd3f753",
+              "recordingId": "60fdbdd6-ab09-4d11-9eb5-34836347b89f",
+              "title": "Neopolitan Dreams",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 193946,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "221b5344-70f8-34c6-a404-78c43479ac14",
+              "recordingId": "59bc73d6-1c78-4ec4-a1df-5a704e1aa580",
+              "title": "So Jealous",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 227720,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "bfa1ba85-c8c6-34ff-ade1-dafc1297f904",
+              "recordingId": "ac313f0b-0ee0-42a3-b75a-f32938eec14b",
+              "title": "Coin Laundry",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 191773,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "31fec4fe-d036-3778-a20c-de2954478623",
+              "recordingId": "b7c123ec-0884-4d3a-8dfd-6b0a910717a8",
+              "title": "Clean White Love",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 227586,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "da24bb38-c8f0-39a8-889d-edb51ff31c6a",
+              "recordingId": "a1cfd173-2e69-426b-a929-fcbd26a6c2c4",
+              "title": "Pirouette",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 306053,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "f496e26d-091a-3ac6-9b45-4d2a37f944cc",
+              "recordingId": "c909dccb-7934-44c9-98a3-fda08ce5b059",
+              "title": "Love Letter",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 244226,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "b9e9d997-3042-3bc2-9d8b-6aacc73d5eb9",
+              "recordingId": "96962861-d014-40a2-b8dc-f00fef5777b2",
+              "title": "Oh! Hark!",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 271880,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "43e199a1-d5b2-350a-ba00-420c6ce4cdd4",
+              "recordingId": "6cfcdd83-de6f-43fb-9d45-efb2d65bc839",
+              "title": "Red Wine Lips",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 205466,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "c891ae10-0315-30b0-bbc8-9c3d52706d07",
+              "recordingId": "018ece11-4525-466c-a17c-78361d5adda7",
+              "title": "Sidekick",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 247146,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "562cad2a-3bd7-3f0e-83f4-82a3ba842f25",
+              "recordingId": "bbf9242d-a288-4331-bf6a-88f40900bd15",
+              "title": "Stevie",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 293653,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "65d813f1-d155-362c-9e24-4f77382e0066",
+              "recordingId": "a051b865-f38a-4701-b21e-4d990d0c4883",
+              "title": "Animals",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 222120,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "87c54ab5-d7ec-3a7e-ba18-978604bd4298",
+              "recordingId": "19803594-56bd-4eff-8022-bb624e76adf7",
+              "title": "Valium",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 240493,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "f2ce60c8-745f-3ab6-9e8d-c6b25b1a28fa",
+              "recordingId": "0ed2fcff-f077-46f5-85b5-aabfdccd7d21",
+              "title": "Heroine",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 224800,
+              "artistCredit": "Lisa Mitchell"
+            },
+            {
+              "id": "d9d12fa2-e5cf-3862-9044-12dee7acb314",
+              "recordingId": "56462810-0602-4939-938a-0f1423c2abf8",
+              "title": "Time Means Nothing at All",
+              "position": 15,
+              "disc": 1,
+              "number": "15",
+              "lengthMs": 226760,
+              "artistCredit": "Lisa Mitchell"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/d00c1b10-04f0-49eb-b9ff-315093c0b25f?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:34:17.279Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Sean Dunphy",
+      "wikipedia": "Sean Dunphy",
+      "wikidataId": "Q2276029",
+      "mbid": "d11ea6d4-3725-4027-b6cf-5397aef82561",
+      "mbids": [
+        "d11ea6d4-3725-4027-b6cf-5397aef82561"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q2276029",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "d11ea6d4-3725-4027-b6cf-5397aef82561",
+      "nameInSource": "Sean Dunphy",
+      "entityType": "Person",
+      "area": "Ireland",
+      "begin": "1937-11-30",
+      "end": "2011-05-17",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "554d9efd-ce64-4253-85cc-77ca044e3794",
+          "title": "The Very Best of",
+          "firstReleaseDate": "2007",
+          "releaseId": "f398bce0-2766-4803-8415-3d2be9342d82",
+          "editionTitle": "The Very Best of",
+          "editionDate": "2007",
+          "country": "IE",
+          "barcode": "5099343401181",
+          "tracks": [
+            {
+              "id": "187081ea-0f35-492d-9c5f-d5a7044a04b5",
+              "recordingId": "b2ae50c4-52a2-4bf6-92c0-9fedca4f632b",
+              "title": "The Lonely Woods of Upton",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 196573,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "1718d62f-3f78-4b7e-95ac-e1acdd49af1d",
+              "recordingId": "3908c8c9-8e09-42a4-a209-06a6727d0cef",
+              "title": "When the Fields Are White with Daisies",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 190613,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "c030950e-dc6f-420e-9ea5-55fc6515ddf9",
+              "recordingId": "5dfb6a81-1965-41e5-b4b7-e7be7814974c",
+              "title": "Skibbereen",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 171506,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "74c66f15-cb9c-4012-8ffe-2bcb30ff3ec5",
+              "recordingId": "16702547-fac6-4ab9-bf33-7cd01b0ee7f5",
+              "title": "Two Loves",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 227440,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "a16cc9d5-3b9b-4d99-a0db-76d59f2cd414",
+              "recordingId": "cd7d14be-6cdd-4c4f-9125-ca4490d9fe0c",
+              "title": "St. Therese of the Roses",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 182866,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "fff07f28-ca21-445b-832e-68f1a2fad7ed",
+              "recordingId": "e05f5f83-4059-4bcb-987e-23681703f5f9",
+              "title": "Valley of Knockanure",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 191146,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "ec07b7ec-07d8-4988-9b57-74cbec1fedfc",
+              "recordingId": "807e25cd-e4bc-45ef-88a4-44ce0fa4a99d",
+              "title": "Sleeping Beauty",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 300226,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "a781ba89-1af5-4d1d-99f7-9dae71d12633",
+              "recordingId": "0323ca7b-1a5b-4aa1-99a9-09140f2b055e",
+              "title": "The Old Refrain",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 176693,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "cedb3952-f892-4ac5-abde-7f0385463c04",
+              "recordingId": "72e0a272-d011-4864-94a4-550cb7255a34",
+              "title": "The Rose of Mooncoin",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 163466,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "fd64e27d-ad40-4bc4-8e1f-394fb2e1a191",
+              "recordingId": "947f85c2-644c-42e7-96ef-a1ebbc68373d",
+              "title": "A Bunch of Violets Blue",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 180040,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "d686706a-d209-4537-8852-68498c2aa5fb",
+              "recordingId": "f0507915-9fdd-4708-8d82-69096c89628d",
+              "title": "The Old Bog Road",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 189960,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "e6d28175-bf4b-4396-b83e-b1744609ab74",
+              "recordingId": "5880c6ea-ac21-4f67-9fe1-d284fef0f347",
+              "title": "The Rose of Oranmore",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 132440,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "2c0ff339-2914-47d1-bd65-d7c4bb8f3a1a",
+              "recordingId": "3f498412-31d4-44c3-ae8a-00b99f708ed7",
+              "title": "Shall My Soul Pass Through Old Ireland",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 177933,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "016308e2-ab9f-4133-8354-db891b4ad374",
+              "recordingId": "949c4fbc-e088-4d76-b65b-84df7c9549f5",
+              "title": "Pal of My Cradle Days",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 211293,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "dac273c9-d407-456b-a3cb-69a2dde069ff",
+              "recordingId": "e79d079c-6036-4377-9882-df302e51871d",
+              "title": "Rosie",
+              "position": 15,
+              "disc": 1,
+              "number": "15",
+              "lengthMs": 157253,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "1a6b7838-b99b-4897-a2a5-1337f6a62a62",
+              "recordingId": "02ebb687-e12f-48c6-a581-8846f1c82c4d",
+              "title": "Mountains of Mourne",
+              "position": 16,
+              "disc": 1,
+              "number": "16",
+              "lengthMs": 240933,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "8ca99619-1764-4158-a105-43274c6cb78d",
+              "recordingId": "ecb4b2ac-bb73-4a86-af68-cc4eae7e2a11",
+              "title": "I'll Remember Your Love in My Prayers",
+              "position": 17,
+              "disc": 1,
+              "number": "17",
+              "lengthMs": 187586,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "3a553a1f-d11b-4d46-9f70-9a7225991e7a",
+              "recordingId": "901b14d3-5b47-41bd-b4e3-33d858aa565c",
+              "title": "Delaney's Donkey",
+              "position": 18,
+              "disc": 1,
+              "number": "18",
+              "lengthMs": 154653,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "0eac699d-2d05-487f-821e-dabea68f7ba7",
+              "recordingId": "022a0176-d038-412c-bc80-051bb53b9601",
+              "title": "Boolavogue",
+              "position": 19,
+              "disc": 1,
+              "number": "19",
+              "lengthMs": 181293,
+              "artistCredit": "Sean Dunphy"
+            },
+            {
+              "id": "ff90c351-0745-494c-a996-2a5403e2adbc",
+              "recordingId": "38d5e4d1-9aa7-44c8-92f8-94bace4622b6",
+              "title": "The Golden Jubilee",
+              "position": 20,
+              "disc": 1,
+              "number": "20",
+              "lengthMs": 164453,
+              "artistCredit": "Sean Dunphy"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/d11ea6d4-3725-4027-b6cf-5397aef82561?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:34:25.125Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Hawk Nelson",
+      "wikipedia": "Hawk Nelson",
+      "wikidataId": "Q1034544",
+      "mbid": "d176915b-71d9-49ca-ba47-da52d46d0e4a",
+      "mbids": [
+        "d176915b-71d9-49ca-ba47-da52d46d0e4a"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1034544",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "d176915b-71d9-49ca-ba47-da52d46d0e4a",
+      "nameInSource": "Hawk Nelson",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "2003",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "b84d7225-ade8-3e90-b867-6d0496cdbb06",
+          "title": "Saturday Rock Action",
+          "firstReleaseDate": "2003-05-01",
+          "releaseId": "abf60b3d-ff06-452b-9be9-c1daa26c93ff",
+          "editionTitle": "Saturday Rock Action",
+          "editionDate": "2003-05-01",
+          "country": "CA",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "3f59a2cb-a91c-3b60-98c5-1ac60c6b49e0",
+              "recordingId": "e1fc6923-cfd9-4b9e-a9d9-f24e01eba713",
+              "title": "The Grand Introduction",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 45053,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "b49ec7b1-40f4-3b7b-9e1c-196de4ea7746",
+              "recordingId": "ecd481b3-cd1a-46f9-87d9-77a8031f948e",
+              "title": "Overwhelmed",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 127826,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "0c0e1f3f-567d-3759-8916-3a449bda76de",
+              "recordingId": "22eedde5-cd5b-4f55-97fe-ee839e28021f",
+              "title": "Eighty‐Six That (Anthem)",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 221813,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "347df534-fb55-3e09-b0e8-d2e18fd846e7",
+              "recordingId": "2c06c330-267e-4419-be7f-c82df079667b",
+              "title": "As I Was",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 207720,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "3d4516d8-64b5-3907-9095-150225f0086a",
+              "recordingId": "455e8e45-4f3e-4b5e-b8d3-599d9c0d7fe3",
+              "title": "Jason’s Song",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 169653,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "7f900899-b563-38b8-b4ad-420f593f663e",
+              "recordingId": "c0b02ec5-3865-45c9-91fc-695f22ac4bc4",
+              "title": "Sheridan",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 203320,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "7fd30219-7229-39c4-8013-b59a22e51c67",
+              "recordingId": "b9147b6b-8036-478f-b862-809f255d7607",
+              "title": "Return to Me",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 210146,
+              "artistCredit": "Hawk Nelson"
+            },
+            {
+              "id": "7f980005-771b-3d30-b0a4-c1394c2463e6",
+              "recordingId": "9fe76008-0284-4501-a073-83e4fa9960ed",
+              "title": "Sheridan (acoustic)",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 187467,
+              "artistCredit": "Hawk Nelson"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/d176915b-71d9-49ca-ba47-da52d46d0e4a?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:34:39.716Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Anthony Callea",
+      "wikipedia": "Anthony Callea",
+      "wikidataId": "Q2852832",
+      "mbid": "d915a89a-a4ec-4dc0-8ce6-c234581cb3e9",
+      "mbids": [
+        "d915a89a-a4ec-4dc0-8ce6-c234581cb3e9"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q2852832",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "d915a89a-a4ec-4dc0-8ce6-c234581cb3e9",
+      "nameInSource": "Anthony Callea",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1982-12-13",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "68f034ff-9a1d-32e4-ad2f-896ad11bd8c9",
+          "title": "Anthony Callea",
+          "firstReleaseDate": "2005-03-25",
+          "releaseId": "2f0ea462-3ca9-4c6b-9320-0685115e7040",
+          "editionTitle": "Anthony Callea",
+          "editionDate": "2005",
+          "country": null,
+          "barcode": "828766780529",
+          "tracks": [
+            {
+              "id": "2ef2b331-19e7-4db0-a836-02555e60d7f4",
+              "recordingId": "5a5cc870-9f68-411b-ba9a-51cb88786610",
+              "title": "The Prayer",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 255360,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "26da3071-38b5-4ea4-8f0f-ed3177c45715",
+              "recordingId": "009a5257-e7c1-4d2d-ac1f-ecd6e77cb35a",
+              "title": "Rain",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 228986,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "17336720-29ca-445b-8f0f-d94757431826",
+              "recordingId": "2fe3c457-0718-488c-ae02-7378c6cfcfe9",
+              "title": "Hurts So Bad",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 185653,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "651e7dbd-b01c-437a-bcdb-de2f9fe272f1",
+              "recordingId": "334e7907-5466-446e-a185-ad99cb3348bd",
+              "title": "When I Get There",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 242120,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "f35f1620-6a37-43c7-84a6-c2fd748628d7",
+              "recordingId": "b720e9cb-93b5-4744-a610-38ea8f9a04e8",
+              "title": "Obvious",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 219253,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "a5bf1d5d-57f1-47e9-a1f9-191c535f8ed5",
+              "recordingId": "5c86c338-ab84-437f-af42-9833d9696666",
+              "title": "Per Sempre (For Always)",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 232200,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "a872e037-38b2-4052-9092-a4eb1bb37a02",
+              "recordingId": "9e0fe265-ee7f-47c9-b9e1-95acff92a635",
+              "title": "Lost in Summer",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 212893,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "ef11e5f9-b222-472c-b18f-89b7ca944edf",
+              "recordingId": "6ef5f622-07e4-4ce7-9565-05890575704f",
+              "title": "I Want You",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 259986,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "f5cf5e7f-206a-436f-b936-c9b116493a99",
+              "recordingId": "bf1b793f-08ac-4aa1-b983-38cabe729d57",
+              "title": "When You Were My Girl",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 272360,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "e17b0907-1519-4fca-b720-349587d682fb",
+              "recordingId": "edad9a09-d079-4012-8570-4b8c68ed00c5",
+              "title": "Take It to the Heart",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 230880,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "6c8eefbb-adf5-44b7-a412-c6770de387bd",
+              "recordingId": "6cc42329-2a3d-465f-8d55-a8d286d78db3",
+              "title": "Into Your Heart",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 275840,
+              "artistCredit": "Anthony Callea"
+            },
+            {
+              "id": "20d12485-8b6e-4daf-bbdc-17f32e63f339",
+              "recordingId": "feb74455-1d58-47ef-a17c-9d1e1b61fcd4",
+              "title": "Bridge Over Troubled Water",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 237013,
+              "artistCredit": "Anthony Callea"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/d915a89a-a4ec-4dc0-8ce6-c234581cb3e9?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:34:59.213Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Pseudo Echo",
+      "wikipedia": "Pseudo Echo",
+      "wikidataId": "Q1780510",
+      "mbid": "dc1492bc-2aab-4c59-92bc-2b030f781a05",
+      "mbids": [
+        "dc1492bc-2aab-4c59-92bc-2b030f781a05"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1780510",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "dc1492bc-2aab-4c59-92bc-2b030f781a05",
+      "nameInSource": "Pseudo Echo",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1982",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "dd6473b6-1079-3db3-b8b0-e6190af58536",
+          "title": "Autumnal Park",
+          "firstReleaseDate": "1984",
+          "releaseId": "f5ddf1c3-9743-4431-92e8-d6ed50d0b16e",
+          "editionTitle": "Autumnal Park",
+          "editionDate": "1984",
+          "country": "GB",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "1839bdfd-7c90-31ed-8e57-b0230e79bde8",
+              "recordingId": "9886aa14-0f4a-4068-bedf-218e5d769bb7",
+              "title": "A Beat for You",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 221000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "1303f628-71cd-3e8a-9e62-be8ecf78b8ec",
+              "recordingId": "3d3bced5-11a4-4d93-a472-8a5541019040",
+              "title": "See Through",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 210000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "3ee9f90b-43d7-3424-af63-85b21f019c1b",
+              "recordingId": "0be7a055-1465-427f-841b-cc6422b558fd",
+              "title": "From the Shore",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 284000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "c2612f80-b043-3359-8665-aea12501723f",
+              "recordingId": "dcd1e005-f4f3-47ea-ade0-66133610fdff",
+              "title": "Stranger in Me",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 259000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "fa8219f8-e94e-316a-8ba7-1e8340c82f40",
+              "recordingId": "2d91730c-5128-41b1-badf-1cd93d4f90c8",
+              "title": "Dancing Until Midnight",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 262000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "24378b55-5b1f-3bcd-9cad-174eb5e835d9",
+              "recordingId": "e22767d9-696a-4d4d-93b4-af36db0acbb2",
+              "title": "Listening",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 178000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "6984cf4b-ab2f-377e-add1-cff9e0eda9d2",
+              "recordingId": "10104ba3-3b80-41f4-8fc2-0457baa2e74d",
+              "title": "His Eyes",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 275000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "40847533-d2e9-3a5f-acac-1c9a93f6ea45",
+              "recordingId": "db1015e4-c985-4793-ad8e-aea31decc5c0",
+              "title": "Walkaway",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 232000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "bf5289e3-ece5-3765-b6d1-202f1dbfaac7",
+              "recordingId": "4cbc8673-2bae-45c3-acf5-a187d8ba8257",
+              "title": "Fast Cars",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 261000,
+              "artistCredit": "Pseudo Echo"
+            },
+            {
+              "id": "8c5ecae6-25b2-300c-8b30-1129934e8cda",
+              "recordingId": "7ddb7196-d6dd-41bc-a1b9-c460dec1c780",
+              "title": "Destination Unknown",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 298000,
+              "artistCredit": "Pseudo Echo"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/dc1492bc-2aab-4c59-92bc-2b030f781a05?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:35:13.553Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Natalie Bassingthwaighte",
+      "wikipedia": "Natalie Bassingthwaighte",
+      "wikidataId": "Q1837039",
+      "mbid": "e1cbcc15-5890-4b88-877d-1bb97e75ebcb",
+      "mbids": [
+        "e1cbcc15-5890-4b88-877d-1bb97e75ebcb"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1837039",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "e1cbcc15-5890-4b88-877d-1bb97e75ebcb",
+      "nameInSource": "Natalie Bassingthwaighte",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1975-09-01",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "76ec5557-bd9e-37ba-bdb0-b52ca5156c08",
+          "title": "1000 Stars",
+          "firstReleaseDate": "2009-02-21",
+          "releaseId": "34f92ab0-b354-41ab-a328-99a14c582e67",
+          "editionTitle": "1000 Stars",
+          "editionDate": "2009-02-21",
+          "country": "AU",
+          "barcode": "0886974617426",
+          "tracks": [
+            {
+              "id": "9a621b3e-5b75-32d6-8eff-8c04213da11b",
+              "recordingId": "5d0f8bcf-3174-40cf-85ba-28845f4ff150",
+              "title": "Catch Me If You Can",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 214693,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "8e0f15c1-42b3-398a-b45c-d96b59f7c296",
+              "recordingId": "cf91fdaf-04d8-4551-84b1-ea8552b86ef6",
+              "title": "Someday Soon",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 252586,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "4ed74c18-fc33-32a0-82ac-97bc0192a8e4",
+              "recordingId": "4687af38-8a1e-41e9-bc65-8d1f92653e25",
+              "title": "1000 Stars",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 240453,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "701440f0-dbff-3bff-a5dd-237d255a4020",
+              "recordingId": "dec8d832-8b22-4105-85e0-77e54364d59f",
+              "title": "Alive",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 212426,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "f8d489f5-4583-3d1f-8e0c-1e43bd6adad1",
+              "recordingId": "2ade3267-7adc-43e7-b893-fd4b1fc972f5",
+              "title": "Not for You",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 208653,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "248c1c13-f36d-3217-ac3d-c9b7dbe1d68a",
+              "recordingId": "22fd794f-38df-435d-8f23-24a3b792183f",
+              "title": "Feel the Flow",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 208026,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "816f49e2-bd53-3a58-90c8-683f29378227",
+              "recordingId": "32f74d3e-8b43-4b63-8696-3844e51128bb",
+              "title": "Could You Be Loved",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 263213,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "fd5d90c1-2248-3f9f-8992-711ad911ec55",
+              "recordingId": "15156062-91d6-4e2b-b68a-c5be5b6a6a1f",
+              "title": "Supersensual",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 223946,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "25b5e150-f9d9-39b1-9c81-d629e49c6a8a",
+              "recordingId": "50c6d5f4-477b-4c52-9a46-1b959a32c79d",
+              "title": "Why Do I",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 232573,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "e10d755e-30c3-3c9a-8df1-fb8f88a20c87",
+              "recordingId": "619a439c-2260-4ae8-88f3-5f00f929cdfd",
+              "title": "Turn the Lights On",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 257160,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "eedef78b-f906-3814-a94f-a43409c32807",
+              "recordingId": "2118138d-2e1f-4b2d-ae22-1aa66eb660b7",
+              "title": "This Can’t Be Love",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 242573,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "00931133-b2f7-3440-aa58-7383e16d6718",
+              "recordingId": "d14bd2c7-c512-4b9e-a120-f08d99ba680d",
+              "title": "Superhuman",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 264373,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "17ce6fab-1a39-3905-859d-8a00b9de98bc",
+              "recordingId": "0adc5ab5-7142-4940-b19a-f4d17f0013ce",
+              "title": "Love Like This",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 235813,
+              "artistCredit": "Natalie Bassingthwaighte"
+            },
+            {
+              "id": "64dbc44a-8e61-3bbc-a904-aeeefdbb38cc",
+              "recordingId": "6cde6aa7-a437-475e-9914-48b532877f75",
+              "title": "In His Eyes",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 227520,
+              "artistCredit": "Natalie Bassingthwaighte"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/e1cbcc15-5890-4b88-877d-1bb97e75ebcb?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:35:23.884Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "The Tragically Hip",
+      "wikipedia": "The Tragically Hip",
+      "wikidataId": "Q682030",
+      "mbid": "e86ab653-bec8-46f3-b4b6-a1a866919ef6",
+      "mbids": [
+        "e86ab653-bec8-46f3-b4b6-a1a866919ef6"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q682030",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "e86ab653-bec8-46f3-b4b6-a1a866919ef6",
+      "nameInSource": "The Tragically Hip",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "1983",
+      "end": "2016-08-20",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "96735e35-d64d-3d95-b638-5ad30a5fc113",
+          "title": "Up to Here",
+          "firstReleaseDate": "1989-08-30",
+          "releaseId": "143786fa-b0b1-40b8-91ce-addd7fa65328",
+          "editionTitle": "Up to Here",
+          "editionDate": "1989",
+          "country": "CA",
+          "barcode": "601215356427",
+          "tracks": [
+            {
+              "id": "11a20206-6aa0-36c1-953e-67e1976893eb",
+              "recordingId": "c42d3b99-4f80-496f-8b57-b67847d92fcf",
+              "title": "Blow at High Dough",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 277000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "d61257f7-7609-3f3c-9480-4ceccef42036",
+              "recordingId": "3535d92f-53b6-4128-9320-412567f391a4",
+              "title": "I’ll Believe in You (or I’ll Be Leaving You Tonight)",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 244000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "3b19da38-0d02-30d5-bfff-a53c946b3be8",
+              "recordingId": "ec3b16f2-5034-4f88-a34c-152b4a33b44a",
+              "title": "New Orleans Is Sinking",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 257000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "f633e1e2-522d-3e32-a69a-914129d52ee1",
+              "recordingId": "fe10febd-ab9f-4c4b-9584-54e23489bcf0",
+              "title": "38 Years Old",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 260000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "b7054397-2441-3122-ac3f-37512bf36a69",
+              "recordingId": "458b6685-1d80-429f-8c5b-bbe81cd8248f",
+              "title": "She Didn’t Know",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 213000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "60b744d0-fbe4-3180-a09e-3d384d31e66f",
+              "recordingId": "dc6405c9-890d-4f50-9b3b-b998583625cc",
+              "title": "Boots or Hearts",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 224000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "8ab0a594-45eb-32eb-883f-0ae445de93f4",
+              "recordingId": "f750f235-bb11-4631-ab8f-4862e0514f2f",
+              "title": "Everytime You Go",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 202000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "dafd5883-ee0e-37b4-8bee-4ffa2304f621",
+              "recordingId": "b5ceac6a-b31c-418a-918d-e57eb0489867",
+              "title": "When the Weight Comes Down",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 284000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "45b8d38c-3d4d-3c8b-bf2e-bfe82dc99b73",
+              "recordingId": "82a23d34-238f-480d-ab7b-83aa73bc199d",
+              "title": "Trickle Down",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 191000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "3cc0402d-c4ae-3003-85a6-bf407ae22b4b",
+              "recordingId": "f50ee6c7-0b75-43bc-940c-b6d4037ea598",
+              "title": "Another Midnight",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 236000,
+              "artistCredit": "The Tragically Hip"
+            },
+            {
+              "id": "f9cf9ec9-e2bc-3c16-be45-31180886b857",
+              "recordingId": "8fb852e9-5037-4d15-87d2-f9f44588b0c1",
+              "title": "Opiated",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 222000,
+              "artistCredit": "The Tragically Hip"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/e86ab653-bec8-46f3-b4b6-a1a866919ef6?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:35:38.320Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Psycroptic",
+      "wikipedia": "Psycroptic",
+      "wikidataId": "Q1259710",
+      "mbid": "e984de0f-7744-4f87-ac42-bed48b920842",
+      "mbids": [
+        "e984de0f-7744-4f87-ac42-bed48b920842"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q1259710",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "e984de0f-7744-4f87-ac42-bed48b920842",
+      "nameInSource": "Psycroptic",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1999",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "d51b7aab-4cad-33b5-84e1-f16054b81681",
+          "title": "The Isle of Disenchantment",
+          "firstReleaseDate": "2001-01",
+          "releaseId": "0000c9df-90a7-4755-a01e-f0560524103f",
+          "editionTitle": "The Isle of Disenchantment",
+          "editionDate": "2001-01",
+          "country": "AU",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "c0539c1c-531c-34ce-820d-ba3971a7617b",
+              "recordingId": "acd337f4-d1f5-43b4-bb17-4ac03054bf2d",
+              "title": "Carnival of Vulgarity",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 248053,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "4818051f-70c5-3601-8341-3f4917da3936",
+              "recordingId": "ca6e5283-f063-40be-8e38-bb746207a806",
+              "title": "The Sword of Uncreation",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 259360,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "911a71ea-3a7a-39da-9372-0cb9f4561d91",
+              "recordingId": "c58a1d53-186d-4de9-a768-977c4b71719e",
+              "title": "Condemned by Discontent",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 262960,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "2198ccb5-cd80-3a5f-a50d-d77976dd6673",
+              "recordingId": "a1e220b7-8aa2-477e-bbfa-78e1a2811613",
+              "title": "Netherworld Reality",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 202746,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "13d04e20-7301-3419-a817-de28a1f90ed4",
+              "recordingId": "79a9a48f-4c57-4834-8d07-f33a07716269",
+              "title": "The Isle of Disenchantment",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 205000,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "99fe7fac-fcfd-31f1-b94b-ee824e9f4d26",
+              "recordingId": "f152b523-4487-4c7e-8886-73b0d17b5239",
+              "title": "Of Dull Eyes Borne",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 303600,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "6ba7755c-4080-31dd-b768-8eb0475af311",
+              "recordingId": "e0acf2e5-aeba-4eb2-8186-cb1b8d125bcb",
+              "title": "Psycroptipath",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 362493,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "79520f32-5b78-3453-86b6-1d2ebbd1595d",
+              "recordingId": "a2a93807-17b2-4f2f-83c4-a545e3642b06",
+              "title": "Beneath the Ground We Dwell",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 179733,
+              "artistCredit": "Psycroptic"
+            },
+            {
+              "id": "74e460f6-a521-3155-b365-8c5f39eb5f0f",
+              "recordingId": "3449dc98-3044-4e40-814d-2825d02b9135",
+              "title": "The Labyrinth",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 325973,
+              "artistCredit": "Psycroptic"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/e984de0f-7744-4f87-ac42-bed48b920842?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:35:47.376Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Eric Bogle",
+      "wikipedia": "Eric Bogle",
+      "wikidataId": "Q543737",
+      "mbid": "ede97bcb-181b-4a3a-a939-b2c544193b5f",
+      "mbids": [
+        "ede97bcb-181b-4a3a-a939-b2c544193b5f"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q543737",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "ede97bcb-181b-4a3a-a939-b2c544193b5f",
+      "nameInSource": "Eric Bogle",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1944-09-23",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "dcf829e6-9d71-33a9-bd86-44c8ccd0d95b",
+          "title": "Now I’m Easy",
+          "firstReleaseDate": "1980",
+          "releaseId": "799a4621-5cbd-4120-bbcb-9462c63acc3b",
+          "editionTitle": "Now I’m Easy",
+          "editionDate": "1980",
+          "country": "AU",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "5ea65843-be57-4991-8eb5-639836efd193",
+              "recordingId": "fd9b283c-1d7d-415b-bfec-3bdbc810e7e1",
+              "title": "Now I’m Easy",
+              "position": 1,
+              "disc": 1,
+              "number": "A1",
+              "lengthMs": 248493,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "b7d0b105-046c-49da-bd9b-496d947c42c5",
+              "recordingId": "1a492770-ff31-475b-99ce-e739d6580f60",
+              "title": "Leaving Nancy",
+              "position": 2,
+              "disc": 1,
+              "number": "A2",
+              "lengthMs": 226173,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "b5d64d8c-e1ea-416e-9c38-4d933d73cedb",
+              "recordingId": "1afc470f-d8de-42ec-aecd-e745aaa83dde",
+              "title": "I Hate Wogs",
+              "position": 3,
+              "disc": 1,
+              "number": "A3",
+              "lengthMs": 178333,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "4004ecba-0d72-4d6c-97b8-1aa3adb3e47f",
+              "recordingId": "9467255a-5a10-401c-a9fb-bac8896da834",
+              "title": "No Man’s Land",
+              "position": 4,
+              "disc": 1,
+              "number": "A4",
+              "lengthMs": 284000,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "99fc8b55-2c64-491f-bf46-2abc8b17a5eb",
+              "recordingId": "8beae2ba-c4be-45dd-9580-2657383af6a7",
+              "title": "Leaving in the Morning",
+              "position": 5,
+              "disc": 1,
+              "number": "A5",
+              "lengthMs": 160000,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "e42493f6-5e10-4fd7-b3b4-0e61603460b6",
+              "recordingId": "28c4db68-ca99-453f-8097-8122f9832684",
+              "title": "Since Nancy Died",
+              "position": 6,
+              "disc": 1,
+              "number": "B1",
+              "lengthMs": 215493,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "ee4d5c06-f20f-48da-a51f-e80dbbba2887",
+              "recordingId": "c74adfac-9383-4049-81de-a5b585a23731",
+              "title": "The War Correspondent",
+              "position": 7,
+              "disc": 1,
+              "number": "B2",
+              "lengthMs": 236840,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "556c761b-830b-40f7-97af-3c0b134a2bd5",
+              "recordingId": "4993042c-7211-4f29-bcb1-06f2f9408ef9",
+              "title": "Song of the Whale",
+              "position": 8,
+              "disc": 1,
+              "number": "B3",
+              "lengthMs": 197160,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "29172efd-cce5-4152-88c3-becdf89300d5",
+              "recordingId": "84d3787b-0e96-4cae-b457-4282c9cb8388",
+              "title": "Front Row Cowboy",
+              "position": 9,
+              "disc": 1,
+              "number": "B4",
+              "lengthMs": 200506,
+              "artistCredit": "Eric Bogle"
+            },
+            {
+              "id": "b73346ea-29d1-407a-8633-240921c3c30e",
+              "recordingId": "b5687169-af46-4790-a9a6-e1f627ea9cd9",
+              "title": "The Band Played Waltzing Matilda",
+              "position": 10,
+              "disc": 1,
+              "number": "B5",
+              "lengthMs": 421000,
+              "artistCredit": "Eric Bogle"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/ede97bcb-181b-4a3a-a939-b2c544193b5f?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:35:56.548Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Purity Ring",
+      "wikipedia": "Purity Ring (band)",
+      "wikidataId": "Q4047660",
+      "mbid": "fdb53441-e5e6-4657-9aad-8dab672e1cdc",
+      "mbids": [
+        "fdb53441-e5e6-4657-9aad-8dab672e1cdc"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q4047660",
+      "sitelinks": 13,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "fdb53441-e5e6-4657-9aad-8dab672e1cdc",
+      "nameInSource": "Purity Ring",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "2010",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "83b05ad8-8359-49a7-bf84-fb876d807e29",
+          "title": "Shrines",
+          "firstReleaseDate": "2012-04-23",
+          "releaseId": "708e0bef-8e71-4b37-ad67-47d30cce8e1a",
+          "editionTitle": "Shrines",
+          "editionDate": "2012-04-23",
+          "country": null,
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "97ef2fc0-4c9d-4212-82b8-5ec797338e35",
+              "recordingId": "ed364deb-acbf-4f6e-b1f3-cf4b1433db3e",
+              "title": "cralwersout",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 190000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "974faefb-2827-4de1-86a7-cfce5965b4f6",
+              "recordingId": "b31565ab-7950-40c2-ba7a-0ec3d0098d2f",
+              "title": "fineshrine",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 210000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "905d40f7-cd32-4488-bb16-3680d432688f",
+              "recordingId": "ba59dafc-2dd3-48d9-9d68-3555eea653b8",
+              "title": "ungirthed",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 169000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "1198e475-e1dc-459c-b08d-542940671e9d",
+              "recordingId": "f877b6c8-e864-455f-a5d6-1648e144a4c1",
+              "title": "amenamy",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 207000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "4cec3196-3c4c-4799-9cba-d150a7c4c442",
+              "recordingId": "b458d1f0-9c22-4a32-94f0-dd62a76c97c6",
+              "title": "grandloves",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 273000,
+              "artistCredit": "Purity Ring / Young Magic"
+            },
+            {
+              "id": "6664c2dc-7bf1-4ef4-89c6-3f2eda4aa122",
+              "recordingId": "f155c8d8-1907-407f-a67c-50b8075edb4c",
+              "title": "cartographist",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 288000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "4425aba6-84cd-4a50-b868-345780a0ec7d",
+              "recordingId": "67b1d892-514c-4ce6-acaa-2db7f87f32dd",
+              "title": "belispeak",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 179000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "ef32a5e0-4a1c-4b7e-a0e5-b78f1863590e",
+              "recordingId": "bef5a531-24ee-46ed-98ff-ec4e2ffa377d",
+              "title": "saltkin",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 206000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "5be8e82a-e914-4086-acb0-8f55bed89db0",
+              "recordingId": "4fef0860-b96a-48dd-a474-6805c62a0ad5",
+              "title": "obedear",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 210000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "a7c105db-9966-4644-a519-234f30071b9e",
+              "recordingId": "f996c4d2-2fe6-4db0-8978-f862138a79d7",
+              "title": "lofticries",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 240000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "8a818b09-88ff-425b-a43e-0139168e04ce",
+              "recordingId": "1db8c548-dcc2-4614-a4cf-2157d155da3c",
+              "title": "shuck",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 129000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "e6db29fa-593f-49f0-87bb-5b22298a1e24",
+              "recordingId": "cee04ec9-664c-47a2-9830-1cb9e463ea74",
+              "title": "obedear (Extended)",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 290000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "dc963eb1-9aa6-4a35-a276-2d1756824f4d",
+              "recordingId": "e7f4d29a-7770-4cd9-a88a-7fd80a7791eb",
+              "title": "belispeak (Instrumental)",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 183000,
+              "artistCredit": "Purity Ring"
+            },
+            {
+              "id": "6e439ade-8e05-4d93-9c56-333770af15d1",
+              "recordingId": "05d2c6f7-499b-45c3-b98b-4f9ab2313606",
+              "title": "belispeak (Acapella)",
+              "position": 14,
+              "disc": 1,
+              "number": "14",
+              "lengthMs": 161000,
+              "artistCredit": "Purity Ring"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/fdb53441-e5e6-4657-9aad-8dab672e1cdc?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:36:08.935Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Divinyls",
+      "wikipedia": "Divinyls",
+      "wikidataId": "Q2663405",
+      "mbid": "01d8f486-874f-4914-a455-48446b7de51d",
+      "mbids": [
+        "01d8f486-874f-4914-a455-48446b7de51d"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q2663405",
+      "sitelinks": 12,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "01d8f486-874f-4914-a455-48446b7de51d",
+      "nameInSource": "Divinyls",
+      "entityType": "Group",
+      "area": "Australia",
+      "begin": "1981",
+      "end": "1996",
+      "ended": true,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "22336431-d21f-39b0-84fb-ab51e797eeab",
+          "title": "Desperate",
+          "firstReleaseDate": "1982",
+          "releaseId": "0b8e0a2e-390c-4e35-b148-fcc3efe10bea",
+          "editionTitle": "Desperate",
+          "editionDate": "1982",
+          "country": "AU",
+          "barcode": null,
+          "tracks": [
+            {
+              "id": "6bba15f1-21cd-3017-885d-49f6fe841c68",
+              "recordingId": "4962c705-2d4e-4f94-a67e-4aa6e36aa423",
+              "title": "Make U Happy",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 200533,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "1d1a56b2-6335-3680-a692-6b099a367ef0",
+              "recordingId": "5320dba3-4a95-4401-93ef-dacebc13941b",
+              "title": "Science Fiction",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 214066,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "1927a242-4244-3ccb-abf7-6b1f0862a562",
+              "recordingId": "5f83ae48-3261-476b-b6c6-e5f265ee187b",
+              "title": "Casual Encounter",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 196826,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "99a3ef2d-d4b4-3aee-8850-26e43b4bb0ad",
+              "recordingId": "032ce024-6062-40d1-a894-9a7921ce4999",
+              "title": "Victoria",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 204506,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "a72474ca-8f51-3975-bcb7-2fb10dd95029",
+              "recordingId": "efa9f0a8-616e-478a-86d7-e886d21ff95e",
+              "title": "Siren",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 152493,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "9c103aa4-0961-37d5-916a-d989138e88da",
+              "recordingId": "45a7a588-56ea-41fe-9382-98f1ab802225",
+              "title": "Motion",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 197373,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "30816e19-a29b-3c5c-a217-c861f639a518",
+              "recordingId": "bc5a434e-f2e6-466c-87ac-a67a7eb2af2e",
+              "title": "Ring Me Up",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 189933,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "c1831166-3d1d-33df-be4f-6007998554ad",
+              "recordingId": "0163b5de-ce11-4bee-95ea-f495d0f3dcb7",
+              "title": "Take a Chance",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 205493,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "c34d1317-42e3-366b-903d-4123b7c61776",
+              "recordingId": "6e869f3b-5d99-41c0-a817-fbd64ada510b",
+              "title": "Sahara Rock",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 158866,
+              "artistCredit": "Divinyls"
+            },
+            {
+              "id": "d1cad20a-2988-3845-97f9-2aa87d64e4f5",
+              "recordingId": "808c4a01-1b28-4354-b9f2-97bdace74b27",
+              "title": "Don't You Go Walking",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 371907,
+              "artistCredit": "Divinyls"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/01d8f486-874f-4914-a455-48446b7de51d?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:36:20.200Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Russell Hitchcock",
+      "wikipedia": "Russell Hitchcock",
+      "wikidataId": "Q3347393",
+      "mbid": "034d2431-0dec-4b41-887d-99d6ae01019c",
+      "mbids": [
+        "034d2431-0dec-4b41-887d-99d6ae01019c"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q3347393",
+      "sitelinks": 12,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "034d2431-0dec-4b41-887d-99d6ae01019c",
+      "nameInSource": "Russell Hitchcock",
+      "entityType": "Person",
+      "area": "Australia",
+      "begin": "1949-06-15",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "2019bb44-2a9a-3109-8569-0298fe35d962",
+          "title": "Russell Hitchcock",
+          "firstReleaseDate": "1988",
+          "releaseId": "541c1d45-086e-4262-8943-056f50cda40f",
+          "editionTitle": "Russell Hitchcock",
+          "editionDate": "1988",
+          "country": "JP",
+          "barcode": "4988017009550",
+          "tracks": [
+            {
+              "id": "dbe615a9-8eaa-45cf-af4d-e8ff17189c19",
+              "recordingId": "b5c4ff23-2005-4d5e-90b6-2b2441a2a32a",
+              "title": "Someone Who Believes in You",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 256093,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "2f348753-42bd-4b2f-844a-786e5c8fb4ce",
+              "recordingId": "5a4f5dc8-cfb8-48c8-8023-4e91bf1d4427",
+              "title": "The Sun Ain't Gonna Shine (Anymore)",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 220200,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "20cabbb6-8ed9-4fe4-8fa0-69dab8ceabb0",
+              "recordingId": "9db452a2-17ef-4a4c-b8a0-a05bee4ca714",
+              "title": "What Becomes of the Brokenhearted?",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 219373,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "80944d3f-e2ed-4e85-b61c-7462d6932d14",
+              "recordingId": "82f6133b-de72-45fb-b187-252a87ef7318",
+              "title": "I Come Alive",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 225666,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "f873e91d-98a4-4005-9e4b-52da7d5f55bf",
+              "recordingId": "357fbd2c-eb45-418c-875b-e9de4eb23b2a",
+              "title": "The River Cried",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 246000,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "f9d77522-bcae-4d0c-8832-5ecd7e015978",
+              "recordingId": "1b991abe-311a-4a57-a3ef-ff7699db4309",
+              "title": "Dreams of the Lonely",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 296360,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "800566f2-2f6c-49b4-9f4a-9464ecb52324",
+              "recordingId": "19834a8e-ba0f-4f4a-9c5d-1e641ca21fb4",
+              "title": "Best Intentions",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 270600,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "3cbcef97-c82f-4fc9-9030-b6b977ca015c",
+              "recordingId": "d408689f-1484-493a-a3b0-c7f67eb0797c",
+              "title": "I Can't Believe My Eyes",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 272773,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "545a8283-5ea4-4554-be1b-c7c4535a6e76",
+              "recordingId": "e65904d8-6730-4c52-90b0-7cdba777a1d7",
+              "title": "Where Did the Feeling Go?",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 229733,
+              "artistCredit": "Russell Hitchcock"
+            },
+            {
+              "id": "7e1ae159-ea78-4a96-9570-a4b63ca74729",
+              "recordingId": "5a06802a-624e-42bf-bf7f-d97dde32dbc8",
+              "title": "Make It Feel Like Home Again",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 217200,
+              "artistCredit": "Russell Hitchcock"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/034d2431-0dec-4b41-887d-99d6ae01019c?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:36:26.658Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Faber Drive",
+      "wikipedia": "Faber Drive",
+      "wikidataId": "Q609771",
+      "mbid": "098302e3-7240-4fc6-82da-ee5b92bf1037",
+      "mbids": [
+        "098302e3-7240-4fc6-82da-ee5b92bf1037"
+      ],
+      "selectionKind": "groups",
+      "sourceUrl": "https://www.wikidata.org/entity/Q609771",
+      "sitelinks": 12,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "098302e3-7240-4fc6-82da-ee5b92bf1037",
+      "nameInSource": "Faber Drive",
+      "entityType": "Group",
+      "area": "Canada",
+      "begin": "2005",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "3ce9a368-6585-3b62-a06b-8d37cb062327",
+          "title": "Seven Second Surgery",
+          "firstReleaseDate": "2007-05-01",
+          "releaseId": "7ac406c1-fa06-49df-9115-7f79ea3e84eb",
+          "editionTitle": "Seven Second Surgery",
+          "editionDate": "2007-05-01",
+          "country": "CA",
+          "barcode": "825396002229",
+          "tracks": [
+            {
+              "id": "c72c6842-c3a0-3feb-99e7-9351826249ce",
+              "recordingId": "6588762a-9987-4f72-b7b7-bc47dab61e33",
+              "title": "24 Story Love Affair",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 217173,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "5edadd8a-2827-30fd-b6da-ce6a70ed167d",
+              "recordingId": "553f81af-cb49-4312-909c-fb2dca89f48b",
+              "title": "Tongue Tied",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 210653,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "3d0813df-6187-3209-9e86-384bf109c83b",
+              "recordingId": "1addcc64-2de4-4b25-a540-6e94ad9ce642",
+              "title": "Second Chance",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 222093,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "bb8674de-4f8f-3300-a39a-ce7138388d32",
+              "recordingId": "66fef4ac-c923-45c5-a5c6-780e9c75d08e",
+              "title": "Sex and Love",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 180640,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "c0f7d68a-5214-32ea-b185-fa6214631035",
+              "recordingId": "1ca77c66-f172-4009-acc0-2fc860b2a9e4",
+              "title": "Sleepless Nights (Never Let Her Go)",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 205640,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "5c358be0-fbad-3cfe-8f3f-24ec6faea349",
+              "recordingId": "7cc74d18-e3c8-4002-9563-a009b6506b4d",
+              "title": "Killin' Me",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 205160,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "3a05ccea-9b4b-3116-bef3-b1758ecc342c",
+              "recordingId": "5357d98d-1b7b-4e00-aa83-5808cae05086",
+              "title": "When I'm With You",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 221040,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "d5ffb0fd-5683-302f-8b87-f96cfce530e3",
+              "recordingId": "bd81c3da-f198-4ec3-a0b5-c1039e85f9e5",
+              "title": "Summer Fades to Fall",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 201640,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "8f5698b7-76c2-313d-b729-42bff927e7e2",
+              "recordingId": "8bd07a59-8590-497d-8ade-32841ba1b83b",
+              "title": "Time Bomb",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 163400,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "58917039-214b-38d5-be75-50d92178c182",
+              "recordingId": "f2418b6d-f06e-4928-b652-7e387d3c4278",
+              "title": "Obvious",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 178720,
+              "artistCredit": "Faber Drive"
+            },
+            {
+              "id": "3ed4ffca-4ced-3998-9bd5-426b81537d69",
+              "recordingId": "e8ead0e0-e62f-44f2-a936-08592c4f0471",
+              "title": "You'll Make It",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 819373,
+              "artistCredit": "Faber Drive"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/098302e3-7240-4fc6-82da-ee5b92bf1037?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:36:36.444Z",
+      "rejectedEditions": []
+    },
+    {
+      "name": "Justin Sane",
+      "wikipedia": "Justin Sane",
+      "wikidataId": "Q377813",
+      "mbid": "0cef6684-17cd-40b2-83b5-216d819534d1",
+      "mbids": [
+        "0cef6684-17cd-40b2-83b5-216d819534d1"
+      ],
+      "selectionKind": "singers",
+      "sourceUrl": "https://www.wikidata.org/entity/Q377813",
+      "sitelinks": 12,
+      "genres": [],
+      "existingId": null,
+      "existingAlbums": [],
+      "requestedMbid": "0cef6684-17cd-40b2-83b5-216d819534d1",
+      "nameInSource": "Justin Sane",
+      "entityType": "Person",
+      "area": "United States",
+      "begin": "1973-02-21",
+      "end": null,
+      "ended": false,
+      "commonsImage": null,
+      "albums": [
+        {
+          "id": "e4ae78ec-6032-36cb-9aea-ffcee0641269",
+          "title": "Life, Love, and the Pursuit of Justice",
+          "firstReleaseDate": "2002-03-19",
+          "releaseId": "999ff57a-eb50-4a9e-b1b2-aeb975df22ee",
+          "editionTitle": "Life, Love, and the Pursuit of Justice",
+          "editionDate": "2002-03-19",
+          "country": "US",
+          "barcode": "648469001826",
+          "tracks": [
+            {
+              "id": "ecfb14a7-2e76-30a4-902f-2909afa5a633",
+              "recordingId": "8e19d009-2b2f-47d7-bb8a-feeb8a06ea81",
+              "title": "For Pat",
+              "position": 1,
+              "disc": 1,
+              "number": "1",
+              "lengthMs": 114840,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "e5f2ad10-a6ff-3e13-989e-346d7ebfbb17",
+              "recordingId": "6758ce94-71c0-4436-a1e0-85cc19aa5da0",
+              "title": "On the Streets Tonight",
+              "position": 2,
+              "disc": 1,
+              "number": "2",
+              "lengthMs": 192133,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "fa5bfa25-1748-3672-95f7-5c29a8677787",
+              "recordingId": "84d59632-1338-46e9-a4c5-7f16b30eed7e",
+              "title": "If It's Good for the Economy, I'm for It",
+              "position": 3,
+              "disc": 1,
+              "number": "3",
+              "lengthMs": 165813,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "3164b951-0868-30a1-9812-b65ed1666547",
+              "recordingId": "d83bd54a-d21a-4f7d-963b-981d90e06813",
+              "title": "61C Days Turned to Nights",
+              "position": 4,
+              "disc": 1,
+              "number": "4",
+              "lengthMs": 198333,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "0892dfd6-19a9-3582-941f-632040071819",
+              "recordingId": "df66f922-7739-48e3-a693-2f93a2d804cd",
+              "title": "The Youth of the Modern World",
+              "position": 5,
+              "disc": 1,
+              "number": "5",
+              "lengthMs": 211053,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "d284cc88-3acb-3afb-8ec6-3b5d49e67b85",
+              "recordingId": "51fd43e6-521e-43bf-8eaf-3893cdfe707c",
+              "title": "The Worst Case Scenario Survival Handbook",
+              "position": 6,
+              "disc": 1,
+              "number": "6",
+              "lengthMs": 165706,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "fb5aa1b0-889a-3783-b277-a94d2664b449",
+              "recordingId": "ca8f6911-ac8c-40ba-bec0-8a3c48f24d39",
+              "title": "The Critical Writing Assignment",
+              "position": 7,
+              "disc": 1,
+              "number": "7",
+              "lengthMs": 124266,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "5e5182fd-198f-3322-b6ad-f4a6a1bab390",
+              "recordingId": "2eb202f5-f7a9-4fff-8735-64c719c233e1",
+              "title": "We Found a Place (These Are the Days)",
+              "position": 8,
+              "disc": 1,
+              "number": "8",
+              "lengthMs": 191280,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "dd3fe05f-755b-3106-badb-a5f1a747e311",
+              "recordingId": "8357c86e-9e59-4702-9058-a7f49ca8f11f",
+              "title": "Thanks for the Letter (From a Kinder, Gentler America)",
+              "position": 9,
+              "disc": 1,
+              "number": "9",
+              "lengthMs": 141066,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "c89a3017-f945-3c3d-bb8d-02fcbbe024c7",
+              "recordingId": "0e93b8c1-abba-4c48-a617-ba5f4aad677d",
+              "title": "Cassette Deck, Road Trip, Grand Canyon",
+              "position": 10,
+              "disc": 1,
+              "number": "10",
+              "lengthMs": 138666,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "6ddbc5f0-19bc-375f-9b86-d8a2ef7591cf",
+              "recordingId": "86638a89-665b-4ae0-aeab-4068aaf4086f",
+              "title": "Where Has My Country Gone?",
+              "position": 11,
+              "disc": 1,
+              "number": "11",
+              "lengthMs": 166386,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "e3f50052-5838-306a-9446-cc12f17cfee5",
+              "recordingId": "7db24323-62ad-4f3b-9236-5b0a3ca87b5b",
+              "title": "College Avenue",
+              "position": 12,
+              "disc": 1,
+              "number": "12",
+              "lengthMs": 176066,
+              "artistCredit": "Justin Sane"
+            },
+            {
+              "id": "234993cc-2f7e-303e-9a3f-d76c7ded7f4a",
+              "recordingId": "d796119e-ce2c-47a4-a156-110c4f844a4c",
+              "title": "Tommy Gun",
+              "position": 13,
+              "disc": 1,
+              "number": "13",
+              "lengthMs": 188146,
+              "artistCredit": "Justin Sane"
+            }
+          ]
+        }
+      ],
+      "identitySourceUrl": "https://musicbrainz.org/ws/2/artist/0cef6684-17cd-40b2-83b5-216d819534d1?inc=aliases&fmt=json",
+      "collectedAt": "2026-10-26T20:36:44.445Z",
       "rejectedEditions": []
     }
   ],

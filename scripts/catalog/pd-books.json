@@ -165,6 +165,36 @@
       "rightsNote": "The 1897 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "rump-songs-1662",
+      "prefix": "Rump Songs/",
+      "title": "Rump Songs",
+      "year": 1662,
+      "editor": null,
+      "indexPage": "Rump Songs",
+      "sourceUrl": "https://en.wikisource.org/wiki/Rump_Songs",
+      "provider": "Wikisource",
+      "themes": ["Political song", "Historical song"],
+      "rights": "unconditional",
+      "rightsNote": "This 1662 collection (Rump: or an Exact Collection of the Choycest Poems and Songs Relating to the Late Times, 1639-1661) is credited to Alexander Brome (died 1666); every contributor died more than 330 years ago, so the text is in the public domain worldwide, and the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "army-navy-hymnal-1920",
+      "prefix": "The Army and Navy Hymnal/",
+      "title": "The Army and Navy Hymnal",
+      "year": 1920,
+      "editor": null,
+      "indexPage": "The Army and Navy Hymnal",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Army_and_Navy_Hymnal",
+      "provider": "Wikisource",
+      "themes": ["Hymn", "Sacred song"],
+      "rights": "author-death",
+      "rightsNote": "The 1920 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional and anonymous entries are public domain. Pages whose scan quality is below the proofread threshold are held for review.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }

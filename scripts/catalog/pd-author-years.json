@@ -610,5 +610,637 @@
   "Aphra Behn": {
     "deathYear": 1689,
     "source": "wikidata-Q231886"
+  },
+  "Simon-Joseph Pellegrin": {
+    "deathYear": 1745,
+    "source": "wikidata-Q3484170"
+  },
+  "Simon M. Yenn": {
+    "deathYear": 1938,
+    "source": "wikidata-Q21273248"
+  },
+  "Isaac Williams": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "P. J. Nicholas": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Eleanor Cecilia Donnelly": {
+    "deathYear": 1917,
+    "source": "wikidata-Q5354236"
+  },
+  "M. B. Marr": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Henry Athanasius Brann": {
+    "deathYear": 1921,
+    "source": "wikidata-Q16861437"
+  },
+  "Robert Spence Watson": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Henry Van Rensselaer": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Martin Luther": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Thomas Toke Lynch": {
+    "deathYear": 1871,
+    "source": "wikidata-Q18734959"
+  },
+  "Paul Gerhardt": {
+    "deathYear": 1676,
+    "source": "wikidata-Q76331"
+  },
+  "Frances Jane Crosby": {
+    "deathYear": 1915,
+    "source": "wikidata-Q257456"
+  },
+  "William Bright": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Oliver Wendell Holmes, Sr.": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "James Montgomery": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "William Chatterton Dix": {
+    "deathYear": 1898,
+    "source": "wikidata-Q2502394"
+  },
+  "Philip Doddridge": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Elizabeth Cecilia Clephane": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Fanny J. Crosby": {
+    "deathYear": 1915,
+    "source": "wikidata-Q257456"
+  },
+  "John Fawcett": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Reginald Heber": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Mary Artemisia Lathbury": {
+    "deathYear": 1913,
+    "source": "wikidata-Q15978364"
+  },
+  "John Bowring": {
+    "deathYear": 1872,
+    "source": "wikidata-Q332508"
+  },
+  "John Cennick": {
+    "deathYear": 1755,
+    "source": "wikidata-Q5605963"
+  },
+  "Elisha Albright Hoffman": {
+    "deathYear": 1929,
+    "source": "wikidata-Q5361764"
+  },
+  "Samuel Wolcott": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "James Arnold Blaisdell": {
+    "deathYear": 1957,
+    "source": "wikidata-Q6128035"
+  },
+  "Henry Alford": {
+    "deathYear": 1871,
+    "source": "wikidata-Q2698623"
+  },
+  "Norman Macleod": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Matthew Bridges": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Ina Duley Ogdon": {
+    "deathYear": 1964,
+    "source": "wikidata-Q20726604"
+  },
+  "Daniel Webster Whittle": {
+    "deathYear": 1901,
+    "source": "wikidata-Q5219062"
+  },
+  "John Henry Yates": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Rossiter Worthington Raymond": {
+    "deathYear": 1918,
+    "source": "wikidata-Q7369854"
+  },
+  "D. W. Whittle": {
+    "deathYear": 1901,
+    "source": "wikidata-Q5219062"
+  },
+  "George Washington Doane": {
+    "deathYear": 1859,
+    "source": "wikidata-Q15516193"
+  },
+  "William Walsham How": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Folliott Sandford Pierpoint": {
+    "deathYear": 1917,
+    "source": "wikidata-Q5464672"
+  },
+  "Hugh Stowell": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Godfrey Thring": {
+    "deathYear": 1903,
+    "source": "wikidata-Q5576557"
+  },
+  "Jeremiah Eames Rankin": {
+    "deathYear": 1903,
+    "source": "wikidata-Q6063263"
+  },
+  "Siegfried August Mahlmann": {
+    "deathYear": 1826,
+    "source": "wikidata-Q99881"
+  },
+  "Gerhard Tersteegen": {
+    "deathYear": 1769,
+    "source": "wikidata-Q67283"
+  },
+  "Samuel Francis Smith": {
+    "deathYear": 1895,
+    "source": "wikidata-Q7411414"
+  },
+  "William Gay Ballantine": {
+    "deathYear": 1937,
+    "source": "wikidata-Q16003539"
+  },
+  "Frederick John Gillman": {
+    "deathYear": 1949,
+    "source": "wikidata-Q18911801"
+  },
+  "Rudyard Kipling": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Daniel Crane Roberts": {
+    "deathYear": 1907,
+    "source": "wikidata-Q20726584"
+  },
+  "William Williams Pantycelyn": {
+    "deathYear": 1791,
+    "source": "wikidata-Q3397600"
+  },
+  "John Bakewell": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Thomas Hastings": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Joseph Henry Gilmore": {
+    "deathYear": 1918,
+    "source": "wikidata-Q20671397"
+  },
+  "Isabella S. Stephenson": {
+    "deathYear": 1890,
+    "source": "wikidata-Q20705006"
+  },
+  "Andrew Reed": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Marcus Morris Wells": {
+    "deathYear": 1895,
+    "source": "wikidata-Q6235372"
+  },
+  "Frances Ridley Havergal": {
+    "deathYear": 1879,
+    "source": "wikidata-Q275111"
+  },
+  "Edward William Blandy": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Lewis Hartsough": {
+    "deathYear": 1919,
+    "source": "wikidata-Q5792104"
+  },
+  "Henry Wadsworth Longfellow": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Horatius Bonar": {
+    "deathYear": 1889,
+    "source": "wikidata-Q1376133"
+  },
+  "Timothy Dwight": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Katherine Hankey": {
+    "deathYear": 1911,
+    "source": "wikidata-Q4952497"
+  },
+  "Jemima Thompson Luke": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Francis Harold Rowley": {
+    "deathYear": 1954,
+    "source": "wikidata-Q20726558"
+  },
+  "Thornton Bigelow Penfield": {
+    "deathYear": 1871,
+    "source": "wikidata-Q20726598"
+  },
+  "Charles Hutchinson Gabriel": {
+    "deathYear": 1932,
+    "source": "wikidata-Q5078567"
+  },
+  "Theodore Chickering Williams": {
+    "deathYear": 1915,
+    "source": "wikidata-Q7781731"
+  },
+  "Edmund Hamilton Sears": {
+    "deathYear": 1876,
+    "source": "wikidata-Q5339812"
+  },
+  "Mary Haughton Brown": {
+    "deathYear": 1918,
+    "source": "wikidata-Q19633605"
+  },
+  "Edward Hopper": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Bernard of Clairvaux": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Joseph Grigg": {
+    "deathYear": 1768,
+    "source": "wikidata-Q20680086"
+  },
+  "Thomas Benson Pollock": {
+    "deathYear": 1896,
+    "source": "wikidata-Q20726594"
+  },
+  "Cecil Frances Alexander": {
+    "deathYear": 1895,
+    "source": "wikidata-Q3364640"
+  },
+  "Charlotte Elliott": {
+    "deathYear": 1871,
+    "source": "wikidata-Q4946512"
+  },
+  "Will Lamartine Thompson": {
+    "deathYear": 1909,
+    "source": "wikidata-Q8002932"
+  },
+  "Ernest Warburton Shurtleff": {
+    "deathYear": 1917,
+    "source": "wikidata-Q20725128"
+  },
+  "Louis FitzGerald Benson": {
+    "deathYear": 1930,
+    "source": "wikidata-Q16029507"
+  },
+  "Thomas Kelly": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Mary C. D. Hamilton": {
+    "deathYear": 1943,
+    "source": "wikidata-Q20726653"
+  },
+  "Elizabeth Codner": {
+    "deathYear": 1919,
+    "source": "wikidata-Q20667172"
+  },
+  "William Hammond": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "John Reynell Wreford": {
+    "deathYear": 1881,
+    "source": "wikidata-Q20725122"
+  },
+  "Sister Mary Xavier": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "John Oxenham": {
+    "deathYear": 1941,
+    "source": "wikidata-Q8004585"
+  },
+  "Mary Ann Baker": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Julia Ward Howe": {
+    "deathYear": 1910,
+    "source": "wikidata-Q241299"
+  },
+  "Eliza E. Hewitt": {
+    "deathYear": 1920,
+    "source": "wikidata-Q4953885"
+  },
+  "Elizabeth Payson Prentiss": {
+    "deathYear": 1878,
+    "source": "wikidata-Q5363377"
+  },
+  "Ray Palmer": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Benjamin Schmolck": {
+    "deathYear": 1737,
+    "source": "wikidata-Q76303"
+  },
+  "George Heath": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Sarah Fuller Flower Adams": {
+    "deathYear": 1848,
+    "source": "wikidata-Q269879"
+  },
+  "Maxwell Newton Cornelius": {
+    "deathYear": 1893,
+    "source": "wikidata-Q18912054"
+  },
+  "Sabine Baring-Gould": {
+    "deathYear": 1924,
+    "source": "wikidata-Q1242472"
+  },
+  "Theodore T. Barker": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Katharine Lee Bates": {
+    "deathYear": 1929,
+    "source": "wikidata-Q2363035"
+  },
+  "Samuel Medley": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "William Boyd Carpenter": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Henry Williams Baker": {
+    "deathYear": 1877,
+    "source": "wikidata-Q7527223"
+  },
+  "Phillips Brooks": {
+    "deathYear": 1893,
+    "source": "wikidata-Q974734"
+  },
+  "Henry Burton": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Washington Gladden": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "F. B. P.": {
+    "deathYear": 1878,
+    "source": "wikidata-Q16858155"
+  },
+  "William Orcutt Cushing": {
+    "deathYear": 1902,
+    "source": "wikidata-Q5614416"
+  },
+  "Ellen K. Bradford": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Arthur Cleveland Coxe": {
+    "deathYear": 1896,
+    "source": "wikidata-Q4798289"
+  },
+  "Robert Grant": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "James Russell Lowell": {
+    "deathYear": 1891,
+    "source": "wikidata-Q449670"
+  },
+  "Phoebe Cary": {
+    "deathYear": 1871,
+    "source": "wikidata-Q1235042"
+  },
+  "William True Sleeper": {
+    "deathYear": 1904,
+    "source": "wikidata-Q20667577"
+  },
+  "Edward Henry Bickersteth": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Thomas Ken": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Alfred Tennyson": {
+    "deathYear": 1892,
+    "source": "wikidata-Q173869"
+  },
+  "Joseph of Thessalonica": {
+    "deathYear": 836,
+    "source": "wikidata-Q21198620"
+  },
+  "James Edmeston": {
+    "deathYear": 1867,
+    "source": "wikidata-Q6133310"
+  },
+  "Frank Marion Davis": {
+    "deathYear": 1896,
+    "source": "wikidata-Q5617903"
+  },
+  "Dorothy Ann Thrupp": {
+    "deathYear": 1847,
+    "source": "wikidata-Q4982698"
+  },
+  "Sylvanus Dryden Phelps": {
+    "deathYear": 1895,
+    "source": "wikidata-Q6048095"
+  },
+  "John Stainer": {
+    "deathYear": 1901,
+    "source": "wikidata-Q1388550"
+  },
+  "Robert Lowry": {
+    "deathYear": 1994,
+    "source": "wikidata-Q2158089"
+  },
+  "Josef Mohr": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "William Channing Gannett": {
+    "deathYear": 1923,
+    "source": "wikidata-Q18911249"
+  },
+  "William Fiske Sherwin": {
+    "deathYear": 1888,
+    "source": "wikidata-Q6174846"
+  },
+  "Knowles Shaw": {
+    "deathYear": 1878,
+    "source": "wikidata-Q6423420"
+  },
+  "George Croly": {
+    "deathYear": 1860,
+    "source": "wikidata-Q4241808"
+  },
+  "George Duffield": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Harriet Beecher Stowe": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "John Keble": {
+    "deathYear": 1866,
+    "source": "wikidata-Q955187"
+  },
+  "William W. Walford": {
+    "deathYear": 1850,
+    "source": "wikidata-Q20680157"
+  },
+  "Lydia Baxter": {
+    "deathYear": 1874,
+    "source": "wikidata-Q4937766"
+  },
+  "Samuel John Stone": {
+    "deathYear": 1900,
+    "source": "wikidata-Q284658"
+  },
+  "John of Damascus": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Lelia Naylor Morris": {
+    "deathYear": 1929,
+    "source": "wikidata-Q20726592"
+  },
+  "David": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Edna Randolph Worrell": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Johnson Oatman": {
+    "deathYear": 1922,
+    "source": "wikidata-Q6021677"
+  },
+  "Josiah Gilbert Holland": {
+    "deathYear": 1881,
+    "source": "wikidata-Q283094"
+  },
+  "Bernhard Severin Ingemann": {
+    "deathYear": 1862,
+    "source": "wikidata-Q583636"
+  },
+  "Edwin Smith Ufford": {
+    "deathYear": 1929,
+    "source": "wikidata-Q20669534"
+  },
+  "Ozora Stearns Davis": {
+    "deathYear": 1931,
+    "source": "wikidata-Q20671414"
+  },
+  "Priscilla Jane Owens": {
+    "deathYear": 1899,
+    "source": "wikidata-Q4971565"
+  },
+  "Gerard Moultrie": {
+    "deathYear": 1885,
+    "source": "wikidata-Q5550108"
+  },
+  "Anna Bartlett Warner": {
+    "deathYear": 1915,
+    "source": "wikidata-Q4766837"
+  },
+  "Joseph Medlicott Scriven": {
+    "deathYear": 1886,
+    "source": "wikidata-Q705227"
+  },
+  "Ada R. Habershon": {
+    "deathYear": 1918,
+    "source": "wikidata-Q4678294"
+  },
+  "John H. Sammis": {
+    "deathYear": 1919,
+    "source": "wikidata-Q6237069"
+  },
+  "Frank Mason North": {
+    "deathYear": 1935,
+    "source": "wikidata-Q20726585"
+  },
+  "Anna Louisa Walker Coghill": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Horatio Richmond Palmer": {
+    "deathYear": 1907,
+    "source": "wikidata-Q6033704"
+  },
+  "Joseph Hopkinson": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "Lena Guilbert Ford": {
+    "deathYear": 1918,
+    "source": "wikidata-Q6522106"
+  },
+  "Stoddard King": {
+    "deathYear": 1933,
+    "source": "wikidata-Q17581450"
+  },
+  "George Asaf": {
+    "deathYear": 1951,
+    "source": "wikidata-Q1565612"
+  },
+  "William S. Pitts": {
+    "deathYear": 1918,
+    "source": "wikidata-Q8018001"
+  },
+  "Walter Kittredge": {
+    "deathYear": null,
+    "source": "unresolved"
+  },
+  "John Huston Finley": {
+    "deathYear": null,
+    "source": "unresolved"
   }
 }

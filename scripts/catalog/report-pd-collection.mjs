@@ -22,6 +22,8 @@ const bookTitle = (id) => ({
   'catholic-hymns-1860': 'Catholic Hymns (1860)',
   'songs-french-canada-1909': 'Songs of French Canada (1909)',
   'national-ballad-song-1897': 'National Ballad and Song (1897)',
+  'rump-songs-1662': 'Rump Songs (1662)',
+  'army-navy-hymnal-1920': 'The Army and Navy Hymnal (1920)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>
