@@ -248,6 +248,68 @@
         "Orders of Worship",
         "First Lines of Hymns"
       ]
+    },
+    {
+      "id": "first-series-hymns-1853",
+      "prefix": "A First Series of Hymns and Songs/",
+      "title": "A First Series of Hymns and Songs",
+      "year": 1853,
+      "editor": null,
+      "indexPage": "A First Series of Hymns and Songs",
+      "sourceUrl": "https://en.wikisource.org/wiki/A_First_Series_of_Hymns_and_Songs",
+      "provider": "Wikisource",
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1853 collection is by Henry Formby (1816-1884), who died more than 140 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {},
+      "titlePath": "last",
+      "excludeTitles": [
+        "Catholic Hymns"
+      ]
+    },
+    {
+      "id": "songs-of-the-cowboys-1921",
+      "prefix": "Songs of the Cowboys (1921)/",
+      "title": "Songs of the Cowboys",
+      "year": 1921,
+      "editor": null,
+      "indexPage": "Songs of the Cowboys (1921)",
+      "sourceUrl": "https://en.wikisource.org/wiki/Songs_of_the_Cowboys_(1921)",
+      "provider": "Wikisource",
+      "themes": [
+        "Cowboy song",
+        "Folk"
+      ],
+      "rights": "author-death",
+      "rightsNote": "The 1921 published edition (collected by N. Howard Thorp) is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional entries are public domain.",
+      "maxSubpages": 0,
+      "authorOverrides": {},
+      "titlePath": "last",
+      "excludeTitles": [
+        "Acknowledgments"
+      ]
+    },
+    {
+      "id": "black-bird-songster-1840",
+      "prefix": "The Black-Bird Songster/",
+      "title": "The Black-Bird Songster",
+      "year": 1840,
+      "editor": null,
+      "indexPage": "The Black-Bird Songster",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Black-Bird_Songster",
+      "provider": "Wikisource",
+      "themes": [
+        "Scottish song",
+        "Songster"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every contribution in this 1840 songster predates modern copyright terms; any contributor died more than 130 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }

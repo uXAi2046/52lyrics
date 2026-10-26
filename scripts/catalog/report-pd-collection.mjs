@@ -24,6 +24,9 @@ const bookTitle = (id) => ({
   'national-ballad-song-1897': 'National Ballad and Song (1897)',
   'rump-songs-1662': 'Rump Songs (1662)',
   'army-navy-hymnal-1920': 'The Army and Navy Hymnal (1920)',
+  'first-series-hymns-1853': 'A First Series of Hymns and Songs (1853)',
+  'songs-of-the-cowboys-1921': 'Songs of the Cowboys (1921)',
+  'black-bird-songster-1840': 'The Black-Bird Songster (1840)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>
