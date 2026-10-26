@@ -27,6 +27,9 @@ const bookTitle = (id) => ({
   'first-series-hymns-1853': 'A First Series of Hymns and Songs (1853)',
   'songs-of-the-cowboys-1921': 'Songs of the Cowboys (1921)',
   'black-bird-songster-1840': 'The Black-Bird Songster (1840)',
+  'shropshire-lad-1896': 'A Shropshire Lad (1896)',
+  'man-from-snowy-river-1895': 'The Man from Snowy River and Other Verses (1895)',
+  'hood-poetical-1873': 'The Poetical Works of Thomas Hood (1873)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>

@@ -1246,5 +1246,13 @@
   "N. Howard Thorp": {
     "deathYear": 1940,
     "source": "wikidata-Q19665547"
+  },
+  "Alfred Edward Housman": {
+    "deathYear": 1936,
+    "source": "wikidata-Q351410"
+  },
+  "Banjo Paterson": {
+    "deathYear": 1941,
+    "source": "wikidata-Q436699"
   }
 }

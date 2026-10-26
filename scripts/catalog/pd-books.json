@@ -310,6 +310,60 @@
       "rightsNote": "Every contribution in this 1840 songster predates modern copyright terms; any contributor died more than 130 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "shropshire-lad-1896",
+      "prefix": "A Shropshire Lad/",
+      "title": "A Shropshire Lad",
+      "year": 1896,
+      "editor": null,
+      "indexPage": "A Shropshire Lad",
+      "sourceUrl": "https://en.wikisource.org/wiki/A_Shropshire_Lad",
+      "provider": "Wikisource",
+      "themes": [
+        "Song lyrics",
+        "Victorian song"
+      ],
+      "rights": "author-death",
+      "rightsNote": "A. E. Housman (1859-1936) died more than 89 years ago; his works entered the public domain in life-plus-70 jurisdictions in 2007, and the 1896 first edition is in the public domain in the United States. Entries credited to other hands are held unless their author died more than 70 years ago.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "man-from-snowy-river-1895",
+      "prefix": "The Man from Snowy River and Other Verses/",
+      "title": "The Man from Snowy River and Other Verses",
+      "year": 1895,
+      "editor": null,
+      "indexPage": "The Man from Snowy River and Other Verses",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Man_from_Snowy_River_and_Other_Verses",
+      "provider": "Wikisource",
+      "themes": [
+        "Bush ballad",
+        "Australian song"
+      ],
+      "rights": "author-death",
+      "rightsNote": "A. B. \"Banjo\" Paterson (1864-1941) died more than 84 years ago; his works entered the public domain in life-plus-70 jurisdictions in 2012, and the 1895 first edition is in the public domain in the United States. Entries credited to other hands are held unless their author died more than 70 years ago.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "hood-poetical-1873",
+      "prefix": "The Poetical Works of Thomas Hood/",
+      "title": "The Poetical Works of Thomas Hood",
+      "year": 1873,
+      "editor": null,
+      "indexPage": "The Poetical Works of Thomas Hood",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Thomas_Hood",
+      "provider": "Wikisource",
+      "themes": [
+        "Song lyrics",
+        "Victorian"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1873 collected edition is by Thomas Hood (1799-1845), who died more than 180 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }
