@@ -10,7 +10,10 @@
       "indexPage": "The Book of Scottish Song",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Book_of_Scottish_Song",
       "provider": "Wikisource",
-      "themes": ["Scottish song", "Folk"],
+      "themes": [
+        "Scottish song",
+        "Folk"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every contribution in this 1843 anthology predates modern copyright terms by more than a century; any contributor died at least 130 years ago, so the text is in the public domain worldwide (life+70 terms expired no later than 2020).",
       "maxSubpages": 560,
@@ -25,7 +28,10 @@
       "indexPage": "The Scottish Minstrel (First Series)",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Scottish_Minstrel_(First_Series)",
       "provider": "Wikisource",
-      "themes": ["Scottish song", "Folk"],
+      "themes": [
+        "Scottish song",
+        "Folk"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every contribution in this 1850 anthology predates modern copyright terms; any contributor died more than 130 years ago, so the text is in the public domain worldwide.",
       "maxSubpages": 0,
@@ -40,7 +46,10 @@
       "indexPage": "The Canadian Soldiers' Song Book",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Canadian_Soldiers%27_Song_Book",
       "provider": "Wikisource",
-      "themes": ["Soldier song", "Historical song"],
+      "themes": [
+        "Soldier song",
+        "Historical song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1918 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
@@ -55,7 +64,10 @@
       "indexPage": "Irish Melodies",
       "sourceUrl": "https://en.wikisource.org/wiki/Irish_Melodies",
       "provider": "Wikisource",
-      "themes": ["Irish song", "Romantic ballad"],
+      "themes": [
+        "Irish song",
+        "Romantic ballad"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every lyric in this collection was written by Thomas Moore (1779-1852) and first published between 1808 and 1821 (music arranged by John Stevenson, 1761-1833); both contributors died more than 170 years ago, so the text is in the public domain worldwide, and the edition carries a pre-1931 United States public-domain tag.",
       "maxSubpages": 0,
@@ -70,7 +82,10 @@
       "indexPage": "The Poetical Works of Robert Burns",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Poetical_Works_of_Robert_Burns",
       "provider": "Wikisource",
-      "themes": ["Scottish song", "Song lyrics"],
+      "themes": [
+        "Scottish song",
+        "Song lyrics"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every text in this 1887 collected edition is by Robert Burns (1759-1796), who died more than 230 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination and a pre-1931 United States publication.",
       "maxSubpages": 0,
@@ -85,7 +100,10 @@
       "indexPage": "Songs of Innocence and of Experience (1826)",
       "sourceUrl": "https://en.wikisource.org/wiki/Songs_of_Innocence_and_of_Experience_(1826)",
       "provider": "Wikisource",
-      "themes": ["Song lyrics", "Romantic"],
+      "themes": [
+        "Song lyrics",
+        "Romantic"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every text in this 1826 collection is by William Blake (1757-1827), who died more than 190 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
@@ -100,7 +118,10 @@
       "indexPage": "The Scottish Minstrel (Second Series)",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Scottish_Minstrel_(Second_Series)",
       "provider": "Wikisource",
-      "themes": ["Scottish song", "Folk"],
+      "themes": [
+        "Scottish song",
+        "Folk"
+      ],
       "rights": "unconditional",
       "rightsNote": "Every contribution in this 1851 anthology predates modern copyright terms; any contributor died more than 130 years ago, so the text is in the public domain worldwide.",
       "maxSubpages": 0,
@@ -115,7 +136,10 @@
       "indexPage": "Mediaeval Hymns and Sequences",
       "sourceUrl": "https://en.wikisource.org/wiki/Mediaeval_Hymns_and_Sequences",
       "provider": "Wikisource",
-      "themes": ["Hymn", "Mediaeval song"],
+      "themes": [
+        "Hymn",
+        "Mediaeval song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1867 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author or translator died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
@@ -130,7 +154,10 @@
       "indexPage": "Catholic Hymns (1860)",
       "sourceUrl": "https://en.wikisource.org/wiki/Catholic_Hymns_(1860)",
       "provider": "Wikisource",
-      "themes": ["Hymn", "Sacred song"],
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1860 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
@@ -145,7 +172,10 @@
       "indexPage": "Songs of French Canada",
       "sourceUrl": "https://en.wikisource.org/wiki/Songs_of_French_Canada",
       "provider": "Wikisource",
-      "themes": ["Folk song", "Canadian song"],
+      "themes": [
+        "Folk song",
+        "Canadian song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1909 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author or translator died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
@@ -160,7 +190,10 @@
       "indexPage": "National Ballad and Song",
       "sourceUrl": "https://en.wikisource.org/wiki/National_Ballad_and_Song",
       "provider": "Wikisource",
-      "themes": ["Ballad", "National song"],
+      "themes": [
+        "Ballad",
+        "National song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1897 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; other entries are held.",
       "maxSubpages": 0,
@@ -175,11 +208,19 @@
       "indexPage": "Rump Songs",
       "sourceUrl": "https://en.wikisource.org/wiki/Rump_Songs",
       "provider": "Wikisource",
-      "themes": ["Political song", "Historical song"],
+      "themes": [
+        "Political song",
+        "Historical song"
+      ],
       "rights": "unconditional",
       "rightsNote": "This 1662 collection (Rump: or an Exact Collection of the Choycest Poems and Songs Relating to the Late Times, 1639-1661) is credited to Alexander Brome (died 1666); every contributor died more than 330 years ago, so the text is in the public domain worldwide, and the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
-      "authorOverrides": {}
+      "authorOverrides": {},
+      "titlePath": "last",
+      "excludeTitles": [
+        "Part 1",
+        "Part 2"
+      ]
     },
     {
       "id": "army-navy-hymnal-1920",
@@ -190,11 +231,23 @@
       "indexPage": "The Army and Navy Hymnal",
       "sourceUrl": "https://en.wikisource.org/wiki/The_Army_and_Navy_Hymnal",
       "provider": "Wikisource",
-      "themes": ["Hymn", "Sacred song"],
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
       "rights": "author-death",
       "rightsNote": "The 1920 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional and anonymous entries are public domain. Pages whose scan quality is below the proofread threshold are held for review.",
       "maxSubpages": 0,
-      "authorOverrides": {}
+      "authorOverrides": {},
+      "titlePath": "last",
+      "excludeTitles": [
+        "Catholic",
+        "Hymns",
+        "Secular",
+        "Readings",
+        "Orders of Worship",
+        "First Lines of Hymns"
+      ]
     }
   ]
 }

@@ -298,8 +298,12 @@ for (const book of config.books) {
   }
 
   for (const [index, pageTitle] of targets.entries()) {
-    const sectionTitle = pageTitle.slice(book.prefix.length).replace(/^"+|"+$/g, '').trim();
+    let sectionTitle = pageTitle.slice(book.prefix.length).replace(/^"+|"+$/g, '').trim();
+    if (book.titlePath === 'last') sectionTitle = sectionTitle.split('/').pop().trim();
     try {
+      // Folder and index pages (for example a hymnal's first-lines index) are
+      // navigation, not works; exclude them by their resolved title.
+      if ((book.excludeTitles ?? []).includes(sectionTitle)) continue;
       const revid = revids.get(pageTitle);
       if (!revid) throw new Error('no revision found');
 
