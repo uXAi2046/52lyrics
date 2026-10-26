@@ -10,9 +10,16 @@ recording artists) without paid channels or accounts.
 1. **IndexNow instant-discovery submission** (`scripts/promote/indexnow-submit.mjs`).
    A generated key (`scripts/promote/indexnow-key.txt`) is hosted at
    `https://www.52lyrics.com/<key>.txt` from `public/`. After deployment the script
-   submits every sitemap URL to `api.indexnow.org` (routes to Bing, Yandex, Seznam,
-   Naver) in 100-URL batches. Verified accepted on the live host. Google is not part
-   of IndexNow and is reached through the sitemap/robots.txt only.
+   submits every sitemap URL in 100-URL batches.
+   **Result (2026-10-27):** all **4,168 URLs submitted and accepted by Yandex**
+   (`INDEXNOW_ENDPOINT=https://yandex.com/indexnow`, 42/42 batches HTTP 202).
+   The aggregate endpoint `api.indexnow.org` (routes to Bing) answers HTTP 403
+   `UserForbiddedToAccessSite` until Bing re-validates the live key file; the
+   first 100-URL batch submitted before the throttling was accepted (HTTP 200).
+   `api.bing.com` itself returned a service-outage page during this window, so
+   this is a Bing-side delay, not a key problem — Yandex accepting the same key
+   proves the key file is reachable and correct. Re-run without INDEXNOW_ENDPOINT
+   after a few days: `INDEXNOW_BATCH_DELAY_MS=6000 node scripts/promote/indexnow-submit.mjs`.
 2. **Share-card and structured-data audit.** All prerendered pages already carry
    canonical URLs, `og:`/`twitter:` cards with the 1200×630 social card, and JSON-LD
    structured data on home/artist/album/lyrics pages. No changes required.

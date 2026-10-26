@@ -27,11 +27,15 @@ if (!urls.length) throw new Error('No URLs found in build/client/sitemap.xml');
 if (!urls.every((url) => url.startsWith(`${siteUrl}/`))) throw new Error('Sitemap contains foreign URLs');
 
 const batchSize = 100;
+const batchDelayMs = Number(process.env.INDEXNOW_BATCH_DELAY_MS ?? 5000);
+// api.indexnow.org routes to all engines but rejects a key until Bing itself has
+// re-validated the key file; yandex.com accepts the same key independently.
+const endpoint = process.env.INDEXNOW_ENDPOINT ?? 'https://api.indexnow.org/indexnow';
 let submitted = 0;
 const failures = [];
 for (let offset = 0; offset < urls.length; offset += batchSize) {
   const batch = urls.slice(offset, offset + batchSize);
-  const response = await fetch('https://api.indexnow.org/indexnow', {
+  const response = await fetch(endpoint, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json; charset=utf-8' },
     body: JSON.stringify({ host: 'www.52lyrics.com', key, keyLocation: `${siteUrl}/${keyFile}`, urlList: batch }),
@@ -44,7 +48,8 @@ for (let offset = 0; offset < urls.length; offset += batchSize) {
     failures.push({ offset, status: response.status, body: (await response.text()).slice(0, 200) });
     console.error(`batch ${offset / batchSize + 1}: HTTP ${response.status}`);
   }
-  await new Promise((done) => setTimeout(done, 500));
+  // IndexNow throttles bursts per key with HTTP 403/429; a slow fixed pace is expected.
+  await new Promise((done) => setTimeout(done, batchDelayMs));
 }
-console.log(JSON.stringify({ submitted, failedBatches: failures.length, keyFile, total: urls.length }));
+console.log(JSON.stringify({ submitted, failedBatches: failures.length, keyFile, endpoint, total: urls.length }));
 if (failures.length) process.exit(1);
