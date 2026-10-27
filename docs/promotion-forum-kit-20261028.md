@@ -159,3 +159,13 @@ manually (a few minutes per community), or to log in first and then have the
 browser session used to fill and submit a pre-approved draft with a final human
 confirmation. Bypassing the bot walls (Cloudflare challenge, captchas) was not
 attempted and should not be.
+
+## Search-engine coverage update (2026-10-28)
+
+- Seznam IndexNow endpoint verified and the full sitemap (5,620 URLs) accepted
+  (INDEXNOW_ENDPOINT=https://search.seznam.cz/indexnow).
+- Bing's legacy /ping endpoint returns 410 (removed). Bing remains reachable only
+  through api.indexnow.org once it re-validates the hosted key file — re-run the
+  submission script without INDEXNOW_ENDPOINT every few days.
+- Reddit is network-blocked from this environment at the IP level; it cannot be used
+  for posting here regardless of login.
