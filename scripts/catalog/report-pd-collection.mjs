@@ -32,6 +32,11 @@ const bookTitle = (id) => ({
   'hood-poetical-1873': 'The Poetical Works of Thomas Hood (1873)',
   'whittier-poetical-1895': 'The Complete Poetical Works of John Greenleaf Whittier (1895)',
   'keats-poetical-1884': 'The Poetical Works of John Keats (1884)',
+  'sons-tyne-garland-1770': "Sons of the Tyne's Garland (1770)",
+  'hymns-resurrection-1746': "Hymns for our Lord's Resurrection (1746)",
+  'methodist-hymns-1876': 'A Collection of Hymns, for the Use of the People Called Methodists (1876)',
+  'bennachie-budget-1879': 'The Bennachie Budget (1879)',
+  'church-hymnary-1893': 'The Church Hymnary (1893)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>

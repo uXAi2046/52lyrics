@@ -400,6 +400,96 @@
       "rightsNote": "Every text in this 1884 collected edition is by John Keats (1795-1821), who died more than 200 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "sons-tyne-garland-1770",
+      "prefix": "Sons of the Tyne's garland/",
+      "title": "Sons of the Tyne's Garland",
+      "year": 1770,
+      "editor": null,
+      "indexPage": "Sons of the Tyne's Garland",
+      "sourceUrl": "https://en.wikisource.org/wiki/Sons_of_the_Tyne%27s_garland",
+      "provider": "Wikisource",
+      "themes": [
+        "Tyneside song",
+        "Historical song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every contribution in this 1770 garland predates modern copyright terms; any contributor died more than 230 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "hymns-resurrection-1746",
+      "prefix": "Hymns for our Lord's Resurrection/",
+      "title": "Hymns for our Lord's Resurrection",
+      "year": 1746,
+      "editor": null,
+      "indexPage": "Hymns for our Lord's Resurrection",
+      "sourceUrl": "https://en.wikisource.org/wiki/Hymns_for_our_Lord%27s_Resurrection",
+      "provider": "Wikisource",
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1746 collection is by Charles Wesley (1707-1788), who died more than 230 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "methodist-hymns-1876",
+      "prefix": "A Collection of Hymns, for the Use of the People Called Methodists (1876)/",
+      "title": "A Collection of Hymns, for the Use of the People Called Methodists (1876)",
+      "year": 1876,
+      "editor": null,
+      "indexPage": "A Collection of Hymns, for the Use of the People Called Methodists (1876)",
+      "sourceUrl": "https://en.wikisource.org/wiki/A_Collection_of_Hymns,_for_the_Use_of_the_People_Called_Methodists_(1876)",
+      "provider": "Wikisource",
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "The hymns in this 1876 Methodist collection are by John Wesley (1703-1791) and Charles Wesley (1707-1788); both died more than 230 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "bennachie-budget-1879",
+      "prefix": "The Bennachie budget/",
+      "title": "The Bennachie Budget",
+      "year": 1879,
+      "editor": null,
+      "indexPage": "The Bennachie Budget",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Bennachie_budget",
+      "provider": "Wikisource",
+      "themes": [
+        "Scottish song",
+        "Chapbook"
+      ],
+      "rights": "author-death",
+      "rightsNote": "The 1879 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional entries are public domain.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "church-hymnary-1893",
+      "prefix": "The Church Hymnary/",
+      "title": "The Church Hymnary",
+      "year": 1893,
+      "editor": null,
+      "indexPage": "The Church Hymnary",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Church_Hymnary",
+      "provider": "Wikisource",
+      "themes": [
+        "Hymn",
+        "Sacred song"
+      ],
+      "rights": "author-death",
+      "rightsNote": "The 1893 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author or translator died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional entries are public domain.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }
