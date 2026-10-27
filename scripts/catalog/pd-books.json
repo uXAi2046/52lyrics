@@ -490,6 +490,42 @@
       "rightsNote": "The 1893 published edition is in the public domain in the United States (pre-1931 publication). Entries whose credited author or translator died more than 70 years ago are also in the public domain in life-plus-70 jurisdictions; traditional entries are public domain.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "dunbar-poems-1913",
+      "prefix": "The Complete Poems of Paul Laurence Dunbar/",
+      "title": "The Complete Poems of Paul Laurence Dunbar",
+      "year": 1913,
+      "editor": null,
+      "indexPage": "The Complete Poems of Paul Laurence Dunbar",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Paul_Laurence_Dunbar",
+      "provider": "Wikisource",
+      "themes": [
+        "Song lyrics",
+        "Dialect song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this collected edition is by Paul Laurence Dunbar (1872-1906); his works entered the public domain in life-plus-70 jurisdictions in 1977, and the 1913 edition is in the public domain in the United States. The edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "poems-on-slavery-1842",
+      "prefix": "Poems on Slavery/",
+      "title": "Poems on Slavery",
+      "year": 1842,
+      "editor": null,
+      "indexPage": "Poems on Slavery",
+      "sourceUrl": "https://en.wikisource.org/wiki/Poems_on_Slavery",
+      "provider": "Wikisource",
+      "themes": [
+        "Historical song",
+        "Abolition song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1842 collection is by Henry Wadsworth Longfellow (1807-1882), who died more than 140 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }

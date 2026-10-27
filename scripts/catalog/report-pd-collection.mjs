@@ -37,6 +37,8 @@ const bookTitle = (id) => ({
   'methodist-hymns-1876': 'A Collection of Hymns, for the Use of the People Called Methodists (1876)',
   'bennachie-budget-1879': 'The Bennachie Budget (1879)',
   'church-hymnary-1893': 'The Church Hymnary (1893)',
+  'dunbar-poems-1913': 'The Complete Poems of Paul Laurence Dunbar (1913)',
+  'poems-on-slavery-1842': 'Poems on Slavery (1842)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>
