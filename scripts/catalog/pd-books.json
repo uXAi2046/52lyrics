@@ -364,6 +364,42 @@
       "rightsNote": "Every text in this 1873 collected edition is by Thomas Hood (1799-1845), who died more than 180 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "whittier-poetical-1895",
+      "prefix": "The Complete Poetical Works of John Greenleaf Whittier/",
+      "title": "The Complete Poetical Works of John Greenleaf Whittier",
+      "year": 1895,
+      "editor": null,
+      "indexPage": "The Complete Poetical Works of John Greenleaf Whittier",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Complete_Poetical_Works_of_John_Greenleaf_Whittier",
+      "provider": "Wikisource",
+      "themes": [
+        "Ballad",
+        "American song"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1895 collected edition is by John Greenleaf Whittier (1807-1892), who died more than 133 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
+    },
+    {
+      "id": "keats-poetical-1884",
+      "prefix": "The Poetical Works of John Keats/",
+      "title": "The Poetical Works of John Keats",
+      "year": 1884,
+      "editor": null,
+      "indexPage": "The Poetical Works of John Keats",
+      "sourceUrl": "https://en.wikisource.org/wiki/The_Poetical_Works_of_John_Keats",
+      "provider": "Wikisource",
+      "themes": [
+        "Song lyrics",
+        "Romantic"
+      ],
+      "rights": "unconditional",
+      "rightsNote": "Every text in this 1884 collected edition is by John Keats (1795-1821), who died more than 200 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }

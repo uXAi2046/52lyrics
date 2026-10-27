@@ -30,6 +30,8 @@ const bookTitle = (id) => ({
   'shropshire-lad-1896': 'A Shropshire Lad (1896)',
   'man-from-snowy-river-1895': 'The Man from Snowy River and Other Verses (1895)',
   'hood-poetical-1873': 'The Poetical Works of Thomas Hood (1873)',
+  'whittier-poetical-1895': 'The Complete Poetical Works of John Greenleaf Whittier (1895)',
+  'keats-poetical-1884': 'The Poetical Works of John Keats (1884)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>
