@@ -137,3 +137,25 @@ required. Reply to comments as yourself.*
 - 不要用脚本或浏览器自动化批量发帖——违反各站 ToS，且会被判定 spam 连累域名。
 - 不要在未登录自己的账号、未披露身份的情况下发。
 - 同一篇文案原样贴多个社区（会被交叉识别）；每篇至少改写开头两行。
+
+## Community posting audit (2026-10-28)
+
+An automated pass through the in-app browser checked every target community for an
+existing logged-in session that posts could be submitted through:
+
+| Community | Session found | Automated access result |
+| --- | --- | --- |
+| Hacker News | No | Rate-limited (`not able to serve your requests this quickly`) |
+| V2EX | No | Cloudflare bot challenge |
+| Reddit | No | `You've been blocked by network security`; login required |
+| Zhihu | No | Redirected to phone/captcha sign-in |
+| Douban | Not checked | Same login/captcha class as Zhihu |
+
+None of the communities has a session to post through, and registering accounts
+automatically is not possible or permissible: each requires personal credentials
+(phone/e-mail verification or captcha), and automated registration/posting violates
+their terms. The kit above therefore requires the account owner to log in and post
+manually (a few minutes per community), or to log in first and then have the
+browser session used to fill and submit a pre-approved draft with a final human
+confirmation. Bypassing the bot walls (Cloudflare challenge, captchas) was not
+attempted and should not be.
