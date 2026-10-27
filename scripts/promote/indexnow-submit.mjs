@@ -35,18 +35,31 @@ let submitted = 0;
 const failures = [];
 for (let offset = 0; offset < urls.length; offset += batchSize) {
   const batch = urls.slice(offset, offset + batchSize);
-  const response = await fetch(endpoint, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json; charset=utf-8' },
-    body: JSON.stringify({ host: 'www.52lyrics.com', key, keyLocation: `${siteUrl}/${keyFile}`, urlList: batch }),
-  });
-  // 200/202 accepted; 400-422 key or URL problems; 429 rate limited.
-  if (response.status === 200 || response.status === 202) {
+  let response;
+  // The endpoint or the local proxy occasionally drops long-running submit
+  // sessions; batches are idempotent, so retry each one before giving up.
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json; charset=utf-8' },
+        body: JSON.stringify({ host: 'www.52lyrics.com', key, keyLocation: `${siteUrl}/${keyFile}`, urlList: batch }),
+      });
+      break;
+    } catch (error) {
+      if (attempt === 3) failures.push({ offset, status: `network: ${error.cause?.code ?? error.message}` , body: '' });
+      else await new Promise((done) => setTimeout(done, attempt * 3000));
+    }
+  }
+  // 200/202 accepted; 400-422 key or URL problems; 403/429 throttled.
+  if (response && (response.status === 200 || response.status === 202)) {
     submitted += batch.length;
     console.log(`batch ${offset / batchSize + 1}: accepted (${submitted}/${urls.length})`);
-  } else {
+  } else if (response) {
     failures.push({ offset, status: response.status, body: (await response.text()).slice(0, 200) });
     console.error(`batch ${offset / batchSize + 1}: HTTP ${response.status}`);
+  } else {
+    console.error(`batch ${offset / batchSize + 1}: network failure after 3 attempts`);
   }
   // IndexNow throttles bursts per key with HTTP 403/429; a slow fixed pace is expected.
   await new Promise((done) => setTimeout(done, batchDelayMs));
