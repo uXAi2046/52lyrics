@@ -1254,5 +1254,9 @@
   "Banjo Paterson": {
     "deathYear": 1941,
     "source": "wikidata-Q436699"
+  },
+  "Thomas Hardy": {
+    "deathYear": 1928,
+    "source": "wikidata-Q132805"
   }
 }

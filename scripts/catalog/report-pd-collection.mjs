@@ -39,6 +39,7 @@ const bookTitle = (id) => ({
   'church-hymnary-1893': 'The Church Hymnary (1893)',
   'dunbar-poems-1913': 'The Complete Poems of Paul Laurence Dunbar (1913)',
   'poems-on-slavery-1842': 'Poems on Slavery (1842)',
+  'hardy-wessex-poems-1899': 'Wessex Poems and Other Verses (1899)',
 })[id] ?? id;
 
 const worksTable = (records) => records.map((record) =>

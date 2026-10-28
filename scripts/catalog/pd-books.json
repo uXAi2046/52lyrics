@@ -526,6 +526,24 @@
       "rightsNote": "Every text in this 1842 collection is by Henry Wadsworth Longfellow (1807-1882), who died more than 140 years ago, so the text is in the public domain worldwide; the edition carries a Wikisource PD-old determination.",
       "maxSubpages": 0,
       "authorOverrides": {}
+    },
+    {
+      "id": "hardy-wessex-poems-1899",
+      "prefix": "Wessex Poems and Other Verses/",
+      "title": "Wessex Poems and Other Verses",
+      "year": 1899,
+      "editor": null,
+      "indexPage": "Wessex Poems and Other Verses",
+      "sourceUrl": "https://en.wikisource.org/wiki/Wessex_Poems_and_Other_Verses",
+      "provider": "Wikisource",
+      "themes": [
+        "Song lyrics",
+        "Wessex verse"
+      ],
+      "rights": "author-death",
+      "rightsNote": "The 1899 published edition is in the public domain in the United States (pre-1931 publication). Thomas Hardy (1840-1928) died more than 96 years ago and his works entered the public domain in life-plus-70 jurisdictions in 1999; entries credited to other hands are held unless their author died more than 70 years ago.",
+      "maxSubpages": 0,
+      "authorOverrides": {}
     }
   ]
 }
