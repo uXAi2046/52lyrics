@@ -1,6 +1,10 @@
 # 52lyrics
 
+**Live site: [https://www.52lyrics.com](https://www.52lyrics.com)** — read every complete lyric at [/lyrics](https://www.52lyrics.com/lyrics).
+
 52lyrics is a rights-aware song discovery and lyric-reading experience. Search the catalog, read complete original and public-domain lyrics, follow connections between songs, writers, artists, and albums, and save items locally without creating an account.
+
+**Current catalog:** 1,270 recording artists with sourced discographies (MusicBrainz, CC0), 1,167 Commons-licensed photographs with per-page credits, and 2,254 complete lyric works — each pinning its printed source edition, transcribed revision, and rights evidence (historical songbooks from 1746 to 1921, including Robert Burns' 1887 Poetical Works, Blake's Songs of Innocence and of Experience, Whittier, Keats, and Dunbar).
 
 ## Quick start
 
